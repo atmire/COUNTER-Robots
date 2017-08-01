@@ -1,0 +1,791 @@
+[
+  {
+    "pattern": "bot"
+  },
+  {
+    "pattern": "spider"
+  },
+  {
+    "pattern": "crawl"
+  },
+  {
+    "pattern": "^.?$"
+  },
+  {
+    "pattern": "[^a]fish"
+  },
+  {
+    "pattern": "^IDA$"
+  },
+  {
+    "pattern": "^ruby$"
+  },
+  {
+    "pattern": "^voyager\\/"
+  },
+  {
+    "pattern": "^@ozilla\\/\\d"
+  },
+  {
+    "pattern": "^脝脝陆芒潞贸碌脛$"
+  },
+  {
+    "pattern": "^破解后的$"
+  },
+  {
+    "pattern": "AddThis"
+  },
+  {
+    "pattern": "ADmantX"
+  },
+  {
+    "pattern": "alexa"
+  },
+  {
+    "pattern": "Alexandria(\\s|\\+)prototype(\\s|\\+)project"
+  },
+  {
+    "pattern": "AllenTrack"
+  },
+  {
+    "pattern": "almaden"
+  },
+  {
+    "pattern": "appie"
+  },
+  {
+    "pattern": "Arachmo"
+  },
+  {
+    "pattern": "architext"
+  },
+  {
+    "pattern": "aria2\\/\\d"
+  },
+  {
+    "pattern": "arks"
+  },
+  {
+    "pattern": "^Array$"
+  },
+  {
+    "pattern": "asterias"
+  },
+  {
+    "pattern": "atomz"
+  },
+  {
+    "pattern": "BDFetch"
+  },
+  {
+    "pattern": "Betsie"
+  },
+  {
+    "pattern": "baidu"
+  },
+  {
+    "pattern": "biglotron"
+  },
+  {
+    "pattern": "BingPreview"
+  },
+  {
+    "pattern": "binlar"
+  },
+  {
+    "pattern": "bjaaland"
+  },
+  {
+    "pattern": "Blackboard[\\+\\s]Safeassign"
+  },
+  {
+    "pattern": "blaiz\\-bee"
+  },
+  {
+    "pattern": "bloglines"
+  },
+  {
+    "pattern": "blogpulse"
+  },
+  {
+    "pattern": "boitho\\.com\\-dc"
+  },
+  {
+    "pattern": "bookmark\\-manager"
+  },
+  {
+    "pattern": "Brutus\\/AET"
+  },
+  {
+    "pattern": "bwh3_user_agent"
+  },
+  {
+    "pattern": "CakePHP"
+  },
+  {
+    "pattern": "celestial"
+  },
+  {
+    "pattern": "cfnetwork"
+  },
+  {
+    "pattern": "checklink"
+  },
+  {
+    "pattern": "checkprivacy"
+  },
+  {
+    "pattern": "China\\sLocal\\sBrowse\\s2\\.6"
+  },
+  {
+    "pattern": "cloakDetect"
+  },
+  {
+    "pattern": "coccoc\\/1\\.0"
+  },
+  {
+    "pattern": "Code\\sSample\\sWeb\\sClient"
+  },
+  {
+    "pattern": "ColdFusion"
+  },
+  {
+    "pattern": "collection@infegy.com"
+  },
+  {
+    "pattern": "com\\.plumanalytics"
+  },
+  {
+    "pattern": "combine"
+  },
+  {
+    "pattern": "contentmatch"
+  },
+  {
+    "pattern": "ContentSmartz"
+  },
+  {
+    "pattern": "convera"
+  },
+  {
+    "pattern": "core"
+  },
+  {
+    "pattern": "CoverScout"
+  },
+  {
+    "pattern": "curl\\/"
+  },
+  {
+    "pattern": "cursor"
+  },
+  {
+    "pattern": "custo"
+  },
+  {
+    "pattern": "DataCha0s\\/2\\.0"
+  },
+  {
+    "pattern": "daumoa"
+  },
+  {
+    "pattern": "^\\%?default\\%?$"
+  },
+  {
+    "pattern": "DeuSu\\/"
+  },
+  {
+    "pattern": "Dispatch\\/\\d"
+  },
+  {
+    "pattern": "docomo"
+  },
+  {
+    "pattern": "Download\\+Master"
+  },
+  {
+    "pattern": "DSurf"
+  },
+  {
+    "pattern": "easydl"
+  },
+  {
+    "pattern": "EBSCO\\sEJS\\sContent\\sServer"
+  },
+  {
+    "pattern": "ELinks\\/"
+  },
+  {
+    "pattern": "EmailSiphon"
+  },
+  {
+    "pattern": "EmailWolf"
+  },
+  {
+    "pattern": "Embedly"
+  },
+  {
+    "pattern": "EThOS\\+\\(British\\+Library\\)"
+  },
+  {
+    "pattern": "facebookexternalhit\\/"
+  },
+  {
+    "pattern": "favorg"
+  },
+  {
+    "pattern": "FDM(\\s|\\+)\\d"
+  },
+  {
+    "pattern": "feedburner"
+  },
+  {
+    "pattern": "FeedFetcher"
+  },
+  {
+    "pattern": "feedreader"
+  },
+  {
+    "pattern": "ferret"
+  },
+  {
+    "pattern": "Fetch(\\s|\\+)API(\\s|\\+)Request"
+  },
+  {
+    "pattern": "findlinks"
+  },
+  {
+    "pattern": "findthatfile"
+  },
+  {
+    "pattern": "^FileDown$"
+  },
+  {
+    "pattern": "^Filter$"
+  },
+  {
+    "pattern": "^firefox$"
+  },
+  {
+    "pattern": "^FOCA"
+  },
+  {
+    "pattern": "Fulltext"
+  },
+  {
+    "pattern": "Funnelback"
+  },
+  {
+    "pattern": "GetRight"
+  },
+  {
+    "pattern": "geturl"
+  },
+  {
+    "pattern": "GLMSLinkAnalysis"
+  },
+  {
+    "pattern": "Goldfire(\\s|\\+)Server"
+  },
+  {
+    "pattern": "google"
+  },
+  {
+    "pattern": "grub"
+  },
+  {
+    "pattern": "gulliver"
+  },
+  {
+    "pattern": "gvfs\\/"
+  },
+  {
+    "pattern": "harvest"
+  },
+  {
+    "pattern": "heritrix"
+  },
+  {
+    "pattern": "holmes"
+  },
+  {
+    "pattern": "htdig"
+  },
+  {
+    "pattern": "htmlparser"
+  },
+  {
+    "pattern": "HttpComponents\\/1.1"
+  },
+  {
+    "pattern": "HTTPFetcher"
+  },
+  {
+    "pattern": "http.?client"
+  },
+  {
+    "pattern": "httpget"
+  },
+  {
+    "pattern": "httrack"
+  },
+  {
+    "pattern": "ia_archiver"
+  },
+  {
+    "pattern": "ichiro"
+  },
+  {
+    "pattern": "iktomi"
+  },
+  {
+    "pattern": "ilse"
+  },
+  {
+    "pattern": "Indy Library"
+  },
+  {
+    "pattern": "^integrity\\/\\d"
+  },
+  {
+    "pattern": "internetseer"
+  },
+  {
+    "pattern": "intute"
+  },
+  {
+    "pattern": "iSiloX"
+  },
+  {
+    "pattern": "iskanie"
+  },
+  {
+    "pattern": "^java\\/\\d{1,2}.\\d"
+  },
+  {
+    "pattern": "jeeves"
+  },
+  {
+    "pattern": "jobo"
+  },
+  {
+    "pattern": "kyluka"
+  },
+  {
+    "pattern": "larbin"
+  },
+  {
+    "pattern": "libcurl"
+  },
+  {
+    "pattern": "libhttp"
+  },
+  {
+    "pattern": "libwww"
+  },
+  {
+    "pattern": "lilina"
+  },
+  {
+    "pattern": "link.?check"
+  },
+  {
+    "pattern": "LinkLint-checkonly"
+  },
+  {
+    "pattern": "^LinkParser\\/"
+  },
+  {
+    "pattern": "^LinkSaver\\/"
+  },
+  {
+    "pattern": "linkscan"
+  },
+  {
+    "pattern": "linkwalker"
+  },
+  {
+    "pattern": "lipperhey"
+  },
+  {
+    "pattern": "livejournal\\.com"
+  },
+  {
+    "pattern": "LOCKSS"
+  },
+  {
+    "pattern": "LongURL.API"
+  },
+  {
+    "pattern": "ltx71"
+  },
+  {
+    "pattern": "lwp"
+  },
+  {
+    "pattern": "lycos[\\_\\+]"
+  },
+  {
+    "pattern": "mail.ru"
+  },
+  {
+    "pattern": "MarcEdit.5.2.Web.Client"
+  },
+  {
+    "pattern": "mediapartners\\-google"
+  },
+  {
+    "pattern": "megite"
+  },
+  {
+    "pattern": "MetaURI[\\+\\s]API\\/\\d\\.\\d"
+  },
+  {
+    "pattern": "Microsoft(\\s|\\+)URL(\\s|\\+)Control"
+  },
+  {
+    "pattern": "Microsoft Office Existence Discovery"
+  },
+  {
+    "pattern": "Microsoft Office Protocol Discovery"
+  },
+  {
+    "pattern": "Microsoft-WebDAV-MiniRedir"
+  },
+  {
+    "pattern": "mimas"
+  },
+  {
+    "pattern": "mnogosearch"
+  },
+  {
+    "pattern": "moget"
+  },
+  {
+    "pattern": "motor"
+  },
+  {
+    "pattern": "^Mozilla$"
+  },
+  {
+    "pattern": "^Mozilla.4\\.0$"
+  },
+  {
+    "pattern": "^Mozilla\\/4\\.0\\+\\(compatible;\\)$"
+  },
+  {
+    "pattern": "^Mozilla\\/4\\.0\\+\\(compatible;\\+ICS\\)$"
+  },
+  {
+    "pattern": "^Mozilla\\/4\\.5\\+\\[en]\\+\\(Win98;\\+I\\)$"
+  },
+  {
+    "pattern": "^Mozilla.5\\.0$"
+  },
+  {
+    "pattern": "^Mozilla\\/5.0\\+\\(compatible;\\+MSIE\\+6\\.0;\\+Windows\\+NT\\+5\\.0\\)$"
+  },
+  {
+    "pattern": "^Mozilla\\/5\\.0\\+like\\+Gecko$"
+  },
+  {
+    "pattern": "^Mozilla\\/5.0(\\s|\\+)Gecko\\/20100115(\\s|\\+)Firefox\\/3.6$"
+  },
+  {
+    "pattern": "^MSIE"
+  },
+  {
+    "pattern": "MuscatFerre"
+  },
+  {
+    "pattern": "myweb"
+  },
+  {
+    "pattern": "nagios"
+  },
+  {
+    "pattern": "^NetAnts\\/\\d"
+  },
+  {
+    "pattern": "netcraft"
+  },
+  {
+    "pattern": "netluchs"
+  },
+  {
+    "pattern": "ng\\/2\\."
+  },
+  {
+    "pattern": "Ning"
+  },
+  {
+    "pattern": "no_user_agent"
+  },
+  {
+    "pattern": "nomad"
+  },
+  {
+    "pattern": "nutch"
+  },
+  {
+    "pattern": "ocelli"
+  },
+  {
+    "pattern": "Offline(\\s|\\+)Navigator"
+  },
+  {
+    "pattern": "onetszukaj"
+  },
+  {
+    "pattern": "^Opera\\/4$"
+  },
+  {
+    "pattern": "OurBrowser"
+  },
+  {
+    "pattern": "panscient"
+  },
+  {
+    "pattern": "parsijoo"
+  },
+  {
+    "pattern": "pear.php.net"
+  },
+  {
+    "pattern": "perman"
+  },
+  {
+    "pattern": "PHP\\/"
+  },
+  {
+    "pattern": "pioneer"
+  },
+  {
+    "pattern": "playmusic\\.com"
+  },
+  {
+    "pattern": "playstarmusic\\.com"
+  },
+  {
+    "pattern": "^Postgenomic(\\s|\\+)v2"
+  },
+  {
+    "pattern": "powermarks"
+  },
+  {
+    "pattern": "proximic"
+  },
+  {
+    "pattern": "PycURL"
+  },
+  {
+    "pattern": "python"
+  },
+  {
+    "pattern": "Qwantify"
+  },
+  {
+    "pattern": "rambler"
+  },
+  {
+    "pattern": "Readpaper"
+  },
+  {
+    "pattern": "redalert"
+  },
+  {
+    "pattern": "robozilla"
+  },
+  {
+    "pattern": "rss"
+  },
+  {
+    "pattern": "scan4mail"
+  },
+  {
+    "pattern": "scientificcommons"
+  },
+  {
+    "pattern": "scirus"
+  },
+  {
+    "pattern": "scooter"
+  },
+  {
+    "pattern": "Scrapy\\/\\d"
+  },
+  {
+    "pattern": "^scrutiny\\/\\d"
+  },
+  {
+    "pattern": "SearchBloxIntra"
+  },
+  {
+    "pattern": "shoutcast"
+  },
+  {
+    "pattern": "SkypeUriPreview"
+  },
+  {
+    "pattern": "slurp"
+  },
+  {
+    "pattern": "sogou"
+  },
+  {
+    "pattern": "speedy"
+  },
+  {
+    "pattern": "Strider"
+  },
+  {
+    "pattern": "summify"
+  },
+  {
+    "pattern": "sunrise"
+  },
+  {
+    "pattern": "Sysomos"
+  },
+  {
+    "pattern": "T\\-H\\-U\\-N\\-D\\-E\\-R\\-S\\-T\\-O\\-N\\-E"
+  },
+  {
+    "pattern": "tailrank"
+  },
+  {
+    "pattern": "Teleport(\\s|\\+)Pro"
+  },
+  {
+    "pattern": "Teoma"
+  },
+  {
+    "pattern": "titan"
+  },
+  {
+    "pattern": "^Traackr\\.com$"
+  },
+  {
+    "pattern": "Trove"
+  },
+  {
+    "pattern": "twiceler"
+  },
+  {
+    "pattern": "ucsd"
+  },
+  {
+    "pattern": "ultraseek"
+  },
+  {
+    "pattern": "^undefined$"
+  },
+  {
+    "pattern": "^unknown$"
+  },
+  {
+    "pattern": "URL2File"
+  },
+  {
+    "pattern": "urlaliasbuilder"
+  },
+  {
+    "pattern": "urllib"
+  },
+  {
+    "pattern": "^user.?agent$"
+  },
+  {
+    "pattern": "validator"
+  },
+  {
+    "pattern": "virus.detector"
+  },
+  {
+    "pattern": "voila"
+  },
+  {
+    "pattern": "^voltron$"
+  },
+  {
+    "pattern": "voyager\\/"
+  },
+  {
+    "pattern": "w3af.org"
+  },
+  {
+    "pattern": "Wanadoo"
+  },
+  {
+    "pattern": "Web(\\s|\\+)Downloader"
+  },
+  {
+    "pattern": "WebCloner"
+  },
+  {
+    "pattern": "webcollage"
+  },
+  {
+    "pattern": "WebCopier"
+  },
+  {
+    "pattern": "Webinator"
+  },
+  {
+    "pattern": "weblayers"
+  },
+  {
+    "pattern": "Webmetrics"
+  },
+  {
+    "pattern": "webmirror"
+  },
+  {
+    "pattern": "webmon"
+  },
+  {
+    "pattern": "webreaper"
+  },
+  {
+    "pattern": "WebStripper"
+  },
+  {
+    "pattern": "WebZIP"
+  },
+  {
+    "pattern": "Wget"
+  },
+  {
+    "pattern": "wordpress"
+  },
+  {
+    "pattern": "worm"
+  },
+  {
+    "pattern": "www.gnip.com"
+  },
+  {
+    "pattern": "WWW\\-Mechanize"
+  },
+  {
+    "pattern": "xenu"
+  },
+  {
+    "pattern": "y!j"
+  },
+  {
+    "pattern": "yacy"
+  },
+  {
+    "pattern": "yahoo"
+  },
+  {
+    "pattern": "yandex"
+  },
+  {
+    "pattern": "zeus"
+  },
+  {
+    "pattern": "zyborg"
+  }
+]
