@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cat COUNTER_Robots_list.json | jq -r .[].pattern > COUNTER_Robots_list.txt
+echo "List generated in COUNTER_Robots_list.txt"
