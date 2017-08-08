@@ -11,6 +11,7 @@ This list is open for extension and anyone can make a new pull request with new 
 Every new release will be tagged with a specific month and year. Versions and changes can be viewed in CHANGES.md
 
 ## Format of the list
-The list is available in a JSON format, this for the purpose so we can add extra data like date added, a description, an url, ... . Only the pattern field is obligatory. There is a script included called convert_to_text which will convert the list to a text file with a bot on every line. Just run the script in the same folder as the COUNTER_Robots_list.json file and it will generate a COUNTER_Robots_list.txt file (You need jq for this: https://github.com/stedolan/jq).
+The list is available in a JSON format, this for the purpose so we can add extra data like date added, a description, an url, ... . Only the pattern field is obligatory, dates should be in the following format: YYYY-MM-DD. In the folder generated you can find the list in text format, this is a simplified format with one bot on each line. This file should NOT be edited, as it will be generated from the list in json-format.
+There is a script included called convert_to_text which will convert the list to a text file with a bot on every line. Just run the script in the same folder as the COUNTER_Robots_list.json file and it will generate a COUNTER_Robots_list.txt file (You need jq for this: https://github.com/stedolan/jq).
 
 

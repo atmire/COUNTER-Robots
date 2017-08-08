@@ -1,1054 +1,1054 @@
 [
   {
     "pattern": "bot",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "spider",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "crawl",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^.?$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "[^a]fish",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^IDA$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^ruby$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^voyager\\/",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^@ozilla\\/\\d",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^脝脝陆芒潞贸碌脛$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^破解后的$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "AddThis",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "ADmantX",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "alexa",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Alexandria(\\s|\\+)prototype(\\s|\\+)project",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "AllenTrack",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "almaden",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "appie",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Arachmo",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "architext",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "aria2\\/\\d",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "arks",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^Array$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "asterias",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "atomz",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "BDFetch",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Betsie",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "baidu",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "biglotron",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "BingPreview",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "binlar",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "bjaaland",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Blackboard[\\+\\s]Safeassign",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "blaiz\\-bee",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "bloglines",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "blogpulse",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "boitho\\.com\\-dc",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "bookmark\\-manager",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Brutus\\/AET",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "bwh3_user_agent",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "CakePHP",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "celestial",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "cfnetwork",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "checklink",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "checkprivacy",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "China\\sLocal\\sBrowse\\s2\\.6",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "cloakDetect",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "coccoc\\/1\\.0",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Code\\sSample\\sWeb\\sClient",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "ColdFusion",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "collection@infegy.com",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "com\\.plumanalytics",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "combine",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "contentmatch",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "ContentSmartz",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "convera",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "core",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "CoverScout",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "curl\\/",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "cursor",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "custo",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "DataCha0s\\/2\\.0",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "daumoa",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^\\%?default\\%?$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "DeuSu\\/",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Dispatch\\/\\d",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "docomo",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Download\\+Master",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "DSurf",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "easydl",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "EBSCO\\sEJS\\sContent\\sServer",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "ELinks\\/",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "EmailSiphon",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "EmailWolf",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Embedly",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "EThOS\\+\\(British\\+Library\\)",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "facebookexternalhit\\/",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "favorg",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "FDM(\\s|\\+)\\d",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "feedburner",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "FeedFetcher",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "feedreader",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "ferret",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Fetch(\\s|\\+)API(\\s|\\+)Request",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "findlinks",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "findthatfile",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^FileDown$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^Filter$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^firefox$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^FOCA",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Fulltext",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Funnelback",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "GetRight",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "geturl",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "GLMSLinkAnalysis",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Goldfire(\\s|\\+)Server",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "google",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "grub",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "gulliver",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "gvfs\\/",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "harvest",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "heritrix",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "holmes",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "htdig",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "htmlparser",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "HttpComponents\\/1.1",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "HTTPFetcher",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "http.?client",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "httpget",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "httrack",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "ia_archiver",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "ichiro",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "iktomi",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "ilse",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Indy Library",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^integrity\\/\\d",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "internetseer",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "intute",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "iSiloX",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "iskanie",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^java\\/\\d{1,2}.\\d",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "jeeves",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "jobo",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "kyluka",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "larbin",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "libcurl",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "libhttp",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "libwww",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "lilina",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "link.?check",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "LinkLint-checkonly",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^LinkParser\\/",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^LinkSaver\\/",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "linkscan",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "linkwalker",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "lipperhey",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "livejournal\\.com",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "LOCKSS",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "LongURL.API",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "ltx71",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "lwp",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "lycos[\\_\\+]",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "mail.ru",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "MarcEdit.5.2.Web.Client",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "mediapartners\\-google",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "megite",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "MetaURI[\\+\\s]API\\/\\d\\.\\d",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Microsoft(\\s|\\+)URL(\\s|\\+)Control",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Microsoft Office Existence Discovery",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Microsoft Office Protocol Discovery",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Microsoft-WebDAV-MiniRedir",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "mimas",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "mnogosearch",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "moget",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "motor",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^Mozilla$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^Mozilla.4\\.0$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^Mozilla\\/4\\.0\\+\\(compatible;\\)$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^Mozilla\\/4\\.0\\+\\(compatible;\\+ICS\\)$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^Mozilla\\/4\\.5\\+\\[en]\\+\\(Win98;\\+I\\)$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^Mozilla.5\\.0$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^Mozilla\\/5.0\\+\\(compatible;\\+MSIE\\+6\\.0;\\+Windows\\+NT\\+5\\.0\\)$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^Mozilla\\/5\\.0\\+like\\+Gecko$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^Mozilla\\/5.0(\\s|\\+)Gecko\\/20100115(\\s|\\+)Firefox\\/3.6$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^MSIE",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "MuscatFerre",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "myweb",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "nagios",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^NetAnts\\/\\d",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "netcraft",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "netluchs",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "ng\\/2\\.",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Ning",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "no_user_agent",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "nomad",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "nutch",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "ocelli",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Offline(\\s|\\+)Navigator",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "onetszukaj",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^Opera\\/4$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "OurBrowser",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "panscient",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "parsijoo",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "pear.php.net",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "perman",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "PHP\\/",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "pioneer",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "playmusic\\.com",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "playstarmusic\\.com",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^Postgenomic(\\s|\\+)v2",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "powermarks",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "proximic",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "PycURL",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "python",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Qwantify",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "rambler",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Readpaper",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "redalert",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "robozilla",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "rss",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "scan4mail",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "scientificcommons",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "scirus",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "scooter",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Scrapy\\/\\d",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^scrutiny\\/\\d",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "SearchBloxIntra",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "shoutcast",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "SkypeUriPreview",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "slurp",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "sogou",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "speedy",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Strider",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "summify",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "sunrise",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Sysomos",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "T\\-H\\-U\\-N\\-D\\-E\\-R\\-S\\-T\\-O\\-N\\-E",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "tailrank",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Teleport(\\s|\\+)Pro",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Teoma",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "titan",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^Traackr\\.com$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Trove",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "twiceler",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "ucsd",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "ultraseek",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^undefined$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^unknown$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "URL2File",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "urlaliasbuilder",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "urllib",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^user.?agent$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "validator",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "virus.detector",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "voila",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "^voltron$",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "voyager\\/",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "w3af.org",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Wanadoo",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Web(\\s|\\+)Downloader",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "WebCloner",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "webcollage",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "WebCopier",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Webinator",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "weblayers",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Webmetrics",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "webmirror",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "webmon",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "webreaper",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "WebStripper",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "WebZIP",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "Wget",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "wordpress",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "worm",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "www.gnip.com",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "WWW\\-Mechanize",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "xenu",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "y!j",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "yacy",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "yahoo",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "yandex",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "zeus",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   },
   {
     "pattern": "zyborg",
-    "last_changed": "2017-04-08"
+    "last_changed": "2017-08-08"
   }
 ]
