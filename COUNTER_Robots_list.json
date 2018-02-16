@@ -72,12 +72,23 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "API[\\+\\s]scraper",
+    "last_changed": "2018-02-15",
+    "description": "API scrapers are robots."
+  },
+  {
     "pattern": "Arachmo",
     "last_changed": "2017-08-08"
   },
   {
     "pattern": "architext",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "ArchiveTeam",
+    "last_changed": "2018-02-15",
+    "description": "ArchiveTeam is a robot that is archiving the web.",
+    "url": "https://www.archiveteam.org/"
   },
   {
     "pattern": "aria2\\/\\d",
@@ -154,6 +165,12 @@
   {
     "pattern": "Brutus\\/AET",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "BUbiNG",
+    "last_changed": "2018-02-07",
+    "description": "BUbiNG bot scrapes the internet for contacts and news articles that would be of interest to their students and university.",
+    "url": "http://law.di.unimi.it/BUbiNG.html"
   },
   {
     "pattern": "bwh3_user_agent",
@@ -264,6 +281,12 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "Docoloc",
+    "last_changed": "2018-02-15",
+    "description": "Docoloc bot is a web scraping bot used by the Docoloc plagiarism detection service. Docoloc bot searches papers for text fragments that also occur in other documents by using web scraping. Docoloc bot respects robots.txt.",
+    "url": "https://www.distilnetworks.com/bot-directory/bot/docoloc/"
+  },
+  {
     "pattern": "docomo",
     "last_changed": "2017-08-08"
   },
@@ -274,6 +297,17 @@
   {
     "pattern": "DSurf",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "DTS Agent",
+    "last_changed": "2018-02-15",
+    "description": "DTS Agent is an e-mail harvesting robot."
+  },
+  {
+    "pattern": "EasyBib[\\+\\s]AutoCite[\\+\\s]",
+    "last_changed": "2018-02-15",
+    "description": "Easybib Autocite bot is a web scraping bot that allows users to type in a URL and Easybib bot will automatically scrape the necessary information to properly cite the web page, creating a bibliography. Easybib Autocite bot is not known to cause harm and helps give credit to original content owners.",
+    "url": "https://www.distilnetworks.com/bot-directory/bot/easybib-autocite/"
   },
   {
     "pattern": "easydl",
@@ -376,6 +410,11 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "G-i-g-a-b-o-t",
+    "last_changed": "2018-02-15",
+    "description": "Self-explanatory!"
+  },
+  {
     "pattern": "GLMSLinkAnalysis",
     "last_changed": "2017-08-08"
   },
@@ -386,6 +425,12 @@
   {
     "pattern": "google",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "Grammarly",
+    "last_changed": "2018-02-15",
+    "description": "Grammarly/1.0 bot is a web scraping bot used by the writing tool Grammarly. Grammarly allows users to upload written pieces of work and then scrapes the content looking for grammar mistakes. Grammarly makes sure that everything users type is easy to read, effective, and mistake-free.",
+    "url": "https://www.distilnetworks.com/bot-directory/bot/grammarly1-0/"
   },
   {
     "pattern": "grub",
@@ -534,6 +579,12 @@
   {
     "pattern": "linkscan",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "LinkTiger",
+    "last_changed": "2018-02-15",
+    "description": "LinkTiger is a website link checking product.",
+    "url": "https://linktiger.com/product/"
   },
   {
     "pattern": "linkwalker",
@@ -704,12 +755,24 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "^oaDOI$",
+    "last_changed": "2018-02-15",
+    "description": "oaDOI is a service that indexes open access articles.",
+    "url": "https://oadoi.org/"
+  },
+  {
     "pattern": "ocelli",
     "last_changed": "2017-08-08"
   },
   {
     "pattern": "Offline(\\s|\\+)Navigator",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "^okhttp$",
+    "last_changed": "2018-02-15",
+    "description": "okhttp is a Java HTTP client library.",
+    "url": "http://square.github.io/okhttp/"
   },
   {
     "pattern": "onetszukaj",
@@ -790,6 +853,12 @@
   {
     "pattern": "redalert",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "Riddler",
+    "last_changed": "2018-02-15",
+    "description": "Riddler is an online research project which investigates algorithms for mapping the topology of the Internet. Riddler bot scrapes data about public systems to use in its projects.",
+    "url": "https://www.distilnetworks.com/bot-directory/bot/riddler/"
   },
   {
     "pattern": "robozilla",
