@@ -2,7 +2,7 @@
 This document gives an overview of the different versions and the changes between versions.
 The releases are tagged with the date of the release. Currently, there are no version numbers.
 
-## February 15th, 2018
+## February 16th, 2018
 - Added user-agents:
     - API scraper
     - ArchiveTeam
