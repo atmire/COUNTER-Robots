@@ -16,8 +16,10 @@ Alexandria(\s|\+)prototype(\s|\+)project
 AllenTrack
 almaden
 appie
+API[\+\s]scraper
 Arachmo
 architext
+ArchiveTeam
 aria2\/\d
 arks
 ^Array$
@@ -37,6 +39,7 @@ blogpulse
 boitho\.com\-dc
 bookmark\-manager
 Brutus\/AET
+BUbiNG
 bwh3_user_agent
 CakePHP
 celestial
@@ -64,9 +67,12 @@ daumoa
 ^\%?default\%?$
 DeuSu\/
 Dispatch\/\d
+Docoloc
 docomo
 Download\+Master
 DSurf
+DTS Agent
+EasyBib[\+\s]AutoCite[\+\s]
 easydl
 EBSCO\sEJS\sContent\sServer
 ELinks\/
@@ -92,9 +98,11 @@ Fulltext
 Funnelback
 GetRight
 geturl
+G-i-g-a-b-o-t
 GLMSLinkAnalysis
 Goldfire(\s|\+)Server
 google
+Grammarly
 grub
 gulliver
 gvfs\/
@@ -132,6 +140,7 @@ LinkLint-checkonly
 ^LinkParser\/
 ^LinkSaver\/
 linkscan
+LinkTiger
 linkwalker
 lipperhey
 livejournal\.com
@@ -174,8 +183,10 @@ Ning
 no_user_agent
 nomad
 nutch
+^oaDOI$
 ocelli
 Offline(\s|\+)Navigator
+^okhttp$
 onetszukaj
 ^Opera\/4$
 OurBrowser
@@ -196,6 +207,7 @@ Qwantify
 rambler
 Readpaper
 redalert
+Riddler
 robozilla
 rss
 scan4mail
