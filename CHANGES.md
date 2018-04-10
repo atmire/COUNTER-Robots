@@ -9,7 +9,7 @@ The releases are tagged with the date of the release. Currently, there are no ve
     - BUbiNG
     - Docoloc
     - DTS Agent
-    - EasyBib
+    - EasyBib Autocite
     - G-i-g-a-b-o-t
     - Grammarly
     - LinkTiger
