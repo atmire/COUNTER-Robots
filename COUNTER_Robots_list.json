@@ -48,6 +48,11 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "A6\\-Indexer",
+    "last_changed": "2018-09-05",
+    "description": "A6 Corp's bot"
+  },
+  {
     "pattern": "ADmantX",
     "last_changed": "2017-08-08"
   },
@@ -400,6 +405,12 @@
   {
     "pattern": "Funnelback",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "Genieo",
+    "last_changed": "2018-09-05",
+    "Listed as a bad bot by Distil Networks": "2018-09-05",
+    "url": "https://www.distilnetworks.com/bot-directory/bot/genieo/"
   },
   {
     "pattern": "GetRight",
@@ -951,6 +962,11 @@
   {
     "pattern": "Teoma",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "The\\+Knowledge\\+AI",
+    "last_changed": "2018-09-05",
+    "url": "https://www.webmasterworld.com/search_engine_spiders/4896765.htm"
   },
   {
     "pattern": "titan",
