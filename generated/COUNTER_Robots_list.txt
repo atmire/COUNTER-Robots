@@ -192,6 +192,7 @@ onetszukaj
 OurBrowser
 panscient
 parsijoo
+Pcore\-HTTP
 pear.php.net
 perman
 PHP\/
@@ -264,7 +265,7 @@ WebZIP
 Wget
 wordpress
 worm
-www.gnip.com
+www\.gnip\.com
 WWW\-Mechanize
 xenu
 y!j
