@@ -10,6 +10,7 @@ crawl
 ^脝脝陆芒潞贸碌脛$
 ^破解后的$
 AddThis
+A6\-Indexer
 ADmantX
 alexa
 Alexandria(\s|\+)prototype(\s|\+)project
@@ -96,6 +97,7 @@ findthatfile
 ^FOCA
 Fulltext
 Funnelback
+Genieo
 GetRight
 geturl
 G-i-g-a-b-o-t
@@ -231,6 +233,7 @@ T\-H\-U\-N\-D\-E\-R\-S\-T\-O\-N\-E
 tailrank
 Teleport(\s|\+)Pro
 Teoma
+The\+Knowledge\+AI
 titan
 ^Traackr\.com$
 Trove
