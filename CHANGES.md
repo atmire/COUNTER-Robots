@@ -6,8 +6,10 @@ The releases are tagged with the date of the release. Currently, there are no ve
 - Added user-agents:
     - A6-Indexer
     - Genieo
-    - The+Knowledge+AI 
-    
+    - Pcore-HTTP
+    - The+Knowledge+AI    
+- Fixing the escaping for 'www.gnip.com' user agent
+
 ## February 16th, 2018
 - Added user-agents:
     - API scraper
