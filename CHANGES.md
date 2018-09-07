@@ -2,6 +2,12 @@
 This document gives an overview of the different versions and the changes between versions.
 The releases are tagged with the date of the release. Currently, there are no version numbers.
 
+## September 5th, 2018
+- Added user-agents:
+    - A6-Indexer
+    - Genieo
+    - The+Knowledge+AI 
+    
 ## February 16th, 2018
 - Added user-agents:
     - API scraper
