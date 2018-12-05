@@ -1139,5 +1139,11 @@
   {
     "pattern": "zyborg",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "Mozilla\\/5\\.0 \\(compatible; bingbot\\/2\\.0; \\+http:\\/\\/www\\.bing\\.com\\/bingbot\\.htm\\)",
+    "last_changed": "2018-12-05",
+    "description": "Bing web crawler",
+    "url": "https://blogs.bing.com/webmaster/2010/06/28/bing-crawler-bingbot-on-the-horizon"
   }
 ]
