@@ -18,6 +18,7 @@ AllenTrack
 almaden
 appie
 API[\+\s]scraper
+Arachni
 Arachmo
 architext
 ArchiveTeam
