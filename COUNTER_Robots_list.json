@@ -626,7 +626,7 @@
     "last_changed": "2017-08-08"
   },
   {
-    "pattern": "lycos[\\_\\+]",
+    "pattern": "lycos[_+]",
     "last_changed": "2017-08-08"
   },
   {
