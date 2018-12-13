@@ -150,7 +150,7 @@ LOCKSS
 LongURL.API
 ltx71
 lwp
-lycos[\_\+]
+lycos[_+]
 mail.ru
 MarcEdit.5.2.Web.Client
 mediapartners\-google
