@@ -626,8 +626,8 @@
     "last_changed": "2017-08-08"
   },
   {
-    "pattern": "lycos[\\_\\+]",
-    "last_changed": "2017-08-08"
+    "pattern": "lycos[_+]",
+    "last_changed": "2018-12-13"
   },
   {
     "pattern": "mail.ru",
