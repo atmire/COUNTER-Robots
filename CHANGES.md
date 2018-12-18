@@ -2,6 +2,11 @@
 This document gives an overview of the different versions and the changes between versions.
 The releases are tagged with the date of the release. Currently, there are no version numbers.
 
+## December 13th, 2018
+- Added user-agents:
+    - Arachni
+- Fixing the escaping for Lycos user agent
+
 ## September 5th, 2018
 - Added user-agents:
     - A6-Indexer
