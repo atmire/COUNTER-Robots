@@ -909,6 +909,11 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "ScoutJet",
+    "last_changed": "2019-02-12",
+    "url": "http://www.scoutjet.com/"
+  },  
+  {
     "pattern": "^scrutiny\\/\\d",
     "last_changed": "2017-08-08"
   },
@@ -1136,6 +1141,11 @@
   {
     "pattern": "yandex",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "Yeti\\/\\d",
+    "last_changed": "2019-02-12",
+    "url": "http://naver.me/spd"
   },
   {
     "pattern": "zeus",
