@@ -82,6 +82,11 @@
     "description": "API scrapers are robots."
   },
   {
+    "pattern": "Arachni",
+    "last_changed": "2018-12-13",
+    "description": "http://www.arachni-scanner.com/"
+  },
+  {
     "pattern": "Arachmo",
     "last_changed": "2017-08-08"
   },
