@@ -1144,10 +1144,15 @@
   {
     "pattern": "zyborg",
     "last_changed": "2017-08-08"
-  }
+  },
   {
   "pattern": "Mozilla/5.0 (Windows, U, Windows NT 5.1, ru, rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11",
     "last_changed": "2019-02-22",
     "description": "Windows XP from Russia (usage indicated bot)"
+  },
+  {
+    "pattern": "linkdex",
+    "last_changed": "2019-02-22"
+    "description": "linkdex.com"
   }
 ]
