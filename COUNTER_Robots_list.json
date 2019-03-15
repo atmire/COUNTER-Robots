@@ -1148,5 +1148,13 @@
   {
     "pattern": "Mozilla.5.0 .Windows. U. Windows NT 5.1. ru. rv.1.8.1.11. Gecko.20071127 Firefox.2.0.*",
     "last_changed": "2019-02-28"
+  },
+   {
+    "pattern": "Mozilla.5.0 .X11. U. Linux i686. en-US. rv:1.2.1. Gecko/20021204*",
+    "last_changed": "2019-03-15"
+  },
+   {
+    "pattern": "HTTP-Tiny.0.07*",
+    "last_changed": "2019-03-15"
   }
 ]
