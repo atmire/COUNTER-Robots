@@ -17,4 +17,6 @@ The list is available in a JSON format, this for the purpose so we can add extra
 
 There is a script included called convert_to_text which will convert the list to a text file with a bot on every line. Just run the script in the same folder as the COUNTER_Robots_list.json file and it will generate a COUNTER_Robots_list.txt file (You need jq for this: https://github.com/stedolan/jq).
 
-When matching against the patterns in this list, we recommend to use case-insensitive matching. 
+## Case insensitivity of pattern-matching
+When matching against the patterns in this list, **we strongly advice you to use case-insensitive matching** as there are multiple case-specific iterations of certain web crawler robots.
+Instead of matching these on a case by case basis, which would inflate the number of patterns,(For example, if we want to match 'bot', we can be fairly certain that 'BoT' is to be matched as well) case insensitive matching reduces the number of configs to take into consideration. 
