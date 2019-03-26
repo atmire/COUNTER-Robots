@@ -85,6 +85,7 @@ EThOS\+\(British\+Library\)
 facebookexternalhit\/
 favorg
 FDM(\s|\+)\d
+Feedbin
 feedburner
 FeedFetcher
 feedreader
@@ -219,6 +220,7 @@ scientificcommons
 scirus
 scooter
 Scrapy\/\d
+ScoutJet
 ^scrutiny\/\d
 SearchBloxIntra
 shoutcast
@@ -276,5 +278,6 @@ y!j
 yacy
 yahoo
 yandex
+Yeti\/\d
 zeus
 zyborg
