@@ -7,7 +7,7 @@ The releases are tagged with the date of the release. Currently, there are no ve
     - ScoutJet
     - Feedbin
     - Yeti
-- Fixing the escaping for Lycos user agent
+- Updated the wording of case-insensitive matching
 
 ## December 13th, 2018
 - Added user-agents:
