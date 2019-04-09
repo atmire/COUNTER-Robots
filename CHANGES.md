@@ -2,6 +2,13 @@
 This document gives an overview of the different versions and the changes between versions.
 The releases are tagged with the date of the release. Currently, there are no version numbers.
 
+## March 26th, 2019
+- Added user-agents:
+    - ScoutJet
+    - Feedbin
+    - Yeti
+- Updated the wording of case-insensitive matching
+
 ## December 13th, 2018
 - Added user-agents:
     - Arachni
