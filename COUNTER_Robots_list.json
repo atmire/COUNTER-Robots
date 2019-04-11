@@ -1170,5 +1170,10 @@
    {
     "pattern": "HTTP-Tiny.0.07*",
     "last_changed": "2019-03-15"
+  },
+   {
+    "pattern": "UB T.*bingen C++ Downloader",
+    "description": "UB TÃ¼bingen C++ Downloader; Tübingen; up to 100.000 document downloads on DNB-objects in 2019-01-01 to 2019-04-09",
+    "last_changed": "2019-04-11"
   }
 ]
