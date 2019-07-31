@@ -2,6 +2,11 @@
 This document gives an overview of the different versions and the changes between versions.
 The releases are tagged with the date of the release. Currently, there are no version numbers.
 
+## July 31st, 2019
+- Added user-agents:
+    - Unpaywall
+    - weborama-fetcher
+
 ## March 26th, 2019
 - Added user-agents:
     - ScoutJet

@@ -1015,6 +1015,10 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "Unpaywall",
+    "last_changed": "2019-07-31"
+  },
+  {
     "pattern": "URL2File",
     "last_changed": "2017-08-08"
   },
@@ -1093,6 +1097,10 @@
   {
     "pattern": "webmon",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "weborama\\-fetcher",
+    "last_changed": "2019-07-31"
   },
   {
     "pattern": "webreaper",
