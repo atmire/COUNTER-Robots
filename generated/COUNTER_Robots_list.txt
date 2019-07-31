@@ -245,6 +245,7 @@ ucsd
 ultraseek
 ^undefined$
 ^unknown$
+Unpaywall
 URL2File
 urlaliasbuilder
 urllib
@@ -265,6 +266,7 @@ weblayers
 Webmetrics
 webmirror
 webmon
+weborama\-fetcher
 webreaper
 WebStripper
 WebZIP
