@@ -183,7 +183,7 @@ nagios
 netcraft
 netluchs
 ng\/2\.
-Ning
+^Ning\/\d
 no_user_agent
 nomad
 nutch
