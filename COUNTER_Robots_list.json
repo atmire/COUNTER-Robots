@@ -73,6 +73,10 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "^Apache-HttpClient",
+    "last_changed": "2019-08-20"
+  },
+  {
     "pattern": "appie",
     "last_changed": "2017-08-08"
   },
