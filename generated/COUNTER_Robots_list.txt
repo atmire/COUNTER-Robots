@@ -5,7 +5,6 @@ crawl
 [^a]fish
 ^IDA$
 ^ruby$
-^voyager\/
 ^@ozilla\/\d
 ^脝脝陆芒潞贸碌脛$
 ^破解后的$
