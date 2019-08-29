@@ -759,8 +759,8 @@
     "last_changed": "2017-08-08"
   },
   {
-    "pattern": "Ning",
-    "last_changed": "2017-08-08"
+    "pattern": "^Ning\\/\\d",
+    "last_changed": "2019-08-06"
   },
   {
     "pattern": "no_user_agent",
@@ -916,7 +916,7 @@
     "pattern": "ScoutJet",
     "last_changed": "2019-02-12",
     "url": "http://www.scoutjet.com/"
-  },  
+  },
   {
     "pattern": "^scrutiny\\/\\d",
     "last_changed": "2017-08-08"
