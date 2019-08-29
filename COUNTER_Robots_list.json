@@ -28,10 +28,6 @@
     "last_changed": "2017-08-08"
   },
   {
-    "pattern": "^voyager\\/",
-    "last_changed": "2017-08-08"
-  },
-  {
     "pattern": "^@ozilla\\/\\d",
     "last_changed": "2017-08-08"
   },
