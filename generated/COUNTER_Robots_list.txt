@@ -199,6 +199,7 @@ Pcore\-HTTP
 pear.php.net
 perman
 PHP\/
+pidcheck
 pioneer
 playmusic\.com
 playstarmusic\.com
