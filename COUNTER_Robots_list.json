@@ -827,6 +827,12 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "pidcheck",
+    "last_changed": "2019-10-18",
+    "description": "PidCheck is a generic crawler for extracting data about PiD's from landing pages and doing some calculation on the health of the link",
+    "url": "https://github.com/datacite/pidcheck"
+  },
+  {
     "pattern": "pioneer",
     "last_changed": "2017-08-08"
   },
