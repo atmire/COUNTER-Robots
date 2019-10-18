@@ -2,6 +2,9 @@
 This document gives an overview of the different versions and the changes between versions.
 The releases are tagged with the date of the release. Currently, there are no version numbers.
 
+## October 18th, 2019
+- Added pattern for "pidcheck"
+
 ## August 29th, 2019
 - Removed redundant pattern "^voyager\\/"
 - Improved "Ning" pattern matching
