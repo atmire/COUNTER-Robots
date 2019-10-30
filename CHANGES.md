@@ -2,6 +2,9 @@
 This document gives an overview of the different versions and the changes between versions.
 The releases are tagged with the date of the release. Currently, there are no version numbers.
 
+## October 30th, 2019
+- Added pattern for "Cortana"
+
 ## October 18th, 2019
 - Added pattern for "pidcheck"
 
