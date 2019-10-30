@@ -251,6 +251,12 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "Cortana",
+    "last_changed": "2019-10-30",
+    "description": "Cortana is a virtual assistant created by Microsoft",
+    "url": "https://www.microsoft.com/en-us/cortana"
+  },
+  {
     "pattern": "CoverScout",
     "last_changed": "2017-08-08"
   },
