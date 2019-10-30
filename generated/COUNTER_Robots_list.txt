@@ -59,6 +59,7 @@ contentmatch
 ContentSmartz
 convera
 core
+Cortana
 CoverScout
 curl\/
 cursor
