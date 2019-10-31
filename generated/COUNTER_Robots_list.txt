@@ -59,6 +59,7 @@ contentmatch
 ContentSmartz
 convera
 core
+Cortana
 CoverScout
 curl\/
 cursor
@@ -199,6 +200,7 @@ Pcore\-HTTP
 pear.php.net
 perman
 PHP\/
+pidcheck
 pioneer
 playmusic\.com
 playstarmusic\.com
