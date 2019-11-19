@@ -2,6 +2,12 @@
 This document gives an overview of the different versions and the changes between versions.
 The releases are tagged with the date of the release. Currently, there are no version numbers.
 
+## November 19th, 2019
+- Added patern ^Buck/[0-9]
+- Added patern ^LinkAnalyser
+- Added patern ^User-Agent (to cover reported issue https://github.com/atmire/COUNTER-Robots/issues/27)
+- Merged https://github.com/atmire/COUNTER-Robots/pull/28
+
 ## October 30th, 2019
 - Added pattern for "Cortana"
 
