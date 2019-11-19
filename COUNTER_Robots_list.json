@@ -4,7 +4,7 @@
     "last_changed": "2017-08-08"
   },
   {
-    "pattern": "^Buck\/\d",
+    "pattern": "^Buck\/[0-9]",
     "last_changed": "2019-11-19"
   },
   {
