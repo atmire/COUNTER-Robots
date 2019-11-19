@@ -4,6 +4,10 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "^Buck\/\d",
+    "last_changed": "2019-11-19"
+  },
+  {
     "pattern": "spider",
     "last_changed": "2017-08-08"
   },
@@ -45,7 +49,7 @@
   },
   {
     "pattern": "A6-Indexer",
-    "last_changed": "2018-09-05",
+    "last_changed": "2019-11-19",
     "description": "A6 Corp's bot"
   },
   {
@@ -150,7 +154,7 @@
   },
   {
     "pattern": "blaiz-bee",
-    "last_changed": "2017-08-08"
+    "last_changed": "2019-11-19"
   },
   {
     "pattern": "bloglines",
@@ -162,11 +166,11 @@
   },
   {
     "pattern": "boitho\\.com-dc",
-    "last_changed": "2017-08-08"
+    "last_changed": "2019-11-19"
   },
   {
     "pattern": "bookmark-manager",
-    "last_changed": "2017-08-08"
+    "last_changed": "2019-11-19"
   },
   {
     "pattern": "Brutus\\/AET",
@@ -583,6 +587,10 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "^LinkAnalyser",
+    "last_changed": "2019-11-19"
+  },
+  {
     "pattern": "link.?check",
     "last_changed": "2017-08-08"
   },
@@ -650,7 +658,7 @@
   },
   {
     "pattern": "mediapartners-google",
-    "last_changed": "2017-08-08"
+    "last_changed": "2019-11-19"
   },
   {
     "pattern": "megite",
@@ -818,7 +826,7 @@
   },
   {
     "pattern": "Pcore-HTTP",
-    "last_changed": "2018-07-12"
+    "last_changed": "2019-11-19"
   },
   {
     "pattern": "pear.php.net",
@@ -1043,6 +1051,10 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "^User-Agent",
+    "last_changed": "2019-11-19"
+  },
+  {
     "pattern": "validator",
     "last_changed": "2017-08-08"
   },
@@ -1108,7 +1120,7 @@
   },
   {
     "pattern": "weborama-fetcher",
-    "last_changed": "2019-07-31"
+    "last_changed": "2019-11-19"
   },
   {
     "pattern": "webreaper",
@@ -1140,7 +1152,7 @@
   },
   {
     "pattern": "WWW-Mechanize",
-    "last_changed": "2017-08-08"
+    "last_changed": "2019-11-19"
   },
   {
     "pattern": "xenu",
