@@ -1,5 +1,5 @@
 bot
-^Buck/[0-9]
+^Buck\/[0-9]
 spider
 crawl
 ^.?$
