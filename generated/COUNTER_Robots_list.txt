@@ -1,4 +1,5 @@
 bot
+^Buck\/[0-9]
 spider
 crawl
 ^.?$
@@ -9,7 +10,7 @@ crawl
 ^脝脝陆芒潞贸碌脛$
 ^破解后的$
 AddThis
-A6\-Indexer
+A6-Indexer
 ADmantX
 alexa
 Alexandria(\s|\+)prototype(\s|\+)project
@@ -34,11 +35,11 @@ BingPreview
 binlar
 bjaaland
 Blackboard[\+\s]Safeassign
-blaiz\-bee
+blaiz-bee
 bloglines
 blogpulse
-boitho\.com\-dc
-bookmark\-manager
+boitho\.com-dc
+bookmark-manager
 Brutus\/AET
 BUbiNG
 bwh3_user_agent
@@ -139,6 +140,7 @@ libcurl
 libhttp
 libwww
 lilina
+^LinkAnalyser
 link.?check
 LinkLint-checkonly
 ^LinkParser\/
@@ -155,7 +157,7 @@ lwp
 lycos[_+]
 mail.ru
 MarcEdit.5.2.Web.Client
-mediapartners\-google
+mediapartners-google
 megite
 MetaURI[\+\s]API\/\d\.\d
 Microsoft(\s|\+)URL(\s|\+)Control
@@ -196,7 +198,7 @@ onetszukaj
 OurBrowser
 panscient
 parsijoo
-Pcore\-HTTP
+Pcore-HTTP
 pear.php.net
 perman
 PHP\/
@@ -251,6 +253,7 @@ URL2File
 urlaliasbuilder
 urllib
 ^user.?agent$
+^User-Agent
 validator
 virus.detector
 voila
@@ -267,7 +270,7 @@ weblayers
 Webmetrics
 webmirror
 webmon
-weborama\-fetcher
+weborama-fetcher
 webreaper
 WebStripper
 WebZIP
@@ -275,7 +278,7 @@ Wget
 wordpress
 worm
 www\.gnip\.com
-WWW\-Mechanize
+WWW-Mechanize
 xenu
 y!j
 yacy
