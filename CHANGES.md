@@ -2,6 +2,9 @@
 This document gives an overview of the different versions and the changes between versions.
 The releases are tagged with the date of the release. Currently, there are no version numbers.
 
+## December 12th, 2019
+- Changed pattern from MarcEdit.5.2.Web.Client to MarcEdit
+
 ## November 19th, 2019
 - Added patern ^Buck/[0-9]
 - Added patern ^LinkAnalyser
