@@ -133,6 +133,7 @@ iSiloX
 iskanie
 ^java\/\d{1,2}.\d
 jeeves
+Jersey\/\d
 jobo
 kyluka
 larbin
@@ -213,6 +214,7 @@ PycURL
 python
 Qwantify
 rambler
+ReactorNetty\/\d
 Readpaper
 redalert
 Riddler
