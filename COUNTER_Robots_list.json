@@ -559,6 +559,10 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "Jersey\\/\\d",
+    "last_changed": "2020-02-07"
+  },
+  {
     "pattern": "jobo",
     "last_changed": "2017-08-08"
   },
@@ -885,6 +889,10 @@
   {
     "pattern": "rambler",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "ReactorNetty\\/\\d",
+    "last_changed": "2020-02-07"
   },
   {
     "pattern": "Readpaper",
