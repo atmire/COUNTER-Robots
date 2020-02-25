@@ -846,6 +846,11 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "^Pattern\\/\\d",
+    "last_changed": "2020-02-25",
+    "url": "https://www.clips.uantwerpen.be/pattern"
+  },
+  {
     "pattern": "Pcore-HTTP",
     "last_changed": "2019-11-19"
   },
