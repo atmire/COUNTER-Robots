@@ -815,8 +815,8 @@
     "last_changed": "2020-07-02"
   }, 
   {
-    "pattern": "^okhttp$",
-    "last_changed": "2018-02-15",
+    "pattern": "okhttp",
+    "last_changed": "2020-02-25",
     "description": "okhttp is a Java HTTP client library.",
     "url": "http://square.github.io/okhttp/"
   },
