@@ -1035,6 +1035,11 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "Typhoeus",
+    "last_changed": "2020-02-25",
+    "url": "https://github.com/typhoeus/typhoeus"
+  },
+  {
     "pattern": "ucsd",
     "last_changed": "2017-08-08"
   },
