@@ -980,6 +980,11 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "sqlmap",
+    "last_changed": "2020-02-25",
+    "url": "https://github.com/sqlmapproject/sqlmap"
+  },
+  {
     "pattern": "Strider",
     "last_changed": "2017-08-08"
   },
