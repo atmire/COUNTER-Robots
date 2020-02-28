@@ -133,6 +133,7 @@ iSiloX
 iskanie
 ^java\/\d{1,2}.\d
 jeeves
+Jersey\/\d
 jobo
 kyluka
 larbin
@@ -156,7 +157,7 @@ ltx71
 lwp
 lycos[_+]
 mail.ru
-MarcEdit.5.2.Web.Client
+MarcEdit
 mediapartners-google
 megite
 MetaURI[\+\s]API\/\d\.\d
@@ -213,6 +214,7 @@ PycURL
 python
 Qwantify
 rambler
+ReactorNetty\/\d
 Readpaper
 redalert
 Riddler
