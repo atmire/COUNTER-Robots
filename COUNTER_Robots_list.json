@@ -818,6 +818,11 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "OgScrper",
+    "last_changed": "2020-04-30",
+    "description": "Unknown scraper"
+  },
+  {
     "pattern": "^okhttp$",
     "last_changed": "2018-02-15",
     "description": "okhttp is a Java HTTP client library.",
