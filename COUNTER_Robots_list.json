@@ -446,6 +446,11 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "GigablastOpenSource",
+    "last_changed": "2020-04-30",
+    "description": "https://github.com/gigablast/open-source-search-engine"
+  },
+  {
     "pattern": "G-i-g-a-b-o-t",
     "last_changed": "2018-02-15",
     "description": "Self-explanatory!"
