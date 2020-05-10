@@ -661,7 +661,8 @@
     "last_changed": "2018-12-13"
   },
   {
-    "pattern": "mail.ru",
+    "pattern": "mail\\.ru",
+    "url": "https://help.mail.ru/webmaster/indexing/robots.txt/rules/user-agent",
     "last_changed": "2017-08-08"
   },
   {
@@ -845,7 +846,7 @@
     "last_changed": "2019-11-19"
   },
   {
-    "pattern": "pear.php.net",
+    "pattern": "pear\\.php\\.net",
     "last_changed": "2017-08-08"
   },
   {
@@ -1095,7 +1096,9 @@
     "last_changed": "2017-08-08"
   },
   {
-    "pattern": "w3af.org",
+    "pattern": "w3af\\.org",
+    "description": "Web Application Attack and Audit Framework",
+    "url": "https://w3af.org/",
     "last_changed": "2017-08-08"
   },
   {
