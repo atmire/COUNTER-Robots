@@ -1049,6 +1049,12 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "Turnitin",
+    "last_changed": "2020-07-01",
+    "description": "This robot collects content from the Internet for the sole purpose of helping educational institutions prevent plagiarism.",
+    "url": "https://turnitin.com/robot/crawlerinfo.html"
+  },
+  {
     "pattern": "twiceler",
     "last_changed": "2017-08-08"
   },
