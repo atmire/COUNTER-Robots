@@ -78,6 +78,7 @@ DTS Agent
 EasyBib[\+\s]AutoCite[\+\s]
 easydl
 EBSCO\sEJS\sContent\sServer
+EcoSearch
 ELinks\/
 EmailSiphon
 EmailWolf
@@ -103,6 +104,7 @@ Funnelback
 Genieo
 GetRight
 geturl
+GigablastOpenSource
 G-i-g-a-b-o-t
 GLMSLinkAnalysis
 Goldfire(\s|\+)Server
@@ -193,6 +195,7 @@ nutch
 ^oaDOI$
 ocelli
 Offline(\s|\+)Navigator
+OgScrper
 ^okhttp$
 onetszukaj
 ^Opera\/4$

@@ -334,6 +334,10 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "EcoSearch",
+    "last_changed": "2020-07-02"
+  },
+  {
     "pattern": "ELinks\\/",
     "last_changed": "2017-08-08"
   },
@@ -435,6 +439,10 @@
     "pattern": "geturl",
     "last_changed": "2017-08-08"
   },
+  {
+    "pattern": "GigablastOpenSource",
+    "last_changed": "2020-07-02"
+  },  
   {
     "pattern": "G-i-g-a-b-o-t",
     "last_changed": "2018-02-15",
@@ -802,6 +810,10 @@
     "pattern": "Offline(\\s|\\+)Navigator",
     "last_changed": "2017-08-08"
   },
+  {
+    "pattern": "OgScrper",
+    "last_changed": "2020-07-02"
+  }, 
   {
     "pattern": "^okhttp$",
     "last_changed": "2018-02-15",

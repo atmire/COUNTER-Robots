@@ -2,7 +2,12 @@
 This document gives an overview of the different versions and the changes between versions.
 The releases are tagged with the date of the release. Currently, there are no version numbers.
 
-## February 7th, 2019
+## July 2nd, 2020
+- Added pattern EcoSearch
+- Added pattern GigablastOpenSource
+- Added pattern OgScrper
+
+## February 7th, 2020
 - Added pattern Jersey\/\d
 - Added pattern ReactorNetty\/\d
 
