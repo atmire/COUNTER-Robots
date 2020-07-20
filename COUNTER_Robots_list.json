@@ -316,6 +316,11 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "Drupal",
+    "last_changed": "2020-07-20",
+    "description": "Drupal is a content management system. Some Drupal instances perform harvesting or crawling of web resources and should be ignored."
+  },
+  {
     "pattern": "DSurf",
     "last_changed": "2017-08-08"
   },
