@@ -49,6 +49,7 @@ cfnetwork
 checklink
 checkprivacy
 China\sLocal\sBrowse\s2\.6
+Citoid
 cloakDetect
 coccoc\/1\.0
 Code\sSample\sWeb\sClient
@@ -73,6 +74,7 @@ Dispatch\/\d
 Docoloc
 docomo
 Download\+Master
+Drupal
 DSurf
 DTS Agent
 EasyBib[\+\s]AutoCite[\+\s]
@@ -158,7 +160,7 @@ LongURL.API
 ltx71
 lwp
 lycos[_+]
-mail.ru
+mail\.ru
 MarcEdit
 mediapartners-google
 megite
@@ -196,14 +198,15 @@ nutch
 ocelli
 Offline(\s|\+)Navigator
 OgScrper
-^okhttp$
+okhttp
 onetszukaj
 ^Opera\/4$
 OurBrowser
 panscient
 parsijoo
+^Pattern\/\d
 Pcore-HTTP
-pear.php.net
+pear\.php\.net
 perman
 PHP\/
 pidcheck
@@ -236,6 +239,7 @@ SkypeUriPreview
 slurp
 sogou
 speedy
+sqlmap
 Strider
 summify
 sunrise
@@ -248,7 +252,9 @@ The\+Knowledge\+AI
 titan
 ^Traackr\.com$
 Trove
+Turnitin
 twiceler
+Typhoeus
 ucsd
 ultraseek
 ^undefined$
@@ -264,7 +270,7 @@ virus.detector
 voila
 ^voltron$
 voyager\/
-w3af.org
+w3af\.org
 Wanadoo
 Web(\s|\+)Downloader
 WebCloner
@@ -292,3 +298,4 @@ yandex
 Yeti\/\d
 zeus
 zyborg
+7siters
