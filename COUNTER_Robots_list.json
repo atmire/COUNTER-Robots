@@ -211,6 +211,11 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "Citoid",
+    "last_changed": "2020-02-25",
+    "url": "https://www.mediawiki.org/wiki/Citoid"
+  },
+  {
     "pattern": "cloakDetect",
     "last_changed": "2017-08-08"
   },
@@ -309,6 +314,11 @@
   {
     "pattern": "Download\\+Master",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "Drupal",
+    "last_changed": "2020-07-20",
+    "description": "Drupal is a content management system. Some Drupal instances perform harvesting or crawling of web resources and should be ignored."
   },
   {
     "pattern": "DSurf",
@@ -842,6 +852,11 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "^Pattern\\/\\d",
+    "last_changed": "2020-02-25",
+    "url": "https://www.clips.uantwerpen.be/pattern"
+  },
+  {
     "pattern": "Pcore-HTTP",
     "last_changed": "2019-11-19"
   },
@@ -983,6 +998,11 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "sqlmap",
+    "last_changed": "2020-02-25",
+    "url": "https://github.com/sqlmapproject/sqlmap"
+  },
+  {
     "pattern": "Strider",
     "last_changed": "2017-08-08"
   },
@@ -1032,8 +1052,19 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "Turnitin",
+    "last_changed": "2020-07-01",
+    "description": "This robot collects content from the Internet for the sole purpose of helping educational institutions prevent plagiarism.",
+    "url": "https://turnitin.com/robot/crawlerinfo.html"
+  },
+  {
     "pattern": "twiceler",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "Typhoeus",
+    "last_changed": "2020-02-25",
+    "url": "https://github.com/typhoeus/typhoeus"
   },
   {
     "pattern": "ucsd",
@@ -1209,5 +1240,11 @@
   {
     "pattern": "zyborg",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "7siters",
+    "last_changed": "2020-02-25",
+    "url": "https://7ooo.ru/siters"
   }
+
 ]
