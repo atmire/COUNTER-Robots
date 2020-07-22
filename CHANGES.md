@@ -2,6 +2,12 @@
 This document gives an overview of the different versions and the changes between versions.
 The releases are tagged with the date of the release. Currently, there are no version numbers.
 
+## July 22th, 2020
+Processed 3 following merge requests : 
+- https://github.com/atmire/COUNTER-Robots/pull/33 : Remove anchors from okhttp
+- https://github.com/atmire/COUNTER-Robots/pull/35 : Escape litteral dots from mail.ru, pear.php.net, w3af.org
+- https://github.com/atmire/COUNTER-Robots/pull/36 : new bots (Citoid, Typhoeus, 7siters, sqlmap, Pattern, OgScrper, Turnitin, Drupal)
+
 ## July 2nd, 2020
 - Added pattern EcoSearch
 - Added pattern GigablastOpenSource
