@@ -4,6 +4,10 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "^Buck\\/[0-9]",
+    "last_changed": "2019-11-19"
+  },
+  {
     "pattern": "spider",
     "last_changed": "2017-08-08"
   },
@@ -28,10 +32,6 @@
     "last_changed": "2017-08-08"
   },
   {
-    "pattern": "^voyager\\/",
-    "last_changed": "2017-08-08"
-  },
-  {
     "pattern": "^@ozilla\\/\\d",
     "last_changed": "2017-08-08"
   },
@@ -48,8 +48,8 @@
     "last_changed": "2017-08-08"
   },
   {
-    "pattern": "A6\\-Indexer",
-    "last_changed": "2018-09-05",
+    "pattern": "A6-Indexer",
+    "last_changed": "2019-11-19",
     "description": "A6 Corp's bot"
   },
   {
@@ -153,8 +153,8 @@
     "last_changed": "2017-08-08"
   },
   {
-    "pattern": "blaiz\\-bee",
-    "last_changed": "2017-08-08"
+    "pattern": "blaiz-bee",
+    "last_changed": "2019-11-19"
   },
   {
     "pattern": "bloglines",
@@ -165,12 +165,12 @@
     "last_changed": "2017-08-08"
   },
   {
-    "pattern": "boitho\\.com\\-dc",
-    "last_changed": "2017-08-08"
+    "pattern": "boitho\\.com-dc",
+    "last_changed": "2019-11-19"
   },
   {
-    "pattern": "bookmark\\-manager",
-    "last_changed": "2017-08-08"
+    "pattern": "bookmark-manager",
+    "last_changed": "2019-11-19"
   },
   {
     "pattern": "Brutus\\/AET",
@@ -255,6 +255,12 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "Cortana",
+    "last_changed": "2019-10-30",
+    "description": "Cortana is a virtual assistant created by Microsoft",
+    "url": "https://www.microsoft.com/en-us/cortana"
+  },
+  {
     "pattern": "CoverScout",
     "last_changed": "2017-08-08"
   },
@@ -328,6 +334,10 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "EcoSearch",
+    "last_changed": "2020-07-02"
+  },
+  {
     "pattern": "ELinks\\/",
     "last_changed": "2017-08-08"
   },
@@ -358,6 +368,10 @@
   {
     "pattern": "FDM(\\s|\\+)\\d",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "Feedbin",
+    "last_changed": "2019-01-22"
   },
   {
     "pattern": "feedburner",
@@ -425,6 +439,10 @@
     "pattern": "geturl",
     "last_changed": "2017-08-08"
   },
+  {
+    "pattern": "GigablastOpenSource",
+    "last_changed": "2020-07-02"
+  },  
   {
     "pattern": "G-i-g-a-b-o-t",
     "last_changed": "2018-02-15",
@@ -549,6 +567,10 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "Jersey\\/\\d",
+    "last_changed": "2020-02-07"
+  },
+  {
     "pattern": "jobo",
     "last_changed": "2017-08-08"
   },
@@ -575,6 +597,10 @@
   {
     "pattern": "lilina",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "^LinkAnalyser",
+    "last_changed": "2019-11-19"
   },
   {
     "pattern": "link.?check",
@@ -639,12 +665,12 @@
     "last_changed": "2017-08-08"
   },
   {
-    "pattern": "MarcEdit.5.2.Web.Client",
-    "last_changed": "2017-08-08"
+    "pattern": "MarcEdit",
+    "last_changed": "2019-12-12"
   },
   {
-    "pattern": "mediapartners\\-google",
-    "last_changed": "2017-08-08"
+    "pattern": "mediapartners-google",
+    "last_changed": "2019-11-19"
   },
   {
     "pattern": "megite",
@@ -755,8 +781,8 @@
     "last_changed": "2017-08-08"
   },
   {
-    "pattern": "Ning",
-    "last_changed": "2017-08-08"
+    "pattern": "^Ning\\/\\d",
+    "last_changed": "2019-08-06"
   },
   {
     "pattern": "no_user_agent",
@@ -785,6 +811,10 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "OgScrper",
+    "last_changed": "2020-07-02"
+  }, 
+  {
     "pattern": "^okhttp$",
     "last_changed": "2018-02-15",
     "description": "okhttp is a Java HTTP client library.",
@@ -811,8 +841,8 @@
     "last_changed": "2017-08-08"
   },
   {
-    "pattern": "Pcore\\-HTTP",
-    "last_changed": "2018-07-12"
+    "pattern": "Pcore-HTTP",
+    "last_changed": "2019-11-19"
   },
   {
     "pattern": "pear.php.net",
@@ -825,6 +855,12 @@
   {
     "pattern": "PHP\\/",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "pidcheck",
+    "last_changed": "2019-10-18",
+    "description": "PidCheck is a generic crawler for extracting data about PiD's from landing pages and doing some calculation on the health of the link",
+    "url": "https://github.com/datacite/pidcheck"
   },
   {
     "pattern": "pioneer",
@@ -867,6 +903,10 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "ReactorNetty\\/\\d",
+    "last_changed": "2020-02-07"
+  },
+  {
     "pattern": "Readpaper",
     "last_changed": "2017-08-08"
   },
@@ -907,6 +947,11 @@
   {
     "pattern": "Scrapy\\/\\d",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "ScoutJet",
+    "last_changed": "2019-02-12",
+    "url": "http://www.scoutjet.com/"
   },
   {
     "pattern": "^scrutiny\\/\\d",
@@ -1006,6 +1051,10 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "Unpaywall",
+    "last_changed": "2019-07-31"
+  },
+  {
     "pattern": "URL2File",
     "last_changed": "2017-08-08"
   },
@@ -1020,6 +1069,10 @@
   {
     "pattern": "^user.?agent$",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "^User-Agent",
+    "last_changed": "2019-11-19"
   },
   {
     "pattern": "validator",
@@ -1086,6 +1139,10 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "weborama-fetcher",
+    "last_changed": "2019-11-19"
+  },
+  {
     "pattern": "webreaper",
     "last_changed": "2017-08-08"
   },
@@ -1114,8 +1171,8 @@
     "last_changed": "2017-08-08"
   },
   {
-    "pattern": "WWW\\-Mechanize",
-    "last_changed": "2017-08-08"
+    "pattern": "WWW-Mechanize",
+    "last_changed": "2019-11-19"
   },
   {
     "pattern": "xenu",
@@ -1138,11 +1195,33 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "Yeti\\/\\d",
+    "last_changed": "2019-02-12",
+    "url": "http://naver.me/spd"
+  },
+  {
     "pattern": "zeus",
     "last_changed": "2017-08-08"
   },
   {
     "pattern": "zyborg",
     "last_changed": "2017-08-08"
+   },
+  {
+    "pattern": "Mozilla.5.0 .Windows. U. Windows NT 5.1. ru. rv.1.8.1.11. Gecko.20071127 Firefox.2.0.*",
+    "last_changed": "2019-02-28"
+  },
+   {
+    "pattern": "Mozilla.5.0 .X11. U. Linux i686. en-US. rv:1.2.1. Gecko/20021204*",
+    "last_changed": "2019-03-15"
+  },
+   {
+    "pattern": "HTTP-Tiny.0.07*",
+    "last_changed": "2019-03-15"
+  },
+   {
+    "pattern": "UB T.*bingen C\\+\\+ Downloader",
+    "last_changed": "2019-04-15",
+    "description": "UB TÃ¼bingen C++ Downloader; Tübingen; up to 100.000 document downloads on DNB-objects in 2019-01-01 to 2019-04-09"
   }
 ]
