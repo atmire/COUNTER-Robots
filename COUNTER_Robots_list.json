@@ -286,8 +286,9 @@
     "last_changed": "2017-08-08"
   },
   {
-    "pattern": "daumoa",
-    "last_changed": "2017-08-08"
+    "pattern": "daum(oa)?",
+    "last_changed": "2020-09-10",
+    "url": "https://cs.daum.net/faq/15/4118.html?faqId=28966"
   },
   {
     "pattern": "^\\%?default\\%?$",
