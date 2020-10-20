@@ -1003,6 +1003,11 @@
     "url": "https://github.com/sqlmapproject/sqlmap"
   },
   {
+    "pattern": "SrceDAMP",
+    "last_changed": "2020-20-10",
+    "url": "https://haw.nsk.hr/en/frequently-asked-questions/"
+  },
+  {
     "pattern": "Strider",
     "last_changed": "2017-08-08"
   },
