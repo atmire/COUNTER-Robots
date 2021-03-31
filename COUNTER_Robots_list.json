@@ -1261,14 +1261,6 @@
     "last_changed": "2021-03-30",
   },
   {
-    "pattern": "TelegramBot",
-    "last_changed": "2021-03-30",
-  },
-  {
-    "pattern": "TwitterBot",
-    "last_changed": "2021-03-30",
-  },
-  {
     "pattern": "Trello",
     "last_changed": "2021-03-30",
   }
