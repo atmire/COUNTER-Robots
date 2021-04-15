@@ -991,6 +991,12 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "Slack",
+    "last_changed": "2021-04-15",
+    "description": "Slack bots fetching pages for OpenGraph and proxying images",
+    "url": "https://api.slack.com/robots"
+  },
+  {
     "pattern": "slurp",
     "last_changed": "2017-08-08"
   },
