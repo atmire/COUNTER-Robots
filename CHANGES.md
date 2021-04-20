@@ -2,6 +2,16 @@
 This document gives an overview of the different versions and the changes between versions.
 The releases are tagged with the date of the release. Currently, there are no version numbers.
 
+## April 20th, 2021
+Processed following merge request : 
+- https://github.com/atmire/COUNTER-Robots/pull/41 : Addition of WhatsApp and Trello
+
+## March 23rd, 2021
+Processed 3 following merge requests :
+- https://github.com/atmire/COUNTER-Robots/pull/32 : Addition of Site24x7
+- https://github.com/atmire/COUNTER-Robots/pull/38 : Update of Daum entry
+- https://github.com/atmire/COUNTER-Robots/pull/39 : Addition of SrceDAMP
+
 ## July 22th, 2020
 Processed 3 following merge requests : 
 - https://github.com/atmire/COUNTER-Robots/pull/33 : Remove anchors from okhttp
