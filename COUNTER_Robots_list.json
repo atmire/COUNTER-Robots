@@ -1058,6 +1058,10 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "Trello",
+    "last_changed": "2021-03-30",
+  },
+  {
     "pattern": "Trove",
     "last_changed": "2017-08-08"
   },
@@ -1203,6 +1207,10 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "WhatsApp",
+    "last_changed": "2021-03-30",
+  },
+  {
     "pattern": "wordpress",
     "last_changed": "2017-08-08"
   },
@@ -1256,13 +1264,4 @@
     "last_changed": "2020-02-25",
     "url": "https://7ooo.ru/siters"
   },
-  {
-    "pattern": "WhatsApp",
-    "last_changed": "2021-03-30",
-  },
-  {
-    "pattern": "Trello",
-    "last_changed": "2021-03-30",
-  }
-
 ]
