@@ -2,6 +2,10 @@
 This document gives an overview of the different versions and the changes between versions.
 The releases are tagged with the date of the release. Currently, there are no version numbers.
 
+## July 5th, 2021
+Processed following merge request : 
+- https://github.com/atmire/COUNTER-Robots/pull/43 : Addition of crusty and newspaper
+
 ## April 20th, 2021
 Processed following merge request : 
 - https://github.com/atmire/COUNTER-Robots/pull/41 : Addition of WhatsApp and Trello
