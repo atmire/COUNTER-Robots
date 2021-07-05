@@ -63,6 +63,7 @@ convera
 core
 Cortana
 CoverScout
+crusty\/\d
 curl\/
 cursor
 custo
@@ -189,6 +190,7 @@ nagios
 ^NetAnts\/\d
 netcraft
 netluchs
+newspaper\/\d
 ng\/2\.
 ^Ning\/\d
 no_user_agent
