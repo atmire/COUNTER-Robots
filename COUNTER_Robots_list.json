@@ -270,6 +270,12 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "crusty\\/\\d",
+    "last_changed": "2021-07-05",
+    "description": "Crusty web crawler",
+    "url": "https://github.com/let4be/crusty"
+  },
+  {
     "pattern": "curl\\/",
     "last_changed": "2017-08-08"
   },
@@ -787,6 +793,12 @@
   {
     "pattern": "netluchs",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "newspaper\\/\\d",
+    "last_changed": "2021-07-05",
+    "description": "Python 3 library for news, full-text, and article metadata extraction.",
+    "url": "https://github.com/codelucas/newspaper"
   },
   {
     "pattern": "ng\\/2\\.",
