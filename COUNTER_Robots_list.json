@@ -683,6 +683,12 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "MaCoCu",
+    "last_changed": "2021-08-08",
+    "description": "The aim of MaCoCu, a CEF-funded project, is to collect, curate and enrich monolingual and parallel data from the Internet for 12 under-resourced languages of EU member states and candidate states.",
+    "url": "https://www.clarin.si/info/macocu-massive-collection-and-curation-of-monolingual-and-bilingual-data/"
+  },
+  {
     "pattern": "MarcEdit",
     "last_changed": "2019-12-12"
   },
