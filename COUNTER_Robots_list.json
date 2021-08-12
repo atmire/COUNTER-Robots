@@ -532,6 +532,12 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "httpx",
+    "last_changed": "2021-08-12",
+    "description": "httpx is a fast and multi-purpose HTTP toolkit for OSINT.",
+    "url": "https://github.com/projectdiscovery/httpx"
+  },
+  {
     "pattern": "httrack",
     "last_changed": "2017-08-08"
   },
