@@ -192,6 +192,7 @@ netcraft
 netluchs
 newspaper\/\d
 ng\/2\.
+Nimbostratus-Bot
 ^Ning\/\d
 no_user_agent
 nomad

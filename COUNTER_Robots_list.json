@@ -805,6 +805,12 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "Nimbostratus-Bot",
+    "last_changed": "2021-09-01",
+    "description": "Tools for fingerprinting and exploiting Amazon cloud infrastructures.",
+    "url": "https://github.com/andresriancho/nimbostratus"
+  },
+  {
     "pattern": "^Ning\\/\\d",
     "last_changed": "2019-08-06"
   },
