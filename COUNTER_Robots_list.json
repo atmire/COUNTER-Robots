@@ -1264,6 +1264,11 @@
     "url": "http://naver.me/spd"
   },
   {
+    "pattern": "Zabbix",
+    "description": "Application performance monitoring tool",
+    "last_changed": "2021-11-11"
+  },
+  {
     "pattern": "zeus",
     "last_changed": "2017-08-08"
   },
