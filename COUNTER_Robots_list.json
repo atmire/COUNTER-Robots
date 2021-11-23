@@ -532,6 +532,11 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "httpx",
+    "last_changed": "2021-11-23",
+    "url": "https://github.com/projectdiscovery/httpx"
+  },
+  {
     "pattern": "httrack",
     "last_changed": "2017-08-08"
   },
@@ -676,6 +681,11 @@
   {
     "pattern": "lycos[_+]",
     "last_changed": "2018-12-13"
+  },
+  {
+    "pattern": "MaCoCu",
+    "last_changed": "2021-11-23",
+    "url": "https://www.clarin.si/info/macocu-massive-collection-and-curation-of-monolingual-and-bilingual-data/"
   },
   {
     "pattern": "mail\\.ru",
@@ -1057,8 +1067,8 @@
     "last_changed": "2017-08-08"
   },
   {
-    "pattern": "The\\+Knowledge\\+AI",
-    "last_changed": "2018-09-05",
+    "pattern": "The[\\+\\s]Knowledge[\\+\\s]AI",
+    "last_changed": "2021-11-23",
     "url": "https://www.webmasterworld.com/search_engine_spiders/4896765.htm"
   },
   {
@@ -1262,6 +1272,11 @@
     "pattern": "Yeti\\/\\d",
     "last_changed": "2019-02-12",
     "url": "http://naver.me/spd"
+  },
+  {
+    "pattern": "Zabbix",
+    "last_changed": "2021-11-23",
+    "url": "https://github.com/zabbix/zabbix"
   },
   {
     "pattern": "zeus",
