@@ -2,6 +2,13 @@
 This document gives an overview of the different versions and the changes between versions.
 The releases are tagged with the date of the release. Currently, there are no version numbers.
 
+## Nov 23th, 2021
+Processed following merge requests :
+- https://github.com/atmire/COUNTER-Robots/pull/48 : Addition of Zabbix
+- https://github.com/atmire/COUNTER-Robots/pull/45 : Addition of httpx
+- https://github.com/atmire/COUNTER-Robots/pull/44 : Addition of MaCoCu
+Also updated the "The Knowledge AI" user agent.
+
 ## July 5th, 2021
 Processed following merge request : 
 - https://github.com/atmire/COUNTER-Robots/pull/43 : Addition of crusty and newspaper
