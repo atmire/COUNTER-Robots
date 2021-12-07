@@ -516,6 +516,12 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "HeadlessChrome",
+    "last_changed": "2021-12-07",
+    "description": "Headless Chrome is used to automate Chrome requests for testing purposes.",
+    "url": "https://developers.google.com/web/updates/2017/04/headless-chrome"
+  },
+  {
     "pattern": "HttpComponents\\/1.1",
     "last_changed": "2017-08-08"
   },
