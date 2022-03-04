@@ -389,6 +389,11 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "Faveeo\\/\\d",
+    "last_changed": "2022-03-04",
+    "url": "https://www.faveeo.com"
+  },
+  {
     "pattern": "FDM(\\s|\\+)\\d",
     "last_changed": "2017-08-08"
   },
