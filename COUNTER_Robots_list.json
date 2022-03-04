@@ -121,6 +121,12 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "axios\\/\\d",
+    "last_changed": "2022-03-04",
+    "description": "Promise based HTTP client for the browser and Node.js",
+    "url": "https://github.com/axios/axios"
+  },
+  {
     "pattern": "BDFetch",
     "last_changed": "2017-08-08"
   },
