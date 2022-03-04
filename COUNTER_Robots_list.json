@@ -1290,6 +1290,12 @@
     "url": "https://github.com/zabbix/zabbix"
   },
   {
+    "pattern": "ZoteroTranslationServer",
+    "last_changed": "2022-03-04",
+    "description": "A Node.js-based server to run Zotero translators",
+    "url": "https://github.com/zotero/translation-server"
+  },
+  {
     "pattern": "zeus",
     "last_changed": "2017-08-08"
   },
