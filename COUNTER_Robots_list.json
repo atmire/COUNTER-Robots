@@ -121,6 +121,12 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "axios\\/\\d",
+    "last_changed": "2022-03-04",
+    "description": "Promise based HTTP client for the browser and Node.js",
+    "url": "https://github.com/axios/axios"
+  },
+  {
     "pattern": "BDFetch",
     "last_changed": "2017-08-08"
   },
@@ -383,6 +389,11 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "Faveeo\\/\\d",
+    "last_changed": "2022-03-04",
+    "url": "https://www.faveeo.com"
+  },
+  {
     "pattern": "FDM(\\s|\\+)\\d",
     "last_changed": "2017-08-08"
   },
@@ -482,6 +493,12 @@
     "last_changed": "2018-02-15",
     "description": "Grammarly/1.0 bot is a web scraping bot used by the writing tool Grammarly. Grammarly allows users to upload written pieces of work and then scrapes the content looking for grammar mistakes. Grammarly makes sure that everything users type is easy to read, effective, and mistake-free.",
     "url": "https://www.distilnetworks.com/bot-directory/bot/grammarly1-0/"
+  },
+  {
+    "pattern": "GroupHigh\\/\\d",
+    "last_changed": "2022-03-04",
+    "description": "GroupHigh is an essential content marketing tool",
+    "url": "https://www.grouphigh.com"
   },
   {
     "pattern": "grub",
@@ -1283,6 +1300,12 @@
     "pattern": "Zabbix",
     "last_changed": "2021-11-23",
     "url": "https://github.com/zabbix/zabbix"
+  },
+  {
+    "pattern": "ZoteroTranslationServer",
+    "last_changed": "2022-03-04",
+    "description": "A Node.js-based server to run Zotero translators",
+    "url": "https://github.com/zotero/translation-server"
   },
   {
     "pattern": "zeus",
