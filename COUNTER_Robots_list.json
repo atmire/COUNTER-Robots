@@ -597,6 +597,12 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "Koha",
+    "last_changed": "2021-12-29",
+    "description": "Scan all URLs found in of Koha records and displays if resources are available or not.",
+    "url": "https://wiki.koha-community.org/wiki/Check-url_enhancements"
+  },
+  {
     "pattern": "kyluka",
     "last_changed": "2017-08-08"
   },
