@@ -27,6 +27,7 @@ arks
 ^Array$
 asterias
 atomz
+axios\/\d
 BDFetch
 Betsie
 baidu
@@ -89,6 +90,7 @@ Embedly
 EThOS\+\(British\+Library\)
 facebookexternalhit\/
 favorg
+Faveeo\/\d
 FDM(\s|\+)\d
 Feedbin
 feedburner
@@ -113,6 +115,7 @@ GLMSLinkAnalysis
 Goldfire(\s|\+)Server
 google
 Grammarly
+GroupHigh\/\d
 grub
 gulliver
 gvfs\/
@@ -121,6 +124,7 @@ heritrix
 holmes
 htdig
 htmlparser
+HeadlessChrome
 HttpComponents\/1.1
 HTTPFetcher
 http.?client
@@ -141,6 +145,7 @@ iskanie
 jeeves
 Jersey\/\d
 jobo
+Koha
 kyluka
 larbin
 libcurl
@@ -305,6 +310,7 @@ yahoo
 yandex
 Yeti\/\d
 Zabbix
+ZoteroTranslationServer
 zeus
 zyborg
 7siters
