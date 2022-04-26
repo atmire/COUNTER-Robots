@@ -2,6 +2,12 @@
 This document gives an overview of the different versions and the changes between versions.
 The releases are tagged with the date of the release. Currently, there are no version numbers.
 
+## Apr 22nd, 2022
+Processed following merge requests :
+- https://github.com/atmire/COUNTER-Robots/pull/49 : Addition of HeadlessChrome
+- https://github.com/atmire/COUNTER-Robots/pull/51 : Addition of Koha
+- https://github.com/atmire/COUNTER-Robots/pull/52 : Addition of axios, Faveeo, ZoteroTranslationServer, GroupHigh
+
 ## Nov 23th, 2021
 Processed following merge requests :
 - https://github.com/atmire/COUNTER-Robots/pull/48 : Addition of Zabbix
