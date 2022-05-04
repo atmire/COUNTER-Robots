@@ -584,6 +584,12 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "insomnia",
+    "last_changed": "2022-05-04",
+    "description": "The open-source, cross-platform API client for GraphQL, REST, and gRPC.",
+    "url": "https://github.com/Kong/insomnia"
+  },
+  {
     "pattern": "^integrity\\/\\d",
     "last_changed": "2017-08-08"
   },
@@ -732,6 +738,12 @@
   {
     "pattern": "megite",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "MetaInspector",
+    "last_changed": "2022-05-04",
+    "description": "Ruby gem for web scraping purposes.",
+    "url": "https://github.com/metainspector/metainspector"
   },
   {
     "pattern": "MetaURI[\\+\\s]API\\/\\d\\.\\d",
@@ -981,6 +993,12 @@
   {
     "pattern": "redalert",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "RestSharp",
+    "last_changed": "2022-05-04",
+    "description": "Simple REST and HTTP API Client for .NET",
+    "url": "https://github.com/restsharp/RestSharp"
   },
   {
     "pattern": "Riddler",
