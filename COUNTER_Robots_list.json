@@ -201,6 +201,10 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "centuryb",
+    "last_changed": "2022-04-27"
+  },
+  {
     "pattern": "cfnetwork",
     "last_changed": "2017-08-08"
   },
@@ -844,6 +848,12 @@
   {
     "pattern": "netluchs",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "nettle",
+    "last_changed": "2022-04-27",
+    "description": "AI company, doing natural language processing.",
+    "url": "https://www.nettle.sk"
   },
   {
     "pattern": "newspaper\\/\\d",
