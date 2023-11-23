@@ -868,6 +868,12 @@
     "url": "https://github.com/codelucas/newspaper"
   },
   {
+    "pattern": "newspaperjs",
+    "last_changed": "2023-11-23",
+    "description": "JavaScript news extraction and scraping.",
+    "url": "https://github.com/flickz/newspaperjs"
+  },
+  {
     "pattern": "ng\\/2\\.",
     "last_changed": "2017-08-08"
   },
