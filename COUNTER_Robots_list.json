@@ -924,6 +924,12 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "Owler@ows\\.eu",
+    "last_changed": "2023-11-23",
+    "description": "OpenWeb Search Crawler",
+    "url": "https://openwebsearch.eu/owler/"
+  },
+  {
     "pattern": "panscient",
     "last_changed": "2017-08-08"
   },
