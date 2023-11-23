@@ -513,6 +513,12 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "GuzzleHttp",
+    "last_changed": "2023-11-23",
+    "description": "Guzzle is a PHP HTTP client that makes it easy to send HTTP requests and trivial to integrate with web services.",
+    "url": "https://docs.guzzlephp.org/en/stable/"
+  },
+  {
     "pattern": "gvfs\\/",
     "last_changed": "2017-08-08"
   },
