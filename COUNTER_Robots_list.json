@@ -201,6 +201,12 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "centreon",
+    "last_changed": "2024-01-22",
+    "description": "IT and Application monitoring software.",
+    "url": "https://www.centreon.com/"
+  },
+  {
     "pattern": "centuryb",
     "last_changed": "2022-04-27"
   },
