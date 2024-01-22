@@ -1232,6 +1232,12 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "W3C-checklink",
+    "last_changed": "2024-01-22",
+    "description": "This Link Checker looks for issues in links, anchors and referenced objects in a Web page, CSS style sheet, or recursively on a whole Web site.",
+    "url": "https://validator.w3.org/checklink"
+  },
+  {
     "pattern": "Wanadoo",
     "last_changed": "2017-08-08"
   },
