@@ -111,1643 +111,866 @@ Processed 3 following merge requests :
 ## July 27th, 2017
 - First release, this is the latest list provided by COUNTER
 
-## January 10th, 2024
+## January 29th, 2024
 - Added user-agents:
     - &as_qdr=all
-    - */Nutch-0.9-dev
-    - 192.comAgent
-    - 222.122.15.190
-    - 2Bone_LinkChkr/1.0 l
+    - 192\.comAgent
+    - 222\.122\.15\.190
+    - 2Bone_LinkChkr\/1\.0\sl
     - 7331230CB97FADECF052
-    - 8484 Boston Project 
+    - 8484\sBoston\sProject
     - 8LEGS
-    - A-Online Search
-    - ADmantX Platform Sem
-    - AHC/2.0
-    - ASPSeek/1.2.5
-    - ASPSeek/1.2.x
-    - ASPSeek/1.2.xa
-    - ASPSeek/1.2.xxpre
-    - ASPseek/1.2.9d
-    - ASPseek/1.2.xx
-    - ASSORT/0.10
-    - AV Fetch 1.0
-    - AVSearch-1.0(peter.t
-    - AVSearch-2.0-fusionI
-    - AVSearch-3.0(AltaVis
-    - About/0.1libwww-perl
-    - Accoona-AI-Agent/1.1
-    - Acorn/Nutch-0.9 (Non
-    - ActiveBookmark 1.x
-    - AdobeUxTechC4-Async/
-    - AgentName/0.1 libwww
-    - AideRSS/1.0 (aiderss
-    - Aladin/3.324
-    - Allesklar/0.1 libwww
-    - Allrati/1.1 (+)
-    - AltaVista Intranet V
-    - Amazon CloudFront
-    - AmiTCP Miami (AmigaO
-    - Anonymizer/1.1
-    - AnswerChase PROve x.
-    - AnswerChase x.0
-    - AnzwersCrawl/2.0 (an
-    - Apache (internal dum
+    - A-Online\sSearch
+    - AHC\/2\.0
+    - ASPSeek\/1\.2\.5
+    - ASPSeek\/1\.2\.x
+    - ASPseek\/1\.2\.9d
+    - ASSORT\/0\.10
+    - AV\sFetch\s1\.0
+    - AVSearch-1\.0
+    - AVSearch-2\.0-fusionI
+    - AVSearch-3\.0
+    - Accoona-AI-Agent\/1\.1
+    - ActiveBookmark\s1\.x
+    - AdobeUxTechC4-Async\/
+    - Aladin\/3\.324
+    - Allrati\/1\.1
+    - AltaVista\sIntranet\sV
+    - Amazon\sCloudFront
+    - AmiTCP\sMiami
+    - Anonymizer\/1\.1
+    - AnswerChase\sPROve\sx\.
+    - AnswerChase\sx\.0
+    - Apache
     - Apache-HttpAsyncClie
-    - Apache-HttpClient/4.
-    - Apache-HttpClient/UN
+    - Apache-HttpClient\/4\.
+    - Apache-HttpClient\/UN
     - Aport
-    - Arachnoidea (arachno
-    - Asahina-Antenna/1.x
-    - Asahina-Antenna/1.x 
-    - Ask.24x.Info
-    - Atomic_Email_Hunter/
-    - Atomz/1.0
-    - BIGLOTRON (Beta 2;GN
+    - Arachnoidea
+    - Asahina-Antenna\/1\.x
+    - Ask\.24x\.Info
+    - Atomic_Email_Hunter\/
     - BMCLIENT
     - BMLAUNCHER
-    - BPImageWalker/2.0 (w
-    - BSDSeek/1.0
-    - BStop.BravoBrian.it 
-    - BTWebClient/180B(970
-    - BeamMachine/0.5 (dea
-    - BeebwareDirectory/v0
-    - Big Fish v1.0
-    - BigBrother/1.6e
-    - Bilbo/2.3b-UNIX
-    - BlackBerry9000/4.6.0
+    - BPImageWalker\/2\.0
+    - BSDSeek\/1\.0
+    - BStop\.BravoBrian\.it
+    - BTWebClient\/180B
+    - BeamMachine\/0\.5
+    - BeebwareDirectory\/v0
+    - Big\sFish\sv1\.0
+    - BigBrother\/1\.6e
+    - Bilbo\/2\.3b-UNIX
+    - BlackBerry9000\/4\.6\.0
     - BlackWidow
-    - Blackboard Safeassig
-    - BlogPulseLive (suppo
-    - Blogpulse (info@blog
-    - Bobby/4.0.x RPT-HTTP
-    - Bookdog/x.x
-    - BravoBrian bstop.bra
+    - Blackboard\sSafeassig
+    - Bobby\/4\.0\.x\sRPT-HTTP
+    - Bookdog\/x\.x
+    - BravoBrian\sbstop\.bra
     - BullsEye
     - BunnySlippers
-    - CB/Nutch-1.7
-    - CFNetwork/x.x
-    - CHttpClient by Open 
-    - CLIPish Pro2 10.21 (
-    - COAST WebMaster Pro/
-    - CamelHttpStream/1.0
-    - Cancer Information a
-    - Chat Catcher/1.0
-    - China Local Browse 2
-    - Chitika ContentHit 1
-    - Claymont.com
-    - ColdFusion (Bookmark
-    - Combine/x.0
+    - CHttpClient\sby\sOpen
+    - CLIPish\sPro2\s10\.21
+    - COAST\sWebMaster\sPro\/
+    - CamelHttpStream\/1\.0
+    - Cancer\sInformation\sa
+    - Chat\sCatcher\/1\.0
+    - China\sLocal\sBrowse\s2
+    - Chitika\sContentHit\s1
+    - Claymont\.com
     - Contact
-    - Cookie%20Stumbler/22
-    - CrawlConvera0.1 (Cra
-    - Custo x.x (www.netwu
-    - CyberSpyder Link Tes
-    - DBrowse 1.4b
-    - DBrowse 1.4d
+    - Cookie%20Stumbler\/22
+    - CyberSpyder\sLink\sTes
+    - DBrowse\s1\.4b
+    - DBrowse\s1\.4d
     - DTAAgent
-    - Dart Communications 
-    - DataCha0s/2.0
-    - DataFountains/DMOZ D
-    - Datafeedwatch/2.1.x
-    - Deep Link Calculator
+    - Dart\sCommunications
+    - DataFountains\/DMOZ\sD
+    - Datafeedwatch\/2\.1\.x
+    - Deep\sLink\sCalculator
     - DeepIndex
-    - DeepIndex (www.en.de
-    - DeepIndexer.ca
-    - DevComponents.com Ht
-    - Diamond/x.0
+    - DeepIndexer\.ca
+    - DevComponents\.com\sHt
+    - Diamond\/x\.0
     - DigOut4U
-    - Digger/1.0 JDK/1.3.0
-    - Disqus/1.0
+    - Digger\/1\.0\sJDK\/1\.3\.0
+    - Disqus\/1\.0
     - DittoSpyder
-    - DoCoMo/1.0/Nxxxi/c10
-    - DoCoMo/2.0 P900iV(c1
-    - EARTHCOM.info/1.x [w
-    - EARTHCOM.info/1.xbet
-    - EBrowse 1.4b
-    - EasyDL/3.xx
-    - EchO!/2.0
-    - Educate Search VxB
-    - EldoS TimelyWeb/3.x
-    - EmailWolf 1.00
-    - Embedly +support@emb
-    - Enfish Tracker
-    - Enterprise_Search/1.
-    - Evernote Clip Resolv
-    - Exalead NG/MimeLive 
-    - Expired Domain Sleut
+    - EARTHCOM\.info\/1\.x\s\[w
+    - EARTHCOM\.info\/1\.xbet
+    - EBrowse\s1\.4b
+    - EchO!\/2\.0
+    - Educate\sSearch\sVxB
+    - EldoS\sTimelyWeb\/3\.x
+    - Enfish\sTracker
+    - Enterprise_Search\/1\.
+    - Evernote\sClip\sResolv
+    - Exalead\sNG\/MimeLive
+    - Expired\sDomain\sSleut
     - ExtractorPro
-    - EyeCatcher (Download
-    - FARK.com link verifi
+    - EyeCatcher
+    - FARK\.com\slink\sverifi
     - FLATARTS_FAVICO
-    - FaEdit/2.0.x
-    - FavOrg
-    - Favorites Sweeper v.
-    - Feed24.com
-    - FeedForAll rss2html.
-    - FeedValidator/1.3
-    - Filtrbox/1.0
-    - FindAnISP.com_ISP_Fi
-    - Firefly/1.0
-    - Firefox (kastaneta03
-    - Firefox_1.0.6 (kaspa
-    - FirstGov.gov Search 
-    - Flexum/2.0
-    - FocusedSampler/1.0
-    - Franklin Locator 1.8
-    - FuseBulb.Com
-    - GigablastOpenSource/
-    - Go 1.1 package http
-    - Go-http-client/1.1
-    - Go-http-client/2.0
-    - GoForIt.com
-    - Goofer/0.2
-    - GrapeFX/0.3 libwww/5
-    - Gromit/1.0
-    - Guestbook Auto Submi
-    - Gulliver/1.3
-    - Guzzle/4.2.3 curl/7.
+    - FaEdit\/2\.0\.x
+    - Favorites\sSweeper\sv\.
+    - Feed24\.com
+    - Filtrbox\/1\.0
+    - FindAnISP\.com_ISP_Fi
+    - Firefly\/1\.0
+    - Firefox
+    - Firefox_1\.0\.6
+    - FirstGov\.gov\sSearch
+    - Flexum\/2\.0
+    - FocusedSampler\/1\.0
+    - Franklin\sLocator\s1\.8
+    - FuseBulb\.Com
+    - Go\s1\.1\spackage\shttp
+    - Go-http-client\/1\.1
+    - Go-http-client\/2\.0
+    - GoForIt\.com
+    - Goofer\/0\.2
+    - Gromit\/1\.0
+    - Guestbook\sAuto\sSubmi
     - HLoader
-    - HPL/Nutch-0.9 -
     - Haansoft
-    - Harvest-NG/1.0.2
-    - Hatena Antenna/0.3
-    - Hatena Pagetitle Age
-    - Hatena::Bookmark/2.0
-    - Hippias/0.9 Beta
+    - Hatena\sAntenna\/0\.3
+    - Hatena\sPagetitle\sAge
+    - Hatena::Bookmark\/2\.0
+    - Hippias\/0\.9\sBeta
     - HitList
     - Hivemind
-    - HomePageSearch(hpsea
-    - Html Link Validator 
-    - Hybrid/1.2 [en] (OS 
-    - IAArchiver-1.0
-    - IBM WebExplorer /v0.
+    - HomePageSearch
+    - Hybrid\/1\.2\s\[en]
+    - IAArchiver-1\.0
+    - IBM\sWebExplorer\s\/v0\.
     - IEFav172Free
-    - INFOMINE/8.0 Adders
-    - INFOMINE/8.0 RemoteS
-    - IP*Works! V5 HTTP/S 
-    - ISC Systems iRc Sear
-    - IWAgent/ 1.0 - www.b
-    - Icarus6 - (contact: 
-    - ImageWalker/2.0 (www
-    - Incutio HttpClient v
-    - IncyWincy data gathe
-    - Industry Program 1.0
-    - Inet library
-    - InetURL/1.0
-    - InfoLink/1.x
-    - InfoSeek Sidewinder/
-    - Infoaxe./Nutch-0.9
-    - Infoseek SideWinder/
-    - Inktomi Search
-    - Insitor.com search a
+    - INFOMINE\/8\.0\sAdders
+    - INFOMINE\/8\.0\sRemoteS
+    - IP\*Works!\sV5\sHTTP\/S
+    - ISC\sSystems\siRc\sSear
+    - IWAgent\/\s1\.0\s-\swww\.b
+    - Icarus6\s-
+    - ImageWalker\/2\.0
+    - Incutio\sHttpClient\sv
+    - IncyWincy\sdata\sgathe
+    - Industry\sProgram\s1\.0
+    - Inet\slibrary
+    - InetURL\/1\.0
+    - InfoLink\/1\.x
+    - InfoSeek\sSidewinder\/
+    - Infoseek\sSideWinder\/
+    - Inktomi\sSearch
+    - Insitor\.com\ssearch\sa
     - Insitornaut
-    - Internet Ninja x.0
-    - InternetLinkAgent/3.
-    - InternetSeer.com
-    - IrssiUrlLog/0.2
-    - JDK/1.1
+    - Internet\sNinja\sx\.0
+    - InternetLinkAgent\/3\.
+    - JDK\/1\.1
     - Jack
-    - Jakarta Commons-Http
-    - Java 1.1
-    - Java Browser
-    - Java/1.4.1_01
-    - Java/1.4.1_04
-    - Java/1.5.0_16
-    - Java/1.6.0_04
-    - Java/1.6.0_07
-    - Java/1.6.0_18
-    - Java/1.6.0_22
-    - Java/1.6.0_24
-    - Java/1.6.0_25
-    - Java/1.6.0_26
-    - Java/1.6.0_27
-    - Java/1.6.0_29
-    - Java/1.6.0_30
-    - Java/1.6.0_31
-    - Java/1.6.0_32
-    - Java/1.6.0_33
-    - Java/1.6.0_34
-    - Java/1.6.0_35
-    - Java/1.6.0_39
-    - Java/1.6.0_45
-    - Java/1.6.0_51
-    - Java/1.7.0_03
-    - Java/1.7.0_09
-    - Java/1.7.0_15
-    - Java/1.7.0_17
-    - Java/1.7.0_21
-    - Java/1.7.0_25
-    - Java/1.7.0_40
-    - Java/1.7.0_45
-    - Java/1.7.0_51
-    - Java/1.7.0_55
-    - Java/1.7.0_60
-    - Java/1.7.0_65
-    - Java/1.7.0_71
-    - Java/1.7.0_75
-    - Java/1.7.0_80
-    - Java/1.8.0_20
-    - Java/1.8.0_25
-    - Java/1.8.0_31
-    - Java/1.8.0_40
-    - Java/1.8.0_45
-    - Java/1.8.0_51
-    - Java1.0.21.0
-    - Java1.1.xx.x
-    - Java1.3.0rc1
-    - Java1.3.x
-    - Java1.4.0
-    - Jersey/2.25.1 (HttpU
-    - Jetty/9.3.z-SNAPSHOT
-    - Jigsaw/2.2.x W3C_CSS
-    - Jigsaw/2.3.0 W3C_CSS
-    - Junkie/1.0
-    - KE_1.0/2.0 libwww/5.
-    - KIT-Fireball/2.0
-    - KnowItAll(knowitall@
-    - Knowledge.com/0.x
-    - KummHttp/1.1 (compat
-    - LARBIN-EXPERIMENTAL 
-    - LEIA/2.90
-    - LWP::Simple/5.22
-    - LWP::Simple/5.36
-    - LWP::Simple/5.48
-    - LWP::Simple/5.50
-    - LWP::Simple/5.51
-    - LWP::Simple/5.53
-    - LWP::Simple/5.63
-    - LWP::Simple/5.803
+    - Jakarta\sCommons-Http
+    - Java1\.0\.21\.0
+    - Java1\.1\.xx\.x
+    - Java1\.3\.0rc1
+    - Java1\.3\.x
+    - Java1\.4\.0
+    - Jersey\/2\.25\.1
+    - Jetty\/9\.3\.z-SNAPSHOT
+    - Jigsaw\/2\.2\.x\sW3C_CSS
+    - Jigsaw\/2\.3\.0\sW3C_CSS
+    - Junkie\/1\.0
+    - KIT-Fireball\/2\.0
+    - KnowItAll
+    - Knowledge\.com\/0\.x
+    - KummHttp\/1\.1
+    - LEIA\/2\.90
     - Lachesis
-    - Libby_1.1/libwww-per
-    - Lincoln State Web Br
-    - Link Valet Online 1.
-    - LinkAlarm/2.x
-    - LinkPimpin v1.0
-    - LinkProver 2.1
-    - LinkSonar/1.35
-    - LinkSweeper/1.x
-    - LinkWalker
-    - LinkWalker/2.0
-    - Look.com
-    - Lynx/2.8.4rel.1 libw
+    - Lincoln\sState\sWeb\sBr
+    - Link\sValet\sOnline\s1\.
+    - LinkAlarm\/2\.x
+    - LinkPimpin\sv1\.0
+    - LinkProver\s2\.1
+    - LinkSonar\/1\.35
+    - LinkSweeper\/1\.x
+    - Look\.com
+    - Lynx\/2\.8\.4rel\.1\slibw
     - MARTINI
-    - MFC Foundation Class
+    - MFC\sFoundation\sClass
     - MFC_Tear_Sample
-    - MSIE-5.13 (larbin@un
-    - MSNPTC/1.0
+    - MSIE-5\.13
+    - MSNPTC\/1\.0
     - MVAClient
-    - Mac Finder 1.0.xx
+    - Mac\sFinder\s1\.0\.xx
     - Mag-Net
-    - Mail.Ru/1.0
     - MantraAgent
-    - MapoftheInternet.com
-    - Marketwave Hit List
+    - MapoftheInternet\.com
+    - Marketwave\sHit\sList
     - Martini
-    - Marvin v0.3
+    - Marvin\sv0\.3
     - MasterSeek
-    - Mata Hari/2.00
-    - MediaSearch/0.1
-    - Mediapartners-Google
-    - MegaSheep v1.0 (www.
-    - MeltwaterNews www.me
-    - Mercator-1.x
-    - Mercator-2.0
-    - Mercator-Scrub-1.1
-    - Mercury/894 CFNetwor
-    - MetaURI API/2.0 +met
+    - Mata\sHari\/2\.00
+    - MediaSearch\/0\.1
+    - MegaSheep\sv1\.0
+    - MeltwaterNews\swww\.me
+    - Mercator-1\.x
+    - Mercator-2\.0
+    - Mercator-Scrub-1\.1
+    - Mercury\/894\sCFNetwor
+    - MetaURI\sAPI\/2\.0\s\+met
     - MicroBaz
-    - Microsoft Data Acces
-    - Microsoft Small Busi
-    - Microsoft URL Contro
-    - Microsoft Windows Ne
+    - Microsoft\sData\sAcces
+    - Microsoft\sSmall\sBusi
+    - Microsoft\sURL\sContro
+    - Microsoft\sWindows\sNe
     - MiracleAlphaTest
-    - Missauga Locate 1.0.
-    - Missigua Locator 1.9
-    - Missouri College Bro
-    - Mister PiX version.d
-    - Mister Pix II 2.02a
-    - Miva (AlgoFeedback@m
-    - Mizzu Labs 2.2
-    - MnogoSearch/3.2.xx
-    - Mnogosearch-3.1.21
-    - Mo College 1.9
-    - More yacy user agent
+    - Missauga\sLocate\s1\.0\.
+    - Missigua\sLocator\s1\.9
+    - Missouri\sCollege\sBro
+    - Mister\sPiX\sversion\.d
+    - Mister\sPix\sII\s2\.02a
+    - Miva
+    - Mizzu\sLabs\s2\.2
+    - Mo\sCollege\s1\.9
     - Mozi!
-    - MultiText/0.1
-    - My WinHTTP Connectio
-    - MyNutchTest/Nutch-1.
-    - NASA Search 1.0
-    - NEC Research Agent -
-    - NEC-Hayek/1.0
-    - NG/4.0.1229
-    - NICO/1.0
-    - NING/1.0
+    - MultiText\/0\.1
+    - My\sWinHTTP\sConnectio
+    - NASA\sSearch\s1\.0
+    - NEC\sResearch\sAgent\s-
+    - NEC-Hayek\/1\.0
+    - NG\/4\.0\.1229
+    - NICO\/1\.0
+    - NING\/1\.0
     - NationalDirectoryAdd
     - NativeHost
-    - NetLookout/2.24
-    - NetMechanic Vx.0
-    - NetSprint -- 2.0
+    - NetLookout\/2\.24
+    - NetMechanic\sVx\.0
+    - NetSprint\s--\s2\.0
     - NetZippy
-    - Nocilla/1.0
-    - Nsauditor/1.x
+    - Nocilla\/1\.0
+    - Nsauditor\/1\.x
     - Nuzzel
-    - Nuzzel/876 CFNetwork
-    - Octora Beta - www.oc
-    - Oculus360/Nutch-1.7
+    - Octora\sBeta\s-\swww\.oc
     - OliverPerry
-    - OpenAcoon v4.0.x (ww
-    - OpenISearch/1.x (www
-    - OpenOffice/4.1.1
-    - OpenWebIndex/Nutch-1
-    - Openstat/0.1
-    - Opera/6.01 (larbin@u
-    - Oracle Ultra Search
-    - OzySoftware.com
-    - PBrowse 1.4b
-    - PEval 1.4b
-    - PHP/3.x.xx
-    - PHP/4.0.4pl1
-    - PHP/4.0.6
-    - PHP/4.1.1
-    - PHP/4.1.2
+    - OpenAcoon\sv4\.0\.x
+    - OpenISearch\/1\.x
+    - OpenOffice\/4\.1\.1
+    - Openstat\/0\.1
+    - Opera\/6\.01
+    - Oracle\sUltra\sSearch
+    - OzySoftware\.com
+    - PBrowse\s1\.4b
+    - PEval\s1\.4b
     - POE-Component-Client
-    - Pcore-HTTP/v0.40.3
-    - PeopleChat/Search_En
-    - PicoSearch/1.0
+    - PeopleChat\/Search_En
+    - PicoSearch\/1\.0
     - Piffany_Web_Scraper_
-    - PingALink Monitoring
+    - PingALink\sMonitoring
     - Pita
     - Poirot
-    - Pompos/1.x pompos@il
-    - Popdexter/1.0
-    - Port Huron Labs
+    - Pompos\/1\.x\spompos@il
+    - Popdexter\/1\.0
+    - Port\sHuron\sLabs
     - PostFavorites
-    - PostRank/2.0 (postra
-    - PrivacyFinder/1.1
-    - Program Shareware 1.
-    - Progressive Download
-    - Project XP5 [2.03.07
-    - PubCrawl (pubcrawl.s
-    - Pulsepoint XT3 web s
-    - PycURL/7.13.2
-    - PycURL/7.15.5
-    - PycURL/7.16.4
-    - PycURL/7.18.0
-    - PycURL/7.18.2
-    - PycURL/7.19.0
-    - PycURL/7.19.3
-    - PycURL/7.19.5
-    - PycURL/7.19.7
-    - PycURL/7.23.1
-    - Python-urllib/1.17
-    - Python-urllib/1.1x
-    - Python-urllib/2.0a1
-    - Python-urllib/2.5
-    - Python-urllib/2.6
-    - Python-urllib/2.7
-    - Python-urllib/3.1
-    - Python-urllib/3.2
-    - Python-urllib/3.3
-    - Python-urllib/3.4
-    - Python-urllib/3.5
-    - Python-urllib/3.6
-    - QPCreep Test Rig ( W
-    - Qseero v1.0.0
-    - QuepasaCreep v0.9.1x
-    - QueryN Metasearch
-    - Qwantify/1.0
-    - R6_VoteReader(www.ra
-    - REBOL Core 2.x.x.x.x
-    - RPT-HTTPClient/0.3-x
-    - RepoMonkey Bait & Ta
-    - RoboCrawl (www.canad
-    - Robozilla/1.0
-    - Rotondo/3.1 libwww/5
+    - PostRank\/2\.0
+    - PrivacyFinder\/1\.1
+    - Program\sShareware\s1\.
+    - Progressive\sDownload
+    - Project\sXP5\s\[2\.03\.07
+    - Pulsepoint\sXT3\sweb\ss
+    - QPCreep\sTest\sRig
+    - Qseero\sv1\.0\.0
+    - QuepasaCreep\sv0\.9\.1x
+    - QueryN\sMetasearch
+    - R6_VoteReader
+    - RPT-HTTPClient\/0\.3-x
+    - RepoMonkey\sBait\s&\sTa
     - Ruby
     - Rumours-Agent
-    - SMRF URL Expander
-    - Scooter-3.0.EU
-    - Scooter-3.0.FS
-    - Scooter-3.0.HD
-    - Scooter-3.0.VNS
-    - Scooter-3.0QI
-    - Scooter-3.2
-    - Scooter-3.2.BT
-    - Scooter-3.2.DIL
-    - Scooter-3.2.EX
-    - Scooter-3.2.JT
-    - Scooter-3.2.NIV
-    - Scooter-3.2.SF0
-    - Scooter-3.2.snippet
-    - Scooter-3.3dev
-    - Scooter-ARS-1.1
-    - Scooter-ARS-1.1-ih
-    - Scooter-W3-1.0
-    - Scooter-W3.1.2
-    - Scooter/1.0
-    - Scooter/1.0 scooter@
-    - Scooter/1.1 (custom)
-    - Scooter/2.0 G.R.A.B.
-    - Scooter/3.3
-    - Scooter/3.3.QA.pczuk
-    - Scooter/3.3.vscooter
-    - Scooter/3.3_SF
-    - Scooter2_Mercator_x-
-    - Scooter_bh0-3.0.3
-    - Scooter_trk3-3.0.3
+    - SMRF\sURL\sExpander
     - ScoutAbout
-    - Search+
+    - Search\+
     - Search-Engine-Studio
-    - SearchGuild/DMOZ/Exp
+    - SearchGuild\/DMOZ\/Exp
     - SearchGuild_DMOZ_Exp
-    - SearchSight.com
-    - SearchTone2.0 - IDEA
-    - Seeker.lookseek.com
-    - Silk/1.0
-    - SiteBar/x.x
-    - SiteRecon+(xx)
-    - SiteTruth.com site r
+    - SearchSight\.com
+    - SearchTone2\.0\s-\sIDEA
+    - Seeker\.lookseek\.com
+    - Silk\/1\.0
+    - SiteBar\/x\.x
+    - SiteRecon\+
+    - SiteTruth\.com\ssite\sr
     - SiteXpert
-    - Skywalker/0.1 (Skywa
-    - Slarp/0.1
+    - Skywalker\/0\.1
+    - Slarp\/0\.1
     - Slider_Search_v1-de
-    - Slurpy Verifier/1.0
-    - SlySearch (slysearch
-    - SnoopRob/x.x
-    - Snoopy v1.xx
-    - Snoopy_v0.xx
-    - Sphere Scout&v4.0 - 
+    - SlySearch
+    - SnoopRob\/x\.x
+    - Snoopy\sv1\.xx
+    - Snoopy_v0\.xx
+    - Sphere\sScout&v4\.0\s-
     - Sphider
-    - Spida/0.1
-    - Spinne/2.0
-    - Spinne/2.0 med
-    - Spinne/2.0 med_AH
-    - Sqworm/2.9.81-BETA (
-    - Sqworm/2.9.85-BETA (
-    - Sqworm/2.9.89-BETA (
-    - StackRambler/2.0
-    - StackRambler/2.0 (MS
-    - StackRambler/x.x
-    - SyncIT/x.x
-    - Szukacz/1.x
+    - Spida\/0\.1
+    - Spinne\/2\.0
+    - Spinne\/2\.0\smed
+    - Spinne\/2\.0\smed_AH
+    - SyncIT\/x\.x
+    - Szukacz\/1\.x
     - TE
-    - TJvMultiHttpGrabber 
-    - Tagyu Agent/1.0
-    - TeamSoft WinInet Com
-    - Teoma MP
-    - The European Library
-    - Thinklab (thinklab.c
+    - TJvMultiHttpGrabber
+    - Tagyu\sAgent\/1\.0
+    - TeamSoft\sWinInet\sCom
+    - The\sEuropean\sLibrary
+    - Thinklab
     - TinEye
-    - Toutatis x-xx.x (hop
-    - Toutatis x.x (hoppa.
-    - Toutatis x.x-x
-    - Traackr.com
-    - Twisted PageGetter
-    - Twitter/6.18.3 CFNet
-    - Twitturly / v0.x
-    - Tycoon Agent/Nutch-1
+    - Toutatis\sx-xx\.x
+    - Toutatis\sx\.x
+    - Toutatis\sx\.x-x
+    - Traackr\.com
+    - Twisted\sPageGetter
+    - Twitter\/6\.18\.3\sCFNet
+    - Twitturly\s\/\sv0\.x
     - TygoProwler
-    - UCWEB/2.0(Linux; U; 
+    - UCWEB\/2\.0
     - UDM
-    - URLBase/6.x
+    - URLBase\/6\.x
     - URLBlaze
-    - UdmSearch/3.1.x
-    - Ultraseek
-    - Under the Rainbow 2.
-    - UofTDB_experiment (l
-    - Upflow/1.0
-    - VYU2 (GNU; OpenRISC)
-    - Vagabondo/1.x MT (we
-    - Vagabondo/2.0 MT
-    - Vagabondo/2.0 MT (we
-    - Vagabondo/3.0 (webag
-    - Validator.nu/LV
-    - VayalaCreep-v0.0.1 (
-    - Vayala|Creep-v0.0.1 
-    - VeryGoodSearch.com.D
-    - W3C-mobileOK/DDC-1.0
-    - W3C_Unicorn/1.0
-    - W3C_Validator/1.3
-    - W3C_Validator/1.xxx 
-    - WDG_Validator/1.1
-    - WEP Search 00
+    - UdmSearch\/3\.1\.x
+    - Under\sthe\sRainbow\s2\.
+    - UofTDB_experiment
+    - Upflow\/1\.0
+    - VYU2
+    - Vagabondo\/1\.x\sMT
+    - Vagabondo\/2\.0\sMT
+    - Vagabondo\/3\.0
+    - VayalaCreep-v0\.0\.1
+    - Vayala\|Creep-v0\.0\.1
+    - VeryGoodSearch\.com\.D
+    - W3C-mobileOK\/DDC-1\.0
+    - W3C_Unicorn\/1\.0
+    - WEP\sSearch\s00
     - WFARC
-    - WIRE/0.22 (Linux; x8
+    - WIRE\/0\.22
     - WST-Plagiarism
-    - WWWC/1.0x
-    - Wada.vn Vietnamese S
-    - Waypath Scout v2.x -
+    - WWWC\/1\.0x
+    - Wada\.vn\sVietnamese\sS
+    - Waypath\sScout\sv2\.x\s-
     - WeSEE
     - WeSEE:Search
-    - Web Link Validator 1
-    - Web Snooper
-    - WebBug/5.x
-    - WebCompass 2.0
-    - WebCorp/1.0
-    - WebSearch.COM.AU;
-    - WebStat/1.0 (Unix; b
-    - WebTrends/3.0 (WinNT
-    - WebVac (webmaster@pi
-    - WebVal/1.0
-    - WebVulnCrawl.unknown
-    - WebWatcherMonitor/2.
-    - Webclipping.com
-    - Webdup/0.9
-    - Weblog Attitude Diff
-    - WebsiteWorth v1.0
-    - Webspinne/1.0 webmas
-    - Webverzeichnis.de - 
-    - Wells Search II
-    - Wget/1.14 (linux-gnu
-    - WhatsApp/2.12.15/i
-    - WhatsApp/2.12.16/i
-    - WhatsApp/2.12.17/i
-    - WhatsApp/2.12.449 A
-    - WhatsApp/2.12.453 A
-    - WhatsApp/2.12.510 A
-    - WhatsApp/2.12.540 A
-    - WhatsApp/2.12.548 A
-    - WhatsApp/2.12.555 A
-    - WhatsApp/2.12.556 A
-    - WhatsApp/2.16.1/i
-    - WhatsApp/2.16.13 A
-    - WhatsApp/2.16.2/i
-    - WhatsApp/2.16.42 A
-    - WhatsApp/2.16.57 A
-    - Whatsup/x.x
-    - WhizBang! Lab
-    - WinHTTP Example/1.0
-    - WinampMPEG/2.00 (lar
-    - WincerSong Agent v1.
-    - WorQmada/1.0
-    - WordupInfoSearch/1.0
+    - Web\sSnooper
+    - WebBug\/5\.x
+    - WebCompass\s2\.0
+    - WebCorp\/1\.0
+    - WebSearch\.COM\.AU;
+    - WebStat\/1\.0
+    - WebTrends\/3\.0
+    - WebVac
+    - WebVal\/1\.0
+    - WebWatcherMonitor\/2\.
+    - Webclipping\.com
+    - Webdup\/0\.9
+    - Weblog\sAttitude\sDiff
+    - WebsiteWorth\sv1\.0
+    - Webspinne\/1\.0\swebmas
+    - Webverzeichnis\.de\s-
+    - Wells\sSearch\sII
+    - Whatsup\/x\.x
+    - WhizBang!\sLab
+    - WinHTTP\sExample\/1\.0
+    - WinampMPEG\/2\.00
+    - WincerSong\sAgent\sv1\.
+    - WorQmada\/1\.0
+    - WordupInfoSearch\/1\.0
     - WorldLight
-    - Wusage/x.0@boutell.c
-    - Wwlib/Linux
-    - XMLSlurp/0.1 libwww-
-    - Xenu Link Sleuth 1.x
-    - Xenu Link Sleuth/1.3
-    - Xenu's Link Sleuth 1
+    - Wusage\/x\.0@boutell\.c
+    - Wwlib\/Linux
     - Xylix
-    - Y!J-SRD/1.0
-    - Yahoo Pipes 1.0
-    - Yahoo! Mindset
-    - Yahoo-Test/4.0
-    - YahooCacheSystem
-    - YahooCacheSystem; Ya
-    - YahooSeeker/CafeKels
     - Yanadoo
-    - Yandex/1.01.001 (com
     - Zearchit
     - ZendHttpClient
-    - Zeus ThemeSite Viewe
-    - Zeus xxxxx Webster P
-    - Ziggy -- The Clown F
-    - Zippy v2.0 - Zippyfi
-    - a.pr-cy.ru
-    - about.ask.com
-    - about.depspid.net
+    - Ziggy\s--\sThe\sClown\sF
+    - Zippy\sv2\.0\s-\sZippyfi
+    - a\.pr-cy\.ru
+    - about\.ask\.com
+    - about\.depspid\.net
     - accoona
-    - aihit.com
+    - aihit\.com
     - amzn_assoc
-    - app.hypefactors.com
-    - appie 1.1 (www.walhe
-    - archive.org
-    - ask.24x.info
-    - asterias/2.0
+    - app\.hypefactors\.com
+    - archive\.org
+    - ask\.24x\.info
     - augurfind
-    - augurnfind V-1.x
+    - augurnfind\sV-1\.x
     - autohttp
-    - autowebdir 1.1 (www.
-    - axios/0.18.0
-    - bCentral Billing Pos
-    - bdcindexer_2.6.2 (re
-    - binlar_2.6.3 binlar2
-    - binlar_2.6.3 binlar_
-    - binlar_2.6.3 larbin2
-    - binlar_2.6.3 phanend
-    - binlar_2.6.3 test@mg
-    - blacklistdeclassified.net
-    - bookmarkbase.com
-    - bulkfeeds.net
-    - bumblebee@relevare.c
-    - cantor.ee.ucla.edu
-    - carleson/1.0
-    - ccubee/x.x
-    - cfetch/1.0
-    - cg-eye interactive
+    - autowebdir\s1\.1
+    - axios\/0\.18\.0
+    - bCentral\sBilling\sPos
+    - bdcindexer_2\.6\.2
+    - blacklistdeclassified\.net
+    - bookmarkbase\.com
+    - bulkfeeds\.net
+    - bumblebee@relevare\.c
+    - cantor\.ee\.ucla\.edu
+    - carleson\/1\.0
+    - ccubee\/x\.x
+    - cfetch\/1\.0
+    - cg-eye\sinteractive
     - cobitsprobe
-    - coccoc/1.0 ()
-    - code.google.com
     - codegator
-    - cohalinglit.wordpress.com
-    - collage.cgi/1.xx
-    - combine.it.lth.se
-    - combine/0.0
-    - computerorgs.com
-    - content.easybib.com
-    - coralcdn.org
-    - cosco.hiit.fi
-    - crawler
-    - cs.daum.net
-    - csci_b659/0.13
-    - curl/7.18.2 (x86_64-
-    - curl/7.19.7 (x86_64-
-    - curl/7.21.4 (univers
-    - curl/7.37.1
-    - dcrawl/1.0
-    - dds explorer v1.0 be
-    - deepak-USC/ISI
-    - deusu.org
-    - developers.google.com
-    - dhcibr.wordpress.com
-    - digg.com
-    - dir.com
-    - drupal.org
-    - dznet.com
-    - e-sense 1.0 ea(www.v
-    - eStyleSearch 4 (comp
+    - collage\.cgi\/1\.xx
+    - computerorgs\.com
+    - content\.easybib\.com
+    - coralcdn\.org
+    - cosco\.hiit\.fi
+    - cs\.daum\.net
+    - csci_b659\/0\.13
+    - dds\sexplorer\sv1\.0\sbe
+    - deepak-USC\/ISI
+    - deusu\.org
+    - digg\.com
+    - dir\.com
+    - dznet\.com
+    - e-sense\s1\.0\sea
+    - eStyleSearch\s4
     - ec2linkfinder
-    - ecairn.com
-    - ejupiter.com
-    - enter4u.eu
-    - exactseek.com
-    - example-masto-instance.org
-    - exploringdh.wordpress.com
-    - facebookexternalhit/
-    - feed.moo.jp
-    - feedafever.com;
-    - flipboard.com
+    - ecairn\.com
+    - ejupiter\.com
+    - enter4u\.eu
+    - exactseek\.com
+    - example-masto-instance\.org
+    - feed\.moo\.jp
+    - feedafever\.com;
+    - flipboard\.com
     - flunky
-    - fly/6.01 libwww/4.0D
-    - free-downloads.net d
-    - fulltext.seznam.cz
-    - gazz/x.x (gazz@nttrd
-    - geourl/2.0b2
-    - getpocket.com
-    - gigabaz.com
-    - github.com
-    - google-xrawler
-    - googlebot
-    - gossamer-threads.com
-    - grub-client
-    - grub.org
-    - guess.scritch.org
-    - haste.kytoon.com
-    - help.coccoc.com
-    - help.coccoc.vn
-    - help.goo.ne.jp
-    - help.hepburnhome.ca
-    - help.yahoo.co.jp
-    - help.yahoo.com
-    - hgrepurl/1.0
-    - holmes/3.9 (onet.pl)
-    - holmes/3.9 (someurl.
-    - holmes/x.x
-    - htdig/3.1.5
-    - htdig/3.1.5 (infosys
-    - htdig/3.1.5 (root@lo
-    - htdig/3.1.5 (webmast
-    - htdig/3.1.6 (mathieu
-    - htdig/3.1.6 (unconfi
-    - htdig/3.1.x (root@lo
-    - http://www.mabontlan
-    - http://www.monogol.d
-    - http://www.timelyweb
+    - free-downloads\.net\sd
+    - gazz\/x\.x
+    - geourl\/2\.0b2
+    - getpocket\.com
+    - gigabaz\.com
+    - github\.com
+    - gossamer-threads\.com
+    - guess\.scritch\.org
+    - haste\.kytoon\.com
+    - help\.coccoc\.com
+    - help\.coccoc\.vn
+    - help\.goo\.ne\.jp
+    - help\.hepburnhome\.ca
+    - hgrepurl\/1\.0
+    - http:\/\/www\.mabontlan
+    - http:\/\/www\.monogol\.d
+    - http:\/\/www\.timelyweb
     - http_get
-    - httpunit/1.x
-    - i.stanford.edu
-    - iFeed.jp/2.0 (www.ps
-    - ia_archiver-web.arch
-    - ia_archiver/1.6
-    - ia_archiver/8.0 (Win
-    - ia_archiver/8.1 (Win
-    - ia_archiver/8.2 (Win
-    - ia_archiver/8.8 (Win
-    - ia_archiver/8.9 (Lin
-    - ia_archiver/8.9 (Win
-    - icerocket.com;
-    - ichiro/2.0 (ichiro@n
-    - ichiro/x.0 (ichiro@n
-    - ideare - SignSite/1.
-    - iearthworm/1.0, iear
-    - igde.ru
-    - ilial/Nutch-0.9-dev
-    - innovationblog.com
-    - integrity/1.6
-    - integrity/5
-    - ivia.ucr.edu
+    - httpunit\/1\.x
+    - i\.stanford\.edu
+    - iFeed\.jp\/2\.0
+    - icerocket\.com;
+    - ideare\s-\sSignSite\/1\.
+    - igde\.ru
+    - innovationblog\.com
+    - integrity\/1\.6
+    - integrity\/5
+    - ivia\.ucr\.edu
     - jack
-    - journster.com
+    - journster\.com
     - knil
-    - kulturarw3/0.1
-    - larbin (samualt9@big
-    - larbin_2.1.1 larbin2
-    - larbin_2.2.0 (crawl@
-    - larbin_2.2.1_de_Vien
-    - larbin_2.2.2 (sugaya
-    - larbin_2.2.2_guillau
-    - larbin_2.5.0 (larbin
-    - larbin_2.6.0 (larbin
-    - larbin_2.6.1 (larbin
-    - larbin_2.6.1 larbin2
-    - larbin_2.6.2 (hamasa
-    - larbin_2.6.2 (larbin
-    - larbin_2.6.2 (liston
-    - larbin_2.6.2 (pierre
-    - larbin_2.6.2 (pimena
-    - larbin_2.6.2 (tom@le
-    - larbin_2.6.2 (vitalb
-    - larbin_2.6.2 dthunen
-    - larbin_2.6.2 kalou@k
-    - larbin_2.6.2 larbin2
-    - larbin_2.6.2 larbin@
-    - larbin_2.6.2 listonA
-    - larbin_2.6.2 pierre@
-    - larbin_2.6.2 vitalbo
-    - larbin_2.6.3 (larbin
-    - larbin_2.6.3 (wgao@g
-    - larbin_2.6.3 capveg@
-    - larbin_2.6.3 ghary@s
-    - larbin_2.6.3 gqnmgsp
-    - larbin_2.6.3 larbin2
-    - larbin_2.6.3 tangyi8
-    - larbin_2.6.3 zumesun
-    - larbin_2.6_basileoca
-    - larbin_test (nobody@
-    - larbin_test nobody@a
-    - larbin_xy250 larbin2
-    - law.di.unimi.it
-    - lc/$ROADS::Version l
-    - letscrawl.com
-    - libWeb/clsHTTP -- hi
-    - libwww-perl/5.41
-    - libwww-perl/5.45
-    - libwww-perl/5.48
-    - libwww-perl/5.50
-    - libwww-perl/5.52 FP/
-    - libwww-perl/5.53
-    - libwww-perl/5.63
-    - libwww-perl/5.64
-    - libwww-perl/5.65
-    - libwww-perl/5.800
-    - libwww/5.3.2
-    - linkdex.com/v2.0
-    - ltx71.com
-    - lunefran.wordpress.com
-    - lwp-trivial/1.32
-    - lwp-trivial/1.33
-    - lwp-trivial/1.34
-    - lwp-trivial/1.35
-    - lwp-trivial/1.36
-    - lwp-trivial/1.38
-    - lwp-trivial/1.41
-    - mailto:webcraft@bea.
-    - mbblog14.wordpress.com
-    - metatagsdir.com
-    - miniflux.net
-    - misc.yahoo.com.cn
-    - moget/x.x (moget@goo
-    - mogimogi/1.0
-    - moiNAG 0.02
-    - muckrack.com
+    - kulturarw3\/0\.1
+    - law\.di\.unimi\.it
+    - lc\/\$ROADS::Version\sl
+    - libWeb\/clsHTTP\s--\shi
+    - linkdex\.com\/v2\.0
+    - mailto:webcraft@bea\.
+    - metatagsdir\.com
+    - miniflux\.net
+    - mogimogi\/1\.0
+    - moiNAG\s0\.02
+    - muckrack\.com
     - myDaemon
-    - net-promoter.com
-    - netarkivet.dk
-    - newsearchengine (Thi
-    - newsme/1.0; feedback
-    - newspaper/0.1.0.7
-    - newspaper/0.2.5
-    - newspaper/0.2.6
-    - newstin.com
-    - nlp.uned.es
+    - net-promoter\.com
+    - netarkivet\.dk
+    - newsearchengine
+    - newsme\/1\.0;\sfeedback
+    - newspaper\/0\.1\.0\.7
+    - newspaper\/0\.2\.5
+    - newspaper\/0\.2\.6
+    - newstin\.com
+    - nlp\.uned\.es
     - noyona_0_1
-    - nsyght.com/Nutch-1.0
-    - nsyght.com/Nutch-x.x
-    - nutch-1.4/Nutch-1.4
-    - nutchsearch/Nutch-0.
-    - nymesis.com
-    - oegp v. 1.3.0
-    - okhttp/2.5.0
-    - okhttp/2.7.5
-    - okhttp/3.2.0
-    - okhttp/3.5.0
-    - omgili.com
-    - ostermiller.org
+    - nymesis\.com
+    - oegp\sv\.\s1\.3\.0
+    - omgili\.com
+    - ostermiller\.org
     - owler-agent
-    - ozelot/2.7.3 (Search
-    - page2rss.com
-    - pandora.nla.gov.au
-    - panscient.com
-    - parsijoo.ir
-    - pauillac.inria.fr
-    - pd02_1.0.0 pd02_1.0.
-    - pear.php.net
-    - people.eng.unimelb.edu.au
-    - phpcrawl
-    - pompos.iliad.fr
+    - ozelot\/2\.7\.3
+    - pandora\.nla\.gov\.au
+    - pauillac\.inria\.fr
+    - pd02_1\.0\.0\spd02_1\.0\.
+    - people\.eng\.unimelb\.edu\.au
+    - pompos\.iliad\.fr
     - psycheclone
-    - publisher.yahoo.com
-    - python-requests/0.13
-    - python-requests/1.0.
-    - python-requests/2.18
-    - python-requests/2.3.
-    - r.hatena.ne.jp
-    - rabaz (rabaz at giga
-    - ranksonic.com
-    - rico/0.1
-    - riddler.io
-    - rjpower.org
-    - robot
-    - sagool.jp
-    - scooter-venus-3.0.vn
+    - r\.hatena\.ne\.jp
+    - rabaz
+    - ranksonic\.com
+    - rico\/0\.1
+    - rjpower\.org
+    - sagool\.jp
     - scoutmaster
-    - scrapy.org
-    - search.ch V1.4
-    - search.denmex.com
-    - search.goo.ne.jp
-    - search.google.com
-    - search.yahoo.com
-    - seekda.com
-    - semanticdiscovery/0.
-    - sentry.io
-    - silk/1.0
-    - sitebar.org
-    - siteexplorer.info
-    - smartwit.com
-    - sna-0.0.1 (mikemuzio
-    - sna-0.0.1 mikeelliot
-    - sohu agent
+    - scrapy\.org
+    - search\.ch\sV1\.4
+    - search\.denmex\.com
+    - search\.goo\.ne\.jp
+    - seekda\.com
+    - semanticdiscovery\/0\.
+    - sentry\.io
+    - silk\/1\.0
+    - sitebar\.org
+    - siteexplorer\.info
+    - smartwit\.com
+    - sna-0\.0\.1
+    - sna-0\.0\.1\smikeelliot
+    - sohu\sagent
     - sohu-search
-    - sp.ask.com
-    - suchbaer.de
-    - summify.com
-    - support.embed.ly
+    - sp\.ask\.com
+    - suchbaer\.de
+    - support\.embed\.ly
     - surf
     - suzuran
-    - szukaj.onet.pl
-    - tags2dir.com
-    - tagword.com
-    - targetblaster.com/0.
-    - teoma_agent1
-    - therarestwords.com
-    - toCrawl/UrlDispatche
-    - tuezilla.de
-    - twikle.com
-    - twurly.org
-    - unknownght.com Web S
-    - users.cs.cf.ac.uk
-    - versus.integis.ch
-    - vias.ncsa.uiuc.edu
-    - visionutils/0.2
-    - vk.com
-    - voyager-hc/1.0
-    - voyager/1.0
-    - web-bekannt (Version
-    - web2express.org
-    - webGobbler/1.x.x
-    - webagent.wise-guys.nl
-    - webalgo.iit.cnr.it
-    - webbandit/4.xx.0
-    - webcollage/1.114
-    - webcollage/1.117
-    - webcollage/1.125
-    - webcollage/1.129
-    - webcollage/1.93
-    - webcollage/1.xx
-    - webcrawl.net
-    - webdatastats.com
-    - webglimpse.net
+    - szukaj\.onet\.pl
+    - tags2dir\.com
+    - tagword\.com
+    - targetblaster\.com\/0\.
+    - therarestwords\.com
+    - tuezilla\.de
+    - twikle\.com
+    - twurly\.org
+    - unknownght\.com\sWeb\sS
+    - users\.cs\.cf\.ac\.uk
+    - versus\.integis\.ch
+    - vias\.ncsa\.uiuc\.edu
+    - visionutils\/0\.2
+    - vk\.com
+    - voyager-hc\/1\.0
+    - web-bekannt
+    - web2express\.org
+    - webGobbler\/1\.x\.x
+    - webagent\.wise-guys\.nl
+    - webalgo\.iit\.cnr\.it
+    - webbandit\/4\.xx\.0
+    - webdatastats\.com
+    - webglimpse\.net
     - webhack
-    - websearchbench.cs.uni-dortmund.de
-    - websitealert.net
-    - webster-internet.de 
-    - webster.healeys.net
-    - whatUseek_winona/3.0
-    - wiki.creativecommons.org
-    - wish.slis.tsukuba.ac.jp
-    - wkd.iis.sinica.edu.tw
-    - wortschatz.uni-leipzig.de
-    - ws.daum.net
-    - www.Abolimba.de
-    - www.WISEnut.com
-    - www.abonti.com
-    - www.ackerm.com
-    - www.activtourist.com
-    - www.agada.de
-    - www.ahmadsoftware.co
-    - www.answerbus.com
-    - www.ant.com
-    - www.aol.com
-    - www.aramabeta.com;
-    - www.arianna.it
-    - www.arocom.de
-    - www.asaha.com
-    - www.axxus.de
-    - www.ay-up.com
-    - www.ba.be
-    - www.blaiz.net
-    - www.bloglines.com
-    - www.bortzmeyer.org
-    - www.brandverity.com
-    - www.buddybuzz.net
-    - www.buscaplus.com
-    - www.business-socket.
-    - www.canadiancontent.net
-    - www.chepi.net
-    - www.chilkatsoft.com
-    - www.cloudflare.com
-    - www.cnet.com
-    - www.cougarsearch.com
-    - www.covario.com
-    - www.crim.ca
-    - www.cs.washington.edu
-    - www.cs.washington.edu;
-    - www.dataparksearch.org
-    - www.de.com
-    - www.dead-links.com
-    - www.die-kraehe.de
-    - www.dnsdigger.com
-    - www.earthcom.info
-    - www.eurekster.com
-    - www.europarchive.org
-    - www.eventax.de
-    - www.everatom.com
-    - www.evri.com
-    - www.exensa.com
-    - www.exif-search.com
-    - www.facebook.com
-    - www.favcollector.com
-    - www.feeddemon.com
-    - www.feedhub.com
-    - www.feedly.com
-    - www.feedmap.net
-    - www.fileboost.net
-    - www.findpal.com
-    - www.floorstransformed.com
-    - www.flyindex.net
-    - www.followsite.com
-    - www.genieo.com
-    - www.globalspec.com
-    - www.goguides.org
-    - www.google.com
-    - www.greaterera.com
-    - www.hermitsearch.com
-    - www.htmlvalidator.com
-    - www.hyperix.com
-    - www.ianett.com
-    - www.icerocket.com
-    - www.illumit.com
-    - www.iltrovatore.it
-    - www.inktomi.com
-    - www.intelliseek.com
-    - www.ip2location.com
-    - www.iskanie.com
-    - www.jordomedia.com
-    - www.kalooga.com;
-    - www.kototoi.org
-    - www.l3s.de
-    - www.lan4lano.net
-    - www.lipperhey.com
-    - www.look.com
-    - www.lw01.com
-    - www.matuschek.net
-    - www.megaindex.ru
-    - www.megite.com
-    - www.meta-spinner.de
-    - www.mixdata.com
-    - www.moreover.com
-    - www.neomo.de
-    - www.netluchs.de
-    - www.newsgator.com;
-    - www.ng-search.com
-    - www.page-store.com
-    - www.pagebull.com
-    - www.pingalink.com
-    - www.pingdom.com
-    - www.plinki.com;
-    - www.powerset.com
-    - www.prairielandconsulting.com
-    - www.proximic.com
-    - www.pubblisito.com
-    - www.qango.com
-    - www.quickiwiki.com;
-    - www.qwant.com
-    - www.rawgrunt.com
-    - www.relsoftware.com
-    - www.retrevo.com
-    - www.samsung.com
-    - www.scifihifi.com
-    - www.scoutjet.com
-    - www.scrubtheweb.com
-    - www.searchme.com
-    - www.securecomputing.com
-    - www.semager.de
-    - www.shopwiki.com
-    - www.siigle.com
-    - www.simpy.com
-    - www.sitesearch.ca
-    - www.sitesell.com
-    - www.sixxs.net
-    - www.skaffe.com
-    - www.skyrocket.gr.jp
-    - www.sli-systems.com
-    - www.slider.com
-    - www.slysearch.com
-    - www.somusical.com
-    - www.suchen.de
-    - www.sygol.com
-    - www.sync2it.com
-    - www.sysomos.com
-    - www.targetgroups.net
-    - www.teradex.com
-    - www.tkensaku.com
-    - www.truveo.com
-    - www.tumblr.com
-    - www.ukwizz.com
-    - www.unchaos.com
-    - www.updated.com;
-    - www.urltrends.com
-    - www.vakes.com
-    - www.versions-project.org
-    - www.verzamelgids.nl
-    - www.wavefire.com;
-    - www.webarchiv.cz
-    - www.worio.com
-    - www.wowlemmings.com
-    - www.xirq.com;
-    - www.xrayz.co.uk
-    - www.yama.info.waseda.ac.jp
-    - www.yoono.com
-    - www.zedzo.com
-    - www4mail/2.x libwww-
-    - wwwster/1.x (Beta- m
+    - websearchbench\.cs\.uni-dortmund\.de
+    - websitealert\.net
+    - webster-internet\.de
+    - webster\.healeys\.net
+    - whatUseek_winona\/3\.0
+    - wiki\.creativecommons\.org
+    - wish\.slis\.tsukuba\.ac\.jp
+    - wkd\.iis\.sinica\.edu\.tw
+    - wortschatz\.uni-leipzig\.de
+    - ws\.daum\.net
+    - www\.Abolimba\.de
+    - www\.WISEnut\.com
+    - www\.abonti\.com
+    - www\.ackerm\.com
+    - www\.activtourist\.com
+    - www\.agada\.de
+    - www\.ahmadsoftware\.co
+    - www\.answerbus\.com
+    - www\.ant\.com
+    - www\.aol\.com
+    - www\.aramabeta\.com;
+    - www\.arianna\.it
+    - www\.arocom\.de
+    - www\.asaha\.com
+    - www\.axxus\.de
+    - www\.ay-up\.com
+    - www\.ba\.be
+    - www\.blaiz\.net
+    - www\.bortzmeyer\.org
+    - www\.brandverity\.com
+    - www\.buddybuzz\.net
+    - www\.buscaplus\.com
+    - www\.business-socket\.
+    - www\.canadiancontent\.net
+    - www\.chepi\.net
+    - www\.chilkatsoft\.com
+    - www\.cloudflare\.com
+    - www\.cnet\.com
+    - www\.cougarsearch\.com
+    - www\.covario\.com
+    - www\.crim\.ca
+    - www\.cs\.washington\.edu
+    - www\.cs\.washington\.edu;
+    - www\.de\.com
+    - www\.dead-links\.com
+    - www\.die-kraehe\.de
+    - www\.dnsdigger\.com
+    - www\.earthcom\.info
+    - www\.eurekster\.com
+    - www\.europarchive\.org
+    - www\.eventax\.de
+    - www\.everatom\.com
+    - www\.evri\.com
+    - www\.exensa\.com
+    - www\.exif-search\.com
+    - www\.facebook\.com
+    - www\.favcollector\.com
+    - www\.feeddemon\.com
+    - www\.feedhub\.com
+    - www\.feedly\.com
+    - www\.feedmap\.net
+    - www\.fileboost\.net
+    - www\.findpal\.com
+    - www\.floorstransformed\.com
+    - www\.flyindex\.net
+    - www\.followsite\.com
+    - www\.globalspec\.com
+    - www\.goguides\.org
+    - www\.greaterera\.com
+    - www\.hermitsearch\.com
+    - www\.hyperix\.com
+    - www\.ianett\.com
+    - www\.icerocket\.com
+    - www\.illumit\.com
+    - www\.iltrovatore\.it
+    - www\.inktomi\.com
+    - www\.intelliseek\.com
+    - www\.ip2location\.com
+    - www\.jordomedia\.com
+    - www\.kalooga\.com;
+    - www\.kototoi\.org
+    - www\.l3s\.de
+    - www\.lan4lano\.net
+    - www\.look\.com
+    - www\.lw01\.com
+    - www\.matuschek\.net
+    - www\.megaindex\.ru
+    - www\.meta-spinner\.de
+    - www\.mixdata\.com
+    - www\.moreover\.com
+    - www\.neomo\.de
+    - www\.newsgator\.com;
+    - www\.ng-search\.com
+    - www\.page-store\.com
+    - www\.pagebull\.com
+    - www\.pingalink\.com
+    - www\.pingdom\.com
+    - www\.plinki\.com;
+    - www\.powerset\.com
+    - www\.prairielandconsulting\.com
+    - www\.pubblisito\.com
+    - www\.qango\.com
+    - www\.quickiwiki\.com;
+    - www\.qwant\.com
+    - www\.rawgrunt\.com
+    - www\.relsoftware\.com
+    - www\.retrevo\.com
+    - www\.samsung\.com
+    - www\.scifihifi\.com
+    - www\.scrubtheweb\.com
+    - www\.searchme\.com
+    - www\.securecomputing\.com
+    - www\.semager\.de
+    - www\.shopwiki\.com
+    - www\.siigle\.com
+    - www\.simpy\.com
+    - www\.sitesearch\.ca
+    - www\.sitesell\.com
+    - www\.sixxs\.net
+    - www\.skaffe\.com
+    - www\.skyrocket\.gr\.jp
+    - www\.sli-systems\.com
+    - www\.slider\.com
+    - www\.slysearch\.com
+    - www\.somusical\.com
+    - www\.suchen\.de
+    - www\.sygol\.com
+    - www\.sync2it\.com
+    - www\.targetgroups\.net
+    - www\.teradex\.com
+    - www\.tkensaku\.com
+    - www\.truveo\.com
+    - www\.tumblr\.com
+    - www\.ukwizz\.com
+    - www\.unchaos\.com
+    - www\.updated\.com;
+    - www\.urltrends\.com
+    - www\.vakes\.com
+    - www\.versions-project\.org
+    - www\.verzamelgids\.nl
+    - www\.wavefire\.com;
+    - www\.webarchiv\.cz
+    - www\.worio\.com
+    - www\.wowlemmings\.com
+    - www\.xirq\.com;
+    - www\.xrayz\.co\.uk
+    - www\.yama\.info\.waseda\.ac\.jp
+    - www\.yoono\.com
+    - www\.zedzo\.com
+    - wwwster\/1\.x
     - xmlset_roodkcableoj2
-    - yacy (www.yacy.net; 
-    - yarienavoir.net/0.2
-    - yggdrasil/Nutch-0.9 
-    - yoogliFetchAgent/0.1
-    - Googlebot\/
-    - Googlebot-Mobile
-    - Googlebot-Image
-    - Googlebot-News
-    - Googlebot-Video
-    - AdsBot-Google([^-]|$)
-    - AdsBot-Google-Mobile
-    - Feedfetcher-Google
-    - Mediapartners-Google
-    - Mediapartners \(Googlebot\)
-    - APIs-Google
-    - Google-InspectionTool
-    - Storebot-Google
-    - GoogleOther
-    - bingbot
-    - Slurp
-    - [wW]get
-    - LinkedInBot
-    - Python-urllib
-    - python-requests
+    - yarienavoir\.net\/0\.2
+    - yoogliFetchAgent\/0\.1
+    - Mediapartners\s\\
+    - \[wW]get
     - aiohttp
-    - httpx
-    - libwww-perl
     - httpunit
-    - nutch
     - Go-http-client
-    - phpcrawl
-    - msnbot
-    - jyxobot
-    - FAST-WebCrawler
-    - FAST Enterprise Crawler
-    - BIGLOTRON
-    - Teoma
-    - convera
-    - seekbot
-    - Gigabot
     - Gigablast
-    - exabot
-    - ia_archiver
-    - GingerCrawler
-    - webmon 
-    - HTTrack
-    - grub.org
-    - UsineNouvelleCrawler
-    - antibot
     - netresearchserver
-    - speedy
     - fluffy
     - findlink
-    - msrbot
-    - panscient
-    - yacybot
-    - AISearchBot
     - ips-agent
-    - tagoobot
-    - MJ12bot
-    - woriobot
     - yanga
-    - buzzbot
-    - mlbot
-    - yandex\.com\/bots
-    - purebot
-    - Linguee Bot
     - CyberPatrol
-    - voilabot
-    - Baiduspider
-    - citeseerxbot
-    - spbot
-    - twengabot
     - postrank
-    - Turnitin
-    - scribdbot
-    - page2rss
-    - sitebot
     - linkdex
-    - Adidxbot
     - ezooms
-    - dotbot
-    - Mail.RU_Bot
-    - discobot
-    - heritrix
-    - findthatfile
-    - europarchive.org
-    - NerdByNature.Bot
-    - sistrix crawler
-    - Ahrefs(Bot|SiteAudit)
-    - fuelbot
-    - CrunchBot
-    - IndeedBot
+    - europarchive\.org
+    - Ahrefs
     - mappydata
-    - woobot
-    - ZoominfoBot
-    - PrivacyAwareBot
-    - Multiviewbot
-    - SWIMGBot
-    - Grobbot
     - eright
     - Apercite
-    - semanticbot
     - Aboundex
-    - domaincrawler
-    - wbsearchbot
-    - summify
-    - CCBot
-    - edisterbot
-    - SeznamBot
-    - ec2linkfinder
-    - gslfbot
-    - aiHitBot
-    - intelium_bot
     - facebookexternalhit
     - Yeti
     - RetrevoPageAnalyzer
-    - lb-spider
-    - Sogou
-    - lssbot
-    - careerbot
     - wotbox
-    - wocbot
-    - ichiro
-    - DuckDuckBot
-    - lssrocketcrawler
     - drupact
-    - webcompanycrawler
-    - acoonbot
-    - openindexspider
-    - gnam gnam spider
-    - web-archive-net.com.bot
-    - backlinkcrawler
     - coccoc
     - integromedb
-    - content crawler spider
-    - toplistbot
-    - it2media-domain-crawler
-    - ip-web-crawler.com
-    - siteexplorer.info
-    - elisabot
-    - proximic
     - changedetection
-    - arabot
-    - WeSEE:Search
-    - niki-bot
-    - CrystalSemanticsBot
-    - rogerbot
-    - 360Spider
-    - psbot
-    - InterfaxScanBot
-    - CC Metadata Scaper
-    - g00g1e.net
-    - GrapeshotCrawler
-    - urlappendbot
-    - brainobot
-    - fr-crawler
-    - binlar
-    - SimpleCrawler
-    - Twitterbot
-    - cXensebot
-    - smtbot
-    - bnf.fr_bot
-    - A6-Indexer
-    - ADmantX
-    - Facebot
-    - OrangeBot\/
-    - memorybot
-    - AdvBot
+    - CC\sMetadata\sScaper
+    - g00g1e\.net
     - MegaIndex
-    - SemanticScholarBot
-    - ltx71
-    - nerdybot
-    - xovibot
-    - BUbiNG
-    - Qwantify
-    - archive.org_bot
-    - Applebot
-    - TweetmemeBot
-    - crawler4j
-    - findxbot
-    - S[eE][mM]rushBot
-    - yoozBot
-    - lipperhey
-    - Y!J
-    - Domain Re-Animator Bot
-    - AddThis
-    - Screaming Frog SEO Spider
     - MetaURI
     - Scrapy
-    - Livelap[bB]ot
-    - OpenHoseBot
+    - Livelap\[bB]ot
     - CapsuleChecker
-    - collection@infegy.com
-    - IstellaBot
-    - DeuSu\/
-    - betaBot
-    - Cliqzbot\/
-    - MojeekBot\/
-    - netEstate NE Crawler
-    - SafeSearch microdata crawler
-    - Gluten Free Crawler\/
+    - collection@infegy\.com
+    - DeuSu\\/
     - Sonic
-    - Sysomos
-    - Trove
     - deadlinkchecker
     - Slack-ImgProxy
-    - Embedly
-    - RankActiveLinkBot
-    - iskanie
-    - SafeDNSBot
-    - SkypeUriPreview
-    - Veoozbot
-    - Slackbot
-    - redditbot
-    - datagnionbot
-    - Google-Adwords-Instant
-    - adbeat_bot
-    - WhatsApp
-    - contxbot
-    - pinterest.com.bot
     - electricmonk
-    - GarlikCrawler
-    - BingPreview\/
-    - vebidoobot
-    - FemtosearchBot
-    - Yahoo Link Preview
-    - MetaJobBot
-    - DomainStatsBot
-    - mindUpBot
-    - Daum\/
-    - Jugendschutzprogramm-Crawler
-    - Xenu Link Sleuth
-    - Pcore-HTTP
-    - moatbot
-    - KosmioBot
-    - [pP]ingdom
+    - Daum\\/
+    - \[pP]ingdom
     - AppInsights
     - PhantomJS
-    - Gowikibot
-    - PiplBot
-    - Discordbot
-    - TelegramBot
     - Jetslide
     - newsharecounts
-    - James BOT
-    - Bark[rR]owler
-    - TinEye
-    - SocialRankIOBot
-    - trendictionbot
-    - Ocarinabot
-    - epicbot
-    - Primalbot
-    - DuckDuckGo-Favicons-Bot
-    - GnowitNewsbot
-    - Leikibot
+    - Bark\[rR]owler
     - LinkArchiver
-    - YaK\/
-    - PaperLiBot
-    - Digg Deeper
-    - dcrawl
+    - YaK\\/
+    - Digg\sDeeper
     - Snacktory
-    - AndersPinkBot
-    - Fyrebot
-    - EveryoneSocialBot
-    - Mediatoolkitbot
-    - Luminator-robots
-    - ExtLinksBot
-    - SurveyBot
-    - NING\/
-    - okhttp
-    - Nuzzel
+    - NING\\/
     - omgili
     - PocketParser
-    - YisouSpider
     - um-LN
-    - ToutiaoSpider
     - MuckRack
-    - Jamie's Spider
-    - AHC\/
-    - NetcraftSurveyAgent
-    - Laserlikebot
-    - ^Apache-HttpClient
-    - AppEngine-Google
+    - AHC\\/
+    - \^Apache-HttpClient
     - Jetty
     - Upflow
-    - Thinklab
-    - Traackr.com
     - Twurly
     - Mastodon
-    - http_get
-    - DnyzBot
-    - botify
-    - 007ac9 Crawler
-    - BehloolBot
     - BrandVerity
     - check_http
-    - BDCbot
-    - ZumBot
     - EZID
-    - ICC-Crawler
-    - ArchiveBot
-    - ^LCC 
-    - filterdb.iss.net\/crawler
-    - BLP_bbot
-    - BomboraBot
-    - Buck\/
-    - Companybook-Crawler
-    - Genieo
-    - magpie-crawler
+    - \^LCC
+    - Buck\\/
     - MeltwaterNews
     - Moreover
-    - newspaper\/
-    - ScoutJet
-    - (^| )sentry\/
-    - StorygizeBot
-    - UptimeRobot
-    - OutclicksBot
+    - newspaper\\/
+    - 
     - seoscanners
     - Hatena
-    - Google Web Preview
-    - MauiBot
-    - AlphaBot
-    - SBL-BOT
-    - IAS crawler
     - adscanner
     - Netvibes
-    - acapbot
-    - Baidu-YunGuanCe
-    - bitlybot
-    - blogmuraBot
-    - Bot.AraTurka.com
-    - bot-pge.chlooe.com
-    - BoxcarBot
     - BTWebClient
-    - ContextAd Bot
-    - Digincore bot
     - Disqus
     - Feedly
-    - Fetch\/
+    - Fetch\\/
     - Fever
     - Flamingo_SearchEngine
     - FlipboardProxy
-    - g2reader-bot
-    - G2 Web Services
-    - imrbot
-    - K7MLWCBot
-    - Kemvibot
-    - Landau-Media-Spider
-    - linkapediabot
+    - G2\sWeb\sServices
     - vkShare
-    - Siteimprove.com
-    - BLEXBot\/
+    - Siteimprove\.com
     - DareBoost
-    - ZuperlistBot\/
-    - Miniflux\/
+    - Miniflux\\/
     - Feedspot
-    - Diffbot\/
     - SEOkicks
     - tracemyfile
-    - Nimbostratus-Bot
     - zgrab
-    - PR-CY.RU
-    - AdsTxtCrawler
+    - PR-CY\.RU
     - Datafeedwatch
-    - Zabbix
-    - TangibleeBot
-    - google-xrawler
     - axios
-    - Amazon CloudFront
     - Pulsepoint
     - CloudFlare-AlwaysOnline
-    - Google-Structured-Data-Testing-Tool
     - WordupInfoSearch
     - WebDataStats
     - HttpUrlConnection
-    - Seekport Crawler
-    - ZoomBot
-    - VelenPublicWebCrawler
-    - MoodleBot
-    - jpg-newsbot
     - outbrain
-    - W3C_Validator
-    - Validator\.nu
-    - W3C-checklink
     - W3C-mobileOK
     - W3C_I18n-Checker
-    - FeedValidator
-    - W3C_CSS_Validator
     - W3C_Unicorn
-    - Google-PhysicalWeb
     - Blackboard
-    - ICBot\/
     - BazQux
     - Twingly
     - Rivva
-    - Experibot
-    - awesomecrawler
-    - Dataprovider.com
-    - GroupHigh\/
-    - theoldreader.com
+    - Dataprovider\.com
+    - GroupHigh\\/
+    - theoldreader\.com
     - AnyEvent
-    - Uptimebot\.org
-    - Nmap Scripting Engine
-    - 2ip.ru
+    - Nmap\sScripting\sEngine
+    - 2ip\.ru
     - Clickagy
-    - Caliperbot
-    - MBCrawler
-    - online-webceo-bot
-    - B2B Bot
-    - AddSearchBot
-    - Google Favicon
     - HubSpot
     - Chrome-Lighthouse
-    - HeadlessChrome
-    - CheckMarkNetwork\/
-    - www\.uptime\.com
-    - Streamline3Bot\/
-    - serpstatbot\/
-    - MixnodeCache\/
-    - ^curl
+    - CheckMarkNetwork\\/
+    - www\\\.uptime\\\.com
+    - MixnodeCache\\/
+    - \^curl
     - SimpleScraper
-    - RSSingBot
-    - Jooblebot
     - fedoraplanet
     - Friendica
     - NextCloud
-    - Tiny Tiny RSS
-    - RegionStuttgartBot
-    - Bytespider
     - Datanyze
-    - Google-Site-Verification
     - TrendsmapResolver
     - tweetedtimes
-    - NTENTbot
     - Gwene
     - SimplePie
     - SearchAtlas
     - Superfeedr
-    - feedbot
-    - UT-Dorkbot
-    - Amazonbot
-    - SerendeputyBot
-    - Eyeotabot
-    - officestorebot
-    - Neticle Crawler
-    - SurdotlyBot
-    - LinkisBot
-    - AwarioSmartBot
-    - AwarioRssBot
-    - RyteBot
-    - FreeWebMonitoring SiteChecker
-    - AspiegelBot
-    - NAVER Blog Rssbot
-    - zenback bot
-    - SentiBot
-    - Domains Project\/
+    - Domains\sProject\\/
     - Pandalytics
-    - VKRobot
-    - bidswitchbot
-    - tigerbot
-    - NIXStatsbot
-    - Atom Feed Robot
-    - [Cc]urebot
-    - PagePeeker\/
-    - Vigil\/
-    - rssbot\/
-    - startmebot\/
-    - JobboerseBot
+    - PagePeeker\\/
+    - Vigil\\/
     - seewithkids
-    - NINJA bot
-    - Cutbot
-    - BublupBot
-    - BrandONbot
-    - RidderBot
-    - Taboolabot
-    - Dubbotbot
-    - FindITAnswersbot
-    - infoobot
-    - Refindbot
-    - BlogTraffic\/\d\.\d+ Feed-Fetcher
-    - SeobilityBot
+    - BlogTraffic\\/\\d\\\.\\d\+\sFeed-Fetcher
     - Cincraw
-    - Dragonbot
-    - VoluumDSP-content-bot
-    - FreshRSS
-    - BitBot
-    - ^PHP-Curl-Class
-    - Google-Certificates-Bridge
-    - centurybot
+    - \^PHP-Curl-Class
     - Viber
-    - e\.ventures Investment Crawler
     - evc-batch
-    - PetalBot
     - virustotal
-    - (^| )PTST\/
-    - minicrawler
-    - Cookiebot
-    - trovitBot
-    - seostar\.co
-    - IonCrawl
+    - seostar\\\.co
     - Uptime-Kuma
-    - SeekportBot
-    - FreshpingBot
-    - Feedbin
-    - CriteoBot
-    - Snap URL Preview Service
-    - Better Uptime Bot
+    - Snap\sURL\sPreview\sService
     - RuxitSynthetic
-    - Google-Read-Aloud
-    - Valve\/Steam
-    - OdklBot\/
-    - GPTBot
-    - YandexRenderResourcesBot\/
-    - LightspeedSystemsCrawler
-    - ev-crawler\/
-    - BitSightBot\/
-    - woorankreview\/
-    - Google-Safety
-    - AwarioBot
-    - DataForSeoBot
-    - Linespider
-    - WellKnownBot
-    - A Patent Crawler
-    - StractBot
-    - search\.marginalia\.nu
-    - YouBot
-    - Nicecrawler
-    - Neevabot
-    - BrightEdge Crawler
-    - SiteCheckerBotCrawler
-    - TombaPublicWebCrawler
-    - CrawlyProjectCrawler
-    - KomodiaBot
-    - KStandBot
-    - CISPA Webcrawler
-    - MTRobot
-    - hyscore.io
-    - AlexandriaOrgBot
-    - 2ip bot
-    - Yellowbrandprotectionbot
+    - Valve\\/Steam
+    - woorankreview\\/
+    - search\\\.marginalia\\\.nu
     - SEOlizer
-    - vuhuvBot
-    - INETDEX-BOT
     - Synapse
-    - t3versionsBot
     - deepnoc
-    - Cocolyzebot
     - hypestat
-    - ReverseEngineeringBot
-    - sempi.tech
+    - sempi\.tech
     - Iframely
-    - MetaInspector
     - node-fetch
     - lkxscan
-    - python-opengraph
     - OpenGraphCheck
-    - developers.google.com\/\+\/web\/snippet
-    - SenutoBot
-    - MaCoCu
     - NewsBlur
     - inoreader
     - NetSystemsResearch
     - PageThing
-    - WordPress\/
 - Added `addition_date` and `instances` for the new items where possible.
 - Executed and updated the convert_to_txt to write the file in the `generated/` directory
