@@ -73,6 +73,10 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "AntBot",
+    "last_changed": "2024-04-22"
+  },
+  {
     "pattern": "appie",
     "last_changed": "2017-08-08"
   },
@@ -224,6 +228,10 @@
     "pattern": "Citoid",
     "last_changed": "2020-02-25",
     "url": "https://www.mediawiki.org/wiki/Citoid"
+  },
+  {
+    "pattern": "ClaudeBot",
+    "last_changed": "2024-04-22"
   },
   {
     "pattern": "cloakDetect",
@@ -448,6 +456,10 @@
   {
     "pattern": "^FOCA",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "^FreshpingBot\\/1.0 \\(\\+https:\\/\\/freshping\\.io\\/\\)$",
+    "last_changed": "2024-04-22"
   },
   {
     "pattern": "Fulltext",
@@ -814,6 +826,14 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "^Mozilla\\/5\\.0(\\s|\\+)\\(compatible;\\s\\+centuryb\\.o\\.t9\\[at\\]gmail\\.com\\)$",
+    "last_changed": "2024-04-22"
+  },
+  {
+    "pattern": "^Mozilla\\/5\\.0(\\s|\\+)\\(compatible;\\sVelenPublicWebCrawler\\/1\\.0;\\s\\+https:\\/\\/velen\\.io\\)$",
+    "last_changed": "2024-04-22"
+  },
+  {
     "pattern": "^Mozilla\\/5\\.0\\+like\\+Gecko$",
     "last_changed": "2017-08-08"
   },
@@ -1056,6 +1076,10 @@
   {
     "pattern": "SearchBloxIntra",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "sfFeedReader\\/0\\.9",
+    "last_changed": "2024-04-22"
   },
   {
     "pattern": "shoutcast",
