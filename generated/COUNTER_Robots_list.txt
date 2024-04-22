@@ -16,6 +16,7 @@ alexa
 Alexandria(\s|\+)prototype(\s|\+)project
 AllenTrack
 almaden
+AntBot
 appie
 API[\+\s]scraper
 Arachni
@@ -46,11 +47,13 @@ BUbiNG
 bwh3_user_agent
 CakePHP
 celestial
+centuryb
 cfnetwork
 checklink
 checkprivacy
 China\sLocal\sBrowse\s2\.6
 Citoid
+ClaudeBot
 cloakDetect
 coccoc\/1\.0
 Code\sSample\sWeb\sClient
@@ -104,6 +107,7 @@ findthatfile
 ^Filter$
 ^firefox$
 ^FOCA
+^FreshpingBot\/1.0 \(\+https:\/\/freshping\.io\/\)$
 Fulltext
 Funnelback
 Genieo
@@ -136,6 +140,7 @@ ichiro
 iktomi
 ilse
 Indy Library
+insomnia
 ^integrity\/\d
 internetseer
 intute
@@ -172,6 +177,7 @@ mail\.ru
 MarcEdit
 mediapartners-google
 megite
+MetaInspector
 MetaURI[\+\s]API\/\d\.\d
 Microsoft(\s|\+)URL(\s|\+)Control
 Microsoft Office Existence Discovery
@@ -188,6 +194,8 @@ motor
 ^Mozilla\/4\.5\+\[en]\+\(Win98;\+I\)$
 ^Mozilla.5\.0$
 ^Mozilla\/5.0\+\(compatible;\+MSIE\+6\.0;\+Windows\+NT\+5\.0\)$
+^Mozilla\/5\.0(\s|\+)\(compatible;\s\+centuryb\.o\.t9\[at\]gmail\.com\)$
+^Mozilla\/5\.0(\s|\+)\(compatible;\sVelenPublicWebCrawler\/1\.0;\s\+https:\/\/velen\.io\)$
 ^Mozilla\/5\.0\+like\+Gecko$
 ^Mozilla\/5.0(\s|\+)Gecko\/20100115(\s|\+)Firefox\/3.6$
 ^MSIE
@@ -197,6 +205,7 @@ nagios
 ^NetAnts\/\d
 netcraft
 netluchs
+nettle
 newspaper\/\d
 ng\/2\.
 ^Ning\/\d
@@ -232,6 +241,7 @@ rambler
 ReactorNetty\/\d
 Readpaper
 redalert
+RestSharp
 Riddler
 robozilla
 rss
@@ -243,6 +253,7 @@ Scrapy\/\d
 ScoutJet
 ^scrutiny\/\d
 SearchBloxIntra
+sfFeedReader\/0\.9
 shoutcast
 Site24x7
 SkypeUriPreview
