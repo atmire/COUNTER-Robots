@@ -45,16 +45,31 @@
   },
   {
     "pattern": "AddThis",
-    "last_changed": "2017-08-08"
+    "last_changed": "2017-08-08",
+    "url": "https://www.addthis.com",
+    "instances": [
+      "AddThis.com robot tech.support@clearspring.com"
+    ],
+    "addition_date": "2015-06-02"
   },
   {
     "pattern": "A6-Indexer",
     "last_changed": "2019-11-19",
-    "description": "A6 Corp's bot"
+    "description": "A6 Corp's bot",
+    "addition_date": "2014-12-05",
+    "url": "http://www.a6corp.com/a6-web-scraping-policy/",
+    "instances": [
+      "A6-Indexer"
+    ]
   },
   {
     "pattern": "ADmantX",
-    "last_changed": "2017-08-08"
+    "last_changed": "2017-08-08",
+    "addition_date": "2014-12-05",
+    "url": "http://www.admantx.com",
+    "instances": [
+      "ADmantX Platform Semantic Analyzer - ADmantX Inc. - www.admantx.com - support@admantx.com"
+    ]
   },
   {
     "pattern": "alexa",
@@ -152,7 +167,15 @@
   },
   {
     "pattern": "binlar",
-    "last_changed": "2017-08-08"
+    "last_changed": "2017-08-08",
+    "addition_date": "2014-09-12",
+    "instances": [
+      "binlar_2.6.3 binlar2.6.3@unspecified.mail",
+      "binlar_2.6.3 binlar_2.6.3@unspecified.mail",
+      "binlar_2.6.3 larbin2.6.3@unspecified.mail",
+      "binlar_2.6.3 phanendra_kalapala@McAfee.com",
+      "binlar_2.6.3 test@mgmt.mic"
+    ]
   },
   {
     "pattern": "bjaaland",
@@ -190,7 +213,11 @@
     "pattern": "BUbiNG",
     "last_changed": "2018-02-07",
     "description": "BUbiNG bot scrapes the internet for contacts and news articles that would be of interest to their students and university.",
-    "url": "http://law.di.unimi.it/BUbiNG.html"
+    "url": "http://law.di.unimi.it/BUbiNG.html",
+    "instances": [
+      "BUbiNG (+http://law.di.unimi.it/BUbiNG.html)"
+    ],
+    "addition_date": "2015-04-06"
   },
   {
     "pattern": "bwh3_user_agent",
@@ -251,7 +278,12 @@
   },
   {
     "pattern": "collection@infegy.com",
-    "last_changed": "2017-08-08"
+    "last_changed": "2017-08-08",
+    "url": "http://infegy.com/",
+    "instances": [
+      "Mozilla/5.0 (compatible) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 collection@infegy.com"
+    ],
+    "addition_date": "2016-01-03"
   },
   {
     "pattern": "com\\.plumanalytics",
@@ -271,7 +303,11 @@
   },
   {
     "pattern": "convera",
-    "last_changed": "2017-08-08"
+    "last_changed": "2017-08-08",
+    "instances": [
+      "ConveraCrawler/0.9e (+http://ews.converasearch.com/crawl.htm)"
+    ],
+    "url": "http://ews.converasearch.com/crawl.htm"
   },
   {
     "pattern": "core",
@@ -320,7 +356,13 @@
   },
   {
     "pattern": "DeuSu\\/",
-    "last_changed": "2017-08-08"
+    "last_changed": "2017-08-08",
+    "addition_date": "2016-01-23",
+    "url": "https://deusu.de/robot.html",
+    "instances": [
+      "Mozilla/5.0 (compatible; DeuSu/0.1.0; +https://deusu.org)",
+      "Mozilla/5.0 (compatible; DeuSu/5.0.2; +https://deusu.de/robot.html)"
+    ]
   },
   {
     "pattern": "Dispatch\\/\\d",
@@ -386,7 +428,14 @@
   },
   {
     "pattern": "Embedly",
-    "last_changed": "2017-08-08"
+    "last_changed": "2017-08-08",
+    "addition_date": "2016-04-25",
+    "url": "http://support.embed.ly",
+    "instances": [
+      "Embedly +support@embed.ly",
+      "Mozilla/5.0 (compatible; Embedly/0.2; +http://support.embed.ly/)",
+      "Mozilla/5.0 (compatible; Embedly/0.2; snap; +http://support.embed.ly/)"
+    ]
   },
   {
     "pattern": "EThOS\\+\\(British\\+Library\\)",
@@ -411,7 +460,12 @@
   },
   {
     "pattern": "Feedbin",
-    "last_changed": "2019-01-22"
+    "last_changed": "2019-01-22",
+    "addition_date": "2022-11-05",
+    "url": "https://feedbin.com/",
+    "instances": [
+      "Feedbin feed-id:2005098 - 2 subscribers"
+    ]
   },
   {
     "pattern": "feedburner",
@@ -439,7 +493,10 @@
   },
   {
     "pattern": "findthatfile",
-    "last_changed": "2017-08-08"
+    "last_changed": "2017-08-08",
+    "addition_date": "2011-06-21",
+    "url": "http://www.findthatfile.com/",
+    "instances": []
   },
   {
     "pattern": "^FileDown$",
@@ -534,7 +591,33 @@
   },
   {
     "pattern": "heritrix",
-    "last_changed": "2017-08-08"
+    "last_changed": "2017-08-08",
+    "addition_date": "2011-06-21",
+    "url": "https://github.com/internetarchive/heritrix3/wiki",
+    "instances": [
+      "Mozilla/5.0 (compatible; heritrix/1.12.1 +http://www.webarchiv.cz)",
+      "Mozilla/5.0 (compatible; heritrix/1.12.1b +http://netarkivet.dk/website/info.html)",
+      "Mozilla/5.0 (compatible; heritrix/1.14.2 +http://rjpower.org)",
+      "Mozilla/5.0 (compatible; heritrix/1.14.2 +http://www.webarchiv.cz)",
+      "Mozilla/5.0 (compatible; heritrix/1.14.3 +http://archive.org)",
+      "Mozilla/5.0 (compatible; heritrix/1.14.3 +http://www.accelobot.com)",
+      "Mozilla/5.0 (compatible; heritrix/1.14.3 +http://www.webarchiv.cz)",
+      "Mozilla/5.0 (compatible; heritrix/1.14.3.r6601 +http://www.buddybuzz.net/yptrino)",
+      "Mozilla/5.0 (compatible; heritrix/1.14.4 +http://parsijoo.ir)",
+      "Mozilla/5.0 (compatible; heritrix/1.14.4 +http://www.exif-search.com)",
+      "Mozilla/5.0 (compatible; heritrix/2.0.2 +http://aihit.com)",
+      "Mozilla/5.0 (compatible; heritrix/2.0.2 +http://seekda.com)",
+      "Mozilla/5.0 (compatible; heritrix/3.0.0-SNAPSHOT-20091120.021634 +http://crawler.archive.org)",
+      "Mozilla/5.0 (compatible; heritrix/3.1.0-RC1 +http://boston.lti.cs.cmu.edu/crawler_12/)",
+      "Mozilla/5.0 (compatible; heritrix/3.1.1 +http://places.tomtom.com/crawlerinfo)",
+      "Mozilla/5.0 (compatible; heritrix/3.1.1 +http://www.mixdata.com)",
+      "Mozilla/5.0 (compatible; heritrix/3.1.1; UniLeipzigASV +http://corpora.informatik.uni-leipzig.de/crawler_faq.html)",
+      "Mozilla/5.0 (compatible; heritrix/3.2.0 +http://www.crim.ca)",
+      "Mozilla/5.0 (compatible; heritrix/3.2.0 +http://www.exif-search.com)",
+      "Mozilla/5.0 (compatible; heritrix/3.2.0 +http://www.mixdata.com)",
+      "Mozilla/5.0 (compatible; heritrix/3.3.0-SNAPSHOT-20160309-0050; UniLeipzigASV +http://corpora.informatik.uni-leipzig.de/crawler_faq.html)",
+      "Mozilla/5.0 (compatible; sukibot_heritrix/3.1.1 +http://suki.ling.helsinki.fi/eng/webmasters.html)"
+    ]
   },
   {
     "pattern": "holmes",
@@ -552,7 +635,13 @@
     "pattern": "HeadlessChrome",
     "last_changed": "2021-12-07",
     "description": "Headless Chrome is used to automate Chrome requests for testing purposes.",
-    "url": "https://developers.google.com/web/updates/2017/04/headless-chrome"
+    "url": "https://developers.google.com/web/updates/2017/04/headless-chrome",
+    "addition_date": "2019-06-17",
+    "instances": [
+      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/74.0.3729.169 Safari/537.36",
+      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36",
+      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/76.0.3803.0 Safari/537.36"
+    ]
   },
   {
     "pattern": "HttpComponents\\/1.1",
@@ -573,7 +662,12 @@
   {
     "pattern": "httpx",
     "last_changed": "2021-11-23",
-    "url": "https://github.com/projectdiscovery/httpx"
+    "url": "https://www.python-httpx.org",
+    "addition_date": " 2019/12/23",
+    "instances": [
+      "python-httpx/0.16.1",
+      "python-httpx/0.13.0.dev1"
+    ]
   },
   {
     "pattern": "httrack",
@@ -581,11 +675,34 @@
   },
   {
     "pattern": "ia_archiver",
-    "last_changed": "2017-08-08"
+    "last_changed": "2017-08-08",
+    "instances": [
+      "ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)",
+      "ia_archiver-web.archive.org"
+    ]
   },
   {
     "pattern": "ichiro",
-    "last_changed": "2017-08-08"
+    "last_changed": "2017-08-08",
+    "addition_date": "2012-08-28",
+    "url": "http://help.goo.ne.jp/help/article/1142",
+    "instances": [
+      "DoCoMo/2.0 P900i(c100;TB;W24H11) (compatible; ichiro/mobile goo; +http://help.goo.ne.jp/help/article/1142/)",
+      "DoCoMo/2.0 P900i(c100;TB;W24H11) (compatible; ichiro/mobile goo; +http://search.goo.ne.jp/option/use/sub4/sub4-1/)",
+      "DoCoMo/2.0 P900i(c100;TB;W24H11) (compatible; ichiro/mobile goo;+http://search.goo.ne.jp/option/use/sub4/sub4-1/)",
+      "DoCoMo/2.0 P900i(c100;TB;W24H11)(compatible; ichiro/mobile goo;+http://help.goo.ne.jp/door/crawler.html)",
+      "DoCoMo/2.0 P901i(c100;TB;W24H11) (compatible; ichiro/mobile goo; +http://help.goo.ne.jp/door/crawler.html)",
+      "KDDI-CA31 UP.Browser/6.2.0.7.3.129 (GUI) MMP/2.0 (compatible; ichiro/mobile goo; +http://help.goo.ne.jp/help/article/1142/)",
+      "KDDI-CA31 UP.Browser/6.2.0.7.3.129 (GUI) MMP/2.0 (compatible; ichiro/mobile goo; +http://search.goo.ne.jp/option/use/sub4/sub4-1/)",
+      "KDDI-CA31 UP.Browser/6.2.0.7.3.129 (GUI) MMP/2.0 (compatible; ichiro/mobile goo;+http://search.goo.ne.jp/option/use/sub4/sub4-1/)",
+      "ichiro/2.0 (http://help.goo.ne.jp/door/crawler.html)",
+      "ichiro/2.0 (ichiro@nttr.co.jp)",
+      "ichiro/3.0 (http://help.goo.ne.jp/door/crawler.html)",
+      "ichiro/3.0 (http://help.goo.ne.jp/help/article/1142)",
+      "ichiro/3.0 (http://search.goo.ne.jp/option/use/sub4/sub4-1/)",
+      "ichiro/4.0 (http://help.goo.ne.jp/door/crawler.html)",
+      "ichiro/5.0 (http://help.goo.ne.jp/door/crawler.html)"
+    ]
   },
   {
     "pattern": "iktomi",
@@ -623,7 +740,12 @@
   },
   {
     "pattern": "iskanie",
-    "last_changed": "2017-08-08"
+    "last_changed": "2017-08-08",
+    "addition_date": "2016-09-02",
+    "url": "http://www.iskanie.com",
+    "instances": [
+      "iskanie (+http://www.iskanie.com)"
+    ]
   },
   {
     "pattern": "^java\\/\\d{1,2}.\\d",
@@ -707,7 +829,15 @@
   },
   {
     "pattern": "lipperhey",
-    "last_changed": "2017-08-08"
+    "last_changed": "2017-08-08",
+    "url": "http://www.lipperhey.com/",
+    "instances": [
+      "Mozilla/5.0 (compatible; Lipperhey Link Explorer; http://www.lipperhey.com/)",
+      "Mozilla/5.0 (compatible; Lipperhey SEO Service; http://www.lipperhey.com/)",
+      "Mozilla/5.0 (compatible; Lipperhey Site Explorer; http://www.lipperhey.com/)",
+      "Mozilla/5.0 (compatible; Lipperhey-Kaus-Australis/5.0; +https://www.lipperhey.com/en/about/)"
+    ],
+    "addition_date": "2015-08-26"
   },
   {
     "pattern": "livejournal\\.com",
@@ -723,7 +853,12 @@
   },
   {
     "pattern": "ltx71",
-    "last_changed": "2017-08-08"
+    "last_changed": "2017-08-08",
+    "url": "http://ltx71.com/",
+    "instances": [
+      "ltx71 - (http://ltx71.com/)"
+    ],
+    "addition_date": "2015-04-04"
   },
   {
     "pattern": "lwp",
@@ -736,7 +871,11 @@
   {
     "pattern": "MaCoCu",
     "last_changed": "2021-11-23",
-    "url": "https://www.clarin.si/info/macocu-massive-collection-and-curation-of-monolingual-and-bilingual-data/"
+    "url": "https://www.clarin.si/info/macocu-massive-collection-and-curation-of-monolingual-and-bilingual-data",
+    "addition_date": "2023-09-08",
+    "instances": [
+      "Mozilla/5.0 (compatible; MaCoCu; +https://www.clarin.si/info/macocu-massive-collection-and-curation-of-monolingual-and-bilingual-data/)"
+    ]
   },
   {
     "pattern": "mail\\.ru",
@@ -759,7 +898,11 @@
     "pattern": "MetaInspector",
     "last_changed": "2022-05-04",
     "description": "Ruby gem for web scraping purposes.",
-    "url": "https://github.com/metainspector/metainspector"
+    "url": "https://github.com/jaimeiniesta/metainspector",
+    "addition_date": "2023-09-08",
+    "instances": [
+      "MetaInspector/5.6.0 (+https://github.com/jaimeiniesta/metainspector)"
+    ]
   },
   {
     "pattern": "MetaURI[\\+\\s]API\\/\\d\\.\\d",
@@ -899,7 +1042,11 @@
   },
   {
     "pattern": "nutch",
-    "last_changed": "2017-08-08"
+    "last_changed": "2017-08-08",
+    "instances": [
+      "NutchCVS/0.7.1 (Nutch; http://lucene.apache.org/nutch/bot.html; nutch-agent@lucene.apache.org)",
+      "istellabot-nutch/Nutch-1.10"
+    ]
   },
   {
     "pattern": "^oaDOI$",
@@ -923,7 +1070,15 @@
     "pattern": "okhttp",
     "last_changed": "2020-02-25",
     "description": "okhttp is a Java HTTP client library.",
-    "url": "http://square.github.io/okhttp/"
+    "url": "http://square.github.io/okhttp/",
+    "addition_date": "2017-11-02",
+    "instances": [
+      "okhttp/2.5.0",
+      "okhttp/2.7.5",
+      "okhttp/3.2.0",
+      "okhttp/3.5.0",
+      "okhttp/4.1.0"
+    ]
   },
   {
     "pattern": "onetszukaj",
@@ -939,7 +1094,10 @@
   },
   {
     "pattern": "panscient",
-    "last_changed": "2017-08-08"
+    "last_changed": "2017-08-08",
+    "instances": [
+      "panscient.com"
+    ]
   },
   {
     "pattern": "parsijoo",
@@ -952,7 +1110,13 @@
   },
   {
     "pattern": "Pcore-HTTP",
-    "last_changed": "2019-11-19"
+    "last_changed": "2019-11-19",
+    "addition_date": "2017-08-19",
+    "instances": [
+      "Pcore-HTTP/v0.40.3",
+      "Pcore-HTTP/v0.44.0"
+    ],
+    "url": "https://bitbucket.org/softvisio/pcore/overview"
   },
   {
     "pattern": "pear\\.php\\.net",
@@ -994,7 +1158,13 @@
   },
   {
     "pattern": "proximic",
-    "last_changed": "2017-08-08"
+    "last_changed": "2017-08-08",
+    "addition_date": "2013-09-12",
+    "url": "http://www.proximic.com/info/spider.php",
+    "instances": [
+      "Mozilla/5.0 (compatible; proximic; +http://www.proximic.com)",
+      "Mozilla/5.0 (compatible; proximic; +http://www.proximic.com/info/spider.php)"
+    ]
   },
   {
     "pattern": "PycURL",
@@ -1006,7 +1176,15 @@
   },
   {
     "pattern": "Qwantify",
-    "last_changed": "2017-08-08"
+    "last_changed": "2017-08-08",
+    "url": "https://www.qwant.com/",
+    "instances": [
+      "Mozilla/5.0 (compatible; Qwantify/2.0n; +https://www.qwant.com/)/*",
+      "Mozilla/5.0 (compatible; Qwantify/2.4w; +https://www.qwant.com/)/2.4w",
+      "Mozilla/5.0 (compatible; Qwantify/Bleriot/1.1; +https://help.qwant.com/bot)",
+      "Mozilla/5.0 (compatible; Qwantify/Bleriot/1.2.1; +https://help.qwant.com/bot)"
+    ],
+    "addition_date": "2015-04-06"
   },
   {
     "pattern": "rambler",
@@ -1067,7 +1245,11 @@
   {
     "pattern": "ScoutJet",
     "last_changed": "2019-02-12",
-    "url": "http://www.scoutjet.com/"
+    "url": "http://www.scoutjet.com/",
+    "addition_date": "2018-03-27",
+    "instances": [
+      "Mozilla/5.0 (compatible; ScoutJet; +http://www.scoutjet.com/)"
+    ]
   },
   {
     "pattern": "^scrutiny\\/\\d",
@@ -1091,7 +1273,11 @@
   },
   {
     "pattern": "SkypeUriPreview",
-    "last_changed": "2017-08-08"
+    "last_changed": "2017-08-08",
+    "addition_date": "2016-10-10",
+    "instances": [
+      "Mozilla/5.0 (Windows NT 6.1; WOW64) SkypeUriPreview Preview/0.5"
+    ]
   },
   {
     "pattern": "slurp",
@@ -1103,7 +1289,14 @@
   },
   {
     "pattern": "speedy",
-    "last_changed": "2017-08-08"
+    "last_changed": "2017-08-08",
+    "instances": [
+      "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) Speedy Spider (http://www.entireweb.com/about/search_tech/speedy_spider/)",
+      "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) Speedy Spider for SpeedyAds (http://www.entireweb.com/about/search_tech/speedy_spider/)",
+      "Mozilla/5.0 (compatible; Speedy Spider; http://www.entireweb.com/about/search_tech/speedy_spider/)",
+      "Speedy Spider (Entireweb; Beta/1.2; http://www.entireweb.com/about/search_tech/speedyspider/)",
+      "Speedy Spider (http://www.entireweb.com/about/search_tech/speedy_spider/)"
+    ]
   },
   {
     "pattern": "sqlmap",
@@ -1121,7 +1314,12 @@
   },
   {
     "pattern": "summify",
-    "last_changed": "2017-08-08"
+    "last_changed": "2017-08-08",
+    "addition_date": "2012-01-04",
+    "url": "http://summify.com",
+    "instances": [
+      "Summify (Summify/1.0.1; +http://summify.com)"
+    ]
   },
   {
     "pattern": "sunrise",
@@ -1129,7 +1327,12 @@
   },
   {
     "pattern": "Sysomos",
-    "last_changed": "2017-08-08"
+    "last_changed": "2017-08-08",
+    "addition_date": "2016-02-08",
+    "url": "http://www.sysomos.com",
+    "instances": [
+      "Mozilla/5.0 (compatible; Sysomos/1.0; +http://www.sysomos.com/; Sysomos)"
+    ]
   },
   {
     "pattern": "T\\-H\\-U\\-N\\-D\\-E\\-R\\-S\\-T\\-O\\-N\\-E",
@@ -1145,7 +1348,12 @@
   },
   {
     "pattern": "Teoma",
-    "last_changed": "2017-08-08"
+    "last_changed": "2017-08-08",
+    "instances": [
+      "Mozilla/2.0 (compatible; Ask Jeeves/Teoma; +http://sp.ask.com/docs/about/tech_crawling.html)",
+      "Mozilla/2.0 (compatible; Ask Jeeves/Teoma; +http://about.ask.com/en/docs/about/webmasters.shtml)"
+    ],
+    "url": "http://about.ask.com/en/docs/about/webmasters.shtml"
   },
   {
     "pattern": "The[\\+\\s]Knowledge[\\+\\s]AI",
@@ -1166,13 +1374,21 @@
   },
   {
     "pattern": "Trove",
-    "last_changed": "2017-08-08"
+    "last_changed": "2017-08-08",
+    "addition_date": "2016-02-08",
+    "url": "http://www.trove.com",
+    "instances": []
   },
   {
     "pattern": "Turnitin",
     "last_changed": "2020-07-01",
     "description": "This robot collects content from the Internet for the sole purpose of helping educational institutions prevent plagiarism.",
-    "url": "https://turnitin.com/robot/crawlerinfo.html"
+    "url": "http://www.turnitin.com",
+    "addition_date": "2010-09-26",
+    "instances": [
+      "TurnitinBot (https://turnitin.com/robot/crawlerinfo.html)",
+      "Turnitin (https://bit.ly/2UvnfoQ)"
+    ]
   },
   {
     "pattern": "twiceler",
@@ -1311,7 +1527,36 @@
   },
   {
     "pattern": "WhatsApp",
-    "last_changed": "2021-03-30"
+    "last_changed": "2021-03-30",
+    "addition_date": "2016-11-15",
+    "url": "https://www.whatsapp.com/",
+    "instances": [
+      "WhatsApp",
+      "WhatsApp/0.3.4479 N",
+      "WhatsApp/0.3.4679 N",
+      "WhatsApp/0.3.4941 N",
+      "WhatsApp/2.12.15/i",
+      "WhatsApp/2.12.16/i",
+      "WhatsApp/2.12.17/i",
+      "WhatsApp/2.12.449 A",
+      "WhatsApp/2.12.453 A",
+      "WhatsApp/2.12.510 A",
+      "WhatsApp/2.12.540 A",
+      "WhatsApp/2.12.548 A",
+      "WhatsApp/2.12.555 A",
+      "WhatsApp/2.12.556 A",
+      "WhatsApp/2.16.1/i",
+      "WhatsApp/2.16.13 A",
+      "WhatsApp/2.16.2/i",
+      "WhatsApp/2.16.42 A",
+      "WhatsApp/2.16.57 A",
+      "WhatsApp/2.19.92 i",
+      "WhatsApp/2.19.175 A",
+      "WhatsApp/2.19.244 A",
+      "WhatsApp/2.19.258 A",
+      "WhatsApp/2.19.308 A",
+      "WhatsApp/2.19.330 A"
+    ]
   },
   {
     "pattern": "wordpress",
@@ -1357,7 +1602,11 @@
   {
     "pattern": "Zabbix",
     "last_changed": "2021-11-23",
-    "url": "https://github.com/zabbix/zabbix"
+    "url": "https://www.zabbix.com/documentation/3.4/manual/web_monitoring",
+    "addition_date": "2018-09-05",
+    "instances": [
+      "Zabbix"
+    ]
   },
   {
     "pattern": "ZoteroTranslationServer",
@@ -1377,5 +1626,4390 @@
     "pattern": "7siters",
     "last_changed": "2020-02-25",
     "url": "https://7ooo.ru/siters"
+  },
+  {
+    "pattern": "&as_qdr=all",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "192\\.comAgent",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "222\\.122\\.15\\.190",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "2Bone_LinkChkr\\/1\\.0\\sl",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "7331230CB97FADECF052",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "8484\\sBoston\\sProject",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "8LEGS",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "A-Online\\sSearch",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "AHC\\/2\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "ASPSeek\\/1\\.2\\.5",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "ASPSeek\\/1\\.2\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "ASPseek\\/1\\.2\\.9d",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "ASSORT\\/0\\.10",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "AV\\sFetch\\s1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "AVSearch-1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "AVSearch-2\\.0-fusionI",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "AVSearch-3\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Accoona-AI-Agent\\/1\\.1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "ActiveBookmark\\s1\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "AdobeUxTechC4-Async\\/",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Aladin\\/3\\.324",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Allrati\\/1\\.1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "AltaVista\\sIntranet\\sV",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Amazon\\sCloudFront",
+    "last_changed": "2024-01-02",
+    "addition_date": "2018-09-07",
+    "instances": [
+      "Amazon CloudFront"
+    ],
+    "url": "https://aws.amazon.com/cloudfront/"
+  },
+  {
+    "pattern": "AmiTCP\\sMiami",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Anonymizer\\/1\\.1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "AnswerChase\\sPROve\\sx\\.",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "AnswerChase\\sx\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Apache",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Apache-HttpAsyncClie",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Apache-HttpClient\\/4\\.",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Apache-HttpClient\\/UN",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Aport",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Arachnoidea",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Asahina-Antenna\\/1\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Ask\\.24x\\.Info",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Atomic_Email_Hunter\\/",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "BMCLIENT",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "BMLAUNCHER",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "BPImageWalker\\/2\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "BSDSeek\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "BStop\\.BravoBrian\\.it",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "BTWebClient\\/180B",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "BeamMachine\\/0\\.5",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "BeebwareDirectory\\/v0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Big\\sFish\\sv1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "BigBrother\\/1\\.6e",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Bilbo\\/2\\.3b-UNIX",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "BlackBerry9000\\/4\\.6\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "BlackWidow",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Blackboard\\sSafeassig",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Bobby\\/4\\.0\\.x\\sRPT-HTTP",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Bookdog\\/x\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "BravoBrian\\sbstop\\.bra",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "BullsEye",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "BunnySlippers",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "CHttpClient\\sby\\sOpen",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "CLIPish\\sPro2\\s10\\.21",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "COAST\\sWebMaster\\sPro\\/",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "CamelHttpStream\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Cancer\\sInformation\\sa",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Chat\\sCatcher\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "China\\sLocal\\sBrowse\\s2",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Chitika\\sContentHit\\s1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Claymont\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Contact",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Cookie%20Stumbler\\/22",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "CyberSpyder\\sLink\\sTes",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "DBrowse\\s1\\.4b",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "DBrowse\\s1\\.4d",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "DTAAgent",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Dart\\sCommunications",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "DataFountains\\/DMOZ\\sD",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Datafeedwatch\\/2\\.1\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Deep\\sLink\\sCalculator",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "DeepIndex",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "DeepIndexer\\.ca",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "DevComponents\\.com\\sHt",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Diamond\\/x\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "DigOut4U",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Digger\\/1\\.0\\sJDK\\/1\\.3\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Disqus\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "DittoSpyder",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "EARTHCOM\\.info\\/1\\.x\\s\\[w",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "EARTHCOM\\.info\\/1\\.xbet",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "EBrowse\\s1\\.4b",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "EchO!\\/2\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Educate\\sSearch\\sVxB",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "EldoS\\sTimelyWeb\\/3\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Enfish\\sTracker",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Enterprise_Search\\/1\\.",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Evernote\\sClip\\sResolv",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Exalead\\sNG\\/MimeLive",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Expired\\sDomain\\sSleut",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "ExtractorPro",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "EyeCatcher",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "FARK\\.com\\slink\\sverifi",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "FLATARTS_FAVICO",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "FaEdit\\/2\\.0\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Favorites\\sSweeper\\sv\\.",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Feed24\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Filtrbox\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "FindAnISP\\.com_ISP_Fi",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Firefly\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Firefox",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Firefox_1\\.0\\.6",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "FirstGov\\.gov\\sSearch",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Flexum\\/2\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "FocusedSampler\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Franklin\\sLocator\\s1\\.8",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "FuseBulb\\.Com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Go\\s1\\.1\\spackage\\shttp",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Go-http-client\\/1\\.1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Go-http-client\\/2\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "GoForIt\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Goofer\\/0\\.2",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Gromit\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Guestbook\\sAuto\\sSubmi",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "HLoader",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Haansoft",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Hatena\\sAntenna\\/0\\.3",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Hatena\\sPagetitle\\sAge",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Hatena::Bookmark\\/2\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Hippias\\/0\\.9\\sBeta",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "HitList",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Hivemind",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "HomePageSearch",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Hybrid\\/1\\.2\\s\\[en]",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "IAArchiver-1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "IBM\\sWebExplorer\\s\\/v0\\.",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "IEFav172Free",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "INFOMINE\\/8\\.0\\sAdders",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "INFOMINE\\/8\\.0\\sRemoteS",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "IP\\*Works!\\sV5\\sHTTP\\/S",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "ISC\\sSystems\\siRc\\sSear",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "IWAgent\\/\\s1\\.0\\s-\\swww\\.b",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Icarus6\\s-",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "ImageWalker\\/2\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Incutio\\sHttpClient\\sv",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "IncyWincy\\sdata\\sgathe",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Industry\\sProgram\\s1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Inet\\slibrary",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "InetURL\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "InfoLink\\/1\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "InfoSeek\\sSidewinder\\/",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Infoseek\\sSideWinder\\/",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Inktomi\\sSearch",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Insitor\\.com\\ssearch\\sa",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Insitornaut",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Internet\\sNinja\\sx\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "InternetLinkAgent\\/3\\.",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "JDK\\/1\\.1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Jack",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Jakarta\\sCommons-Http",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Java1\\.0\\.21\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Java1\\.1\\.xx\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Java1\\.3\\.0rc1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Java1\\.3\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Java1\\.4\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Jersey\\/2\\.25\\.1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Jetty\\/9\\.3\\.z-SNAPSHOT",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Jigsaw\\/2\\.2\\.x\\sW3C_CSS",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Jigsaw\\/2\\.3\\.0\\sW3C_CSS",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Junkie\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "KIT-Fireball\\/2\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "KnowItAll",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Knowledge\\.com\\/0\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "KummHttp\\/1\\.1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "LEIA\\/2\\.90",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Lachesis",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Lincoln\\sState\\sWeb\\sBr",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Link\\sValet\\sOnline\\s1\\.",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "LinkAlarm\\/2\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "LinkPimpin\\sv1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "LinkProver\\s2\\.1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "LinkSonar\\/1\\.35",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "LinkSweeper\\/1\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Look\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Lynx\\/2\\.8\\.4rel\\.1\\slibw",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "MARTINI",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "MFC\\sFoundation\\sClass",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "MFC_Tear_Sample",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "MSIE-5\\.13",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "MSNPTC\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "MVAClient",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Mac\\sFinder\\s1\\.0\\.xx",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Mag-Net",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "MantraAgent",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "MapoftheInternet\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Marketwave\\sHit\\sList",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Martini",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Marvin\\sv0\\.3",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "MasterSeek",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Mata\\sHari\\/2\\.00",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "MediaSearch\\/0\\.1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "MegaSheep\\sv1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "MeltwaterNews\\swww\\.me",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Mercator-1\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Mercator-2\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Mercator-Scrub-1\\.1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Mercury\\/894\\sCFNetwor",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "MetaURI\\sAPI\\/2\\.0\\s\\+met",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "MicroBaz",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Microsoft\\sData\\sAcces",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Microsoft\\sSmall\\sBusi",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Microsoft\\sURL\\sContro",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Microsoft\\sWindows\\sNe",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "MiracleAlphaTest",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Missauga\\sLocate\\s1\\.0\\.",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Missigua\\sLocator\\s1\\.9",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Missouri\\sCollege\\sBro",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Mister\\sPiX\\sversion\\.d",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Mister\\sPix\\sII\\s2\\.02a",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Miva",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Mizzu\\sLabs\\s2\\.2",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Mo\\sCollege\\s1\\.9",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Mozi!",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "MultiText\\/0\\.1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "My\\sWinHTTP\\sConnectio",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "NASA\\sSearch\\s1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "NEC\\sResearch\\sAgent\\s-",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "NEC-Hayek\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "NG\\/4\\.0\\.1229",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "NICO\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "NING\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "NationalDirectoryAdd",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "NativeHost",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "NetLookout\\/2\\.24",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "NetMechanic\\sVx\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "NetSprint\\s--\\s2\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "NetZippy",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Nocilla\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Nsauditor\\/1\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Nuzzel",
+    "last_changed": "2024-01-02",
+    "addition_date": "2017-11-02",
+    "instances": [
+      "Nuzzel"
+    ]
+  },
+  {
+    "pattern": "Octora\\sBeta\\s-\\swww\\.oc",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "OliverPerry",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "OpenAcoon\\sv4\\.0\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "OpenISearch\\/1\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "OpenOffice\\/4\\.1\\.1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Openstat\\/0\\.1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Opera\\/6\\.01",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Oracle\\sUltra\\sSearch",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "OzySoftware\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "PBrowse\\s1\\.4b",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "PEval\\s1\\.4b",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "POE-Component-Client",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "PeopleChat\\/Search_En",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "PicoSearch\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Piffany_Web_Scraper_",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "PingALink\\sMonitoring",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Pita",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Poirot",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Pompos\\/1\\.x\\spompos@il",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Popdexter\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Port\\sHuron\\sLabs",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "PostFavorites",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "PostRank\\/2\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "PrivacyFinder\\/1\\.1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Program\\sShareware\\s1\\.",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Progressive\\sDownload",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Project\\sXP5\\s\\[2\\.03\\.07",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Pulsepoint\\sXT3\\sweb\\ss",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "QPCreep\\sTest\\sRig",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Qseero\\sv1\\.0\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "QuepasaCreep\\sv0\\.9\\.1x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "QueryN\\sMetasearch",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "R6_VoteReader",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "RPT-HTTPClient\\/0\\.3-x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "RepoMonkey\\sBait\\s&\\sTa",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Ruby",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Rumours-Agent",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "SMRF\\sURL\\sExpander",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "ScoutAbout",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Search\\+",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Search-Engine-Studio",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "SearchGuild\\/DMOZ\\/Exp",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "SearchGuild_DMOZ_Exp",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "SearchSight\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "SearchTone2\\.0\\s-\\sIDEA",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Seeker\\.lookseek\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Silk\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "SiteBar\\/x\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "SiteRecon\\+",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "SiteTruth\\.com\\ssite\\sr",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "SiteXpert",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Skywalker\\/0\\.1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Slarp\\/0\\.1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Slider_Search_v1-de",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "SlySearch",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "SnoopRob\\/x\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Snoopy\\sv1\\.xx",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Snoopy_v0\\.xx",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Sphere\\sScout&v4\\.0\\s-",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Sphider",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Spida\\/0\\.1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Spinne\\/2\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Spinne\\/2\\.0\\smed",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Spinne\\/2\\.0\\smed_AH",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "SyncIT\\/x\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Szukacz\\/1\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "TE",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "TJvMultiHttpGrabber",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Tagyu\\sAgent\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "TeamSoft\\sWinInet\\sCom",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "The\\sEuropean\\sLibrary",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Thinklab",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "TinEye",
+    "last_changed": "2024-01-02",
+    "addition_date": "2017-10-14",
+    "url": "http://www.tineye.com/crawler.html",
+    "instances": [
+      "Mozilla/5.0 (compatible; TinEye-bot/1.31; +http://www.tineye.com/crawler.html)",
+      "TinEye/1.1 (http://tineye.com/crawler.html)"
+    ]
+  },
+  {
+    "pattern": "Toutatis\\sx-xx\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Toutatis\\sx\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Toutatis\\sx\\.x-x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Traackr\\.com",
+    "last_changed": "2024-01-02",
+    "addition_date": "2017-11-02",
+    "url": "Traackr.com",
+    "instances": [
+      "Traackr.com"
+    ]
+  },
+  {
+    "pattern": "Twisted\\sPageGetter",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Twitter\\/6\\.18\\.3\\sCFNet",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Twitturly\\s\\/\\sv0\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "TygoProwler",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "UCWEB\\/2\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "UDM",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "URLBase\\/6\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "URLBlaze",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "UdmSearch\\/3\\.1\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Under\\sthe\\sRainbow\\s2\\.",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "UofTDB_experiment",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Upflow\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "VYU2",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Vagabondo\\/1\\.x\\sMT",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Vagabondo\\/2\\.0\\sMT",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Vagabondo\\/3\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "VayalaCreep-v0\\.0\\.1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Vayala\\|Creep-v0\\.0\\.1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "VeryGoodSearch\\.com\\.D",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "W3C-mobileOK\\/DDC-1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "W3C_Unicorn\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "WEP\\sSearch\\s00",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "WFARC",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "WIRE\\/0\\.22",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "WST-Plagiarism",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "WWWC\\/1\\.0x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Wada\\.vn\\sVietnamese\\sS",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Waypath\\sScout\\sv2\\.x\\s-",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "WeSEE",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "WeSEE:Search",
+    "last_changed": "2024-01-02",
+    "addition_date": "2013-11-18",
+    "instances": [
+      "WeSEE:Search",
+      "WeSEE:Search/0.1 (Alpha, http://www.wesee.com/en/support/bot/)"
+    ]
+  },
+  {
+    "pattern": "Web\\sSnooper",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "WebBug\\/5\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "WebCompass\\s2\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "WebCorp\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "WebSearch\\.COM\\.AU;",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "WebStat\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "WebTrends\\/3\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "WebVac",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "WebVal\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "WebWatcherMonitor\\/2\\.",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Webclipping\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Webdup\\/0\\.9",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Weblog\\sAttitude\\sDiff",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "WebsiteWorth\\sv1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Webspinne\\/1\\.0\\swebmas",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Webverzeichnis\\.de\\s-",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Wells\\sSearch\\sII",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Whatsup\\/x\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "WhizBang!\\sLab",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "WinHTTP\\sExample\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "WinampMPEG\\/2\\.00",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "WincerSong\\sAgent\\sv1\\.",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "WorQmada\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "WordupInfoSearch\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "WorldLight",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Wusage\\/x\\.0@boutell\\.c",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Wwlib\\/Linux",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Xylix",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Yanadoo",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Zearchit",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "ZendHttpClient",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Ziggy\\s--\\sThe\\sClown\\sF",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Zippy\\sv2\\.0\\s-\\sZippyfi",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "a\\.pr-cy\\.ru",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "about\\.ask\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "about\\.depspid\\.net",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "accoona",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "aihit\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "amzn_assoc",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "app\\.hypefactors\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "archive\\.org",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "ask\\.24x\\.info",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "augurfind",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "augurnfind\\sV-1\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "autohttp",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "autowebdir\\s1\\.1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "axios\\/0\\.18\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "bCentral\\sBilling\\sPos",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "bdcindexer_2\\.6\\.2",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "blacklistdeclassified\\.net",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "bookmarkbase\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "bulkfeeds\\.net",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "bumblebee@relevare\\.c",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "cantor\\.ee\\.ucla\\.edu",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "carleson\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "ccubee\\/x\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "cfetch\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "cg-eye\\sinteractive",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "cobitsprobe",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "codegator",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "collage\\.cgi\\/1\\.xx",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "computerorgs\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "content\\.easybib\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "coralcdn\\.org",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "cosco\\.hiit\\.fi",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "cs\\.daum\\.net",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "csci_b659\\/0\\.13",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "dds\\sexplorer\\sv1\\.0\\sbe",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "deepak-USC\\/ISI",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "deusu\\.org",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "digg\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "dir\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "dznet\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "e-sense\\s1\\.0\\sea",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "eStyleSearch\\s4",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "ec2linkfinder",
+    "last_changed": "2024-01-02",
+    "addition_date": "2012-03-22",
+    "instances": [
+      "ec2linkfinder"
+    ]
+  },
+  {
+    "pattern": "ecairn\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "ejupiter\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "enter4u\\.eu",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "exactseek\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "example-masto-instance\\.org",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "feed\\.moo\\.jp",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "feedafever\\.com;",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "flipboard\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "flunky",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "free-downloads\\.net\\sd",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "gazz\\/x\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "geourl\\/2\\.0b2",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "getpocket\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "gigabaz\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "github\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "gossamer-threads\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "guess\\.scritch\\.org",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "haste\\.kytoon\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "help\\.coccoc\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "help\\.coccoc\\.vn",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "help\\.goo\\.ne\\.jp",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "help\\.hepburnhome\\.ca",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "hgrepurl\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "http:\\/\\/www\\.mabontlan",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "http:\\/\\/www\\.monogol\\.d",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "http:\\/\\/www\\.timelyweb",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "http_get",
+    "last_changed": "2024-01-02",
+    "addition_date": "2017-11-02",
+    "instances": [
+      "http_get"
+    ]
+  },
+  {
+    "pattern": "httpunit\\/1\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "i\\.stanford\\.edu",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "iFeed\\.jp\\/2\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "icerocket\\.com;",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "ideare\\s-\\sSignSite\\/1\\.",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "igde\\.ru",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "innovationblog\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "integrity\\/1\\.6",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "integrity\\/5",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "ivia\\.ucr\\.edu",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "jack",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "journster\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "knil",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "kulturarw3\\/0\\.1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "law\\.di\\.unimi\\.it",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "lc\\/\\$ROADS::Version\\sl",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "libWeb\\/clsHTTP\\s--\\shi",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "linkdex\\.com\\/v2\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "mailto:webcraft@bea\\.",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "metatagsdir\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "miniflux\\.net",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "mogimogi\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "moiNAG\\s0\\.02",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "muckrack\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "myDaemon",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "net-promoter\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "netarkivet\\.dk",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "newsearchengine",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "newsme\\/1\\.0;\\sfeedback",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "newspaper\\/0\\.1\\.0\\.7",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "newspaper\\/0\\.2\\.5",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "newspaper\\/0\\.2\\.6",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "newstin\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "nlp\\.uned\\.es",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "noyona_0_1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "nymesis\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "oegp\\sv\\.\\s1\\.3\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "omgili\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "ostermiller\\.org",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "owler-agent",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "ozelot\\/2\\.7\\.3",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "pandora\\.nla\\.gov\\.au",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "pauillac\\.inria\\.fr",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "pd02_1\\.0\\.0\\spd02_1\\.0\\.",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "people\\.eng\\.unimelb\\.edu\\.au",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "pompos\\.iliad\\.fr",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "psycheclone",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "r\\.hatena\\.ne\\.jp",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "rabaz",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "ranksonic\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "rico\\/0\\.1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "rjpower\\.org",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "sagool\\.jp",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "scoutmaster",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "scrapy\\.org",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "search\\.ch\\sV1\\.4",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "search\\.denmex\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "search\\.goo\\.ne\\.jp",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "seekda\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "semanticdiscovery\\/0\\.",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "sentry\\.io",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "silk\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "sitebar\\.org",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "siteexplorer\\.info",
+    "last_changed": "2024-01-02",
+    "addition_date": "2013-05-01",
+    "instances": [
+      "Mozilla/5.0 (compatible; SiteExplorer/1.0b; +http://siteexplorer.info/)",
+      "Mozilla/5.0 (compatible; SiteExplorer/1.1b; +http://siteexplorer.info/Backlink-Checker-Spider/)"
+    ]
+  },
+  {
+    "pattern": "smartwit\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "sna-0\\.0\\.1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "sna-0\\.0\\.1\\smikeelliot",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "sohu\\sagent",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "sohu-search",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "sp\\.ask\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "suchbaer\\.de",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "support\\.embed\\.ly",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "surf",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "suzuran",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "szukaj\\.onet\\.pl",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "tags2dir\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "tagword\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "targetblaster\\.com\\/0\\.",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "therarestwords\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "tuezilla\\.de",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "twikle\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "twurly\\.org",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "unknownght\\.com\\sWeb\\sS",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "users\\.cs\\.cf\\.ac\\.uk",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "versus\\.integis\\.ch",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "vias\\.ncsa\\.uiuc\\.edu",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "visionutils\\/0\\.2",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "vk\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "voyager-hc\\/1\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "web-bekannt",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "web2express\\.org",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "webGobbler\\/1\\.x\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "webagent\\.wise-guys\\.nl",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "webalgo\\.iit\\.cnr\\.it",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "webbandit\\/4\\.xx\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "webdatastats\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "webglimpse\\.net",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "webhack",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "websearchbench\\.cs\\.uni-dortmund\\.de",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "websitealert\\.net",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "webster-internet\\.de",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "webster\\.healeys\\.net",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "whatUseek_winona\\/3\\.0",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "wiki\\.creativecommons\\.org",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "wish\\.slis\\.tsukuba\\.ac\\.jp",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "wkd\\.iis\\.sinica\\.edu\\.tw",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "wortschatz\\.uni-leipzig\\.de",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "ws\\.daum\\.net",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.Abolimba\\.de",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.WISEnut\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.abonti\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.ackerm\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.activtourist\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.agada\\.de",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.ahmadsoftware\\.co",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.answerbus\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.ant\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.aol\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.aramabeta\\.com;",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.arianna\\.it",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.arocom\\.de",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.asaha\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.axxus\\.de",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.ay-up\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.ba\\.be",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.blaiz\\.net",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.bortzmeyer\\.org",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.brandverity\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.buddybuzz\\.net",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.buscaplus\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.business-socket\\.",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.canadiancontent\\.net",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.chepi\\.net",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.chilkatsoft\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.cloudflare\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.cnet\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.cougarsearch\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.covario\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.crim\\.ca",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.cs\\.washington\\.edu",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.cs\\.washington\\.edu;",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.de\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.dead-links\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.die-kraehe\\.de",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.dnsdigger\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.earthcom\\.info",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.eurekster\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.europarchive\\.org",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.eventax\\.de",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.everatom\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.evri\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.exensa\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.exif-search\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.facebook\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.favcollector\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.feeddemon\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.feedhub\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.feedly\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.feedmap\\.net",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.fileboost\\.net",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.findpal\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.floorstransformed\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.flyindex\\.net",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.followsite\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.globalspec\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.goguides\\.org",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.greaterera\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.hermitsearch\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.hyperix\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.ianett\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.icerocket\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.illumit\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.iltrovatore\\.it",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.inktomi\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.intelliseek\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.ip2location\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.jordomedia\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.kalooga\\.com;",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.kototoi\\.org",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.l3s\\.de",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.lan4lano\\.net",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.look\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.lw01\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.matuschek\\.net",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.megaindex\\.ru",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.meta-spinner\\.de",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.mixdata\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.moreover\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.neomo\\.de",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.newsgator\\.com;",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.ng-search\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.page-store\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.pagebull\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.pingalink\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.pingdom\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.plinki\\.com;",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.powerset\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.prairielandconsulting\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.pubblisito\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.qango\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.quickiwiki\\.com;",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.qwant\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.rawgrunt\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.relsoftware\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.retrevo\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.samsung\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.scifihifi\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.scrubtheweb\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.searchme\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.securecomputing\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.semager\\.de",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.shopwiki\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.siigle\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.simpy\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.sitesearch\\.ca",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.sitesell\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.sixxs\\.net",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.skaffe\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.skyrocket\\.gr\\.jp",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.sli-systems\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.slider\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.slysearch\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.somusical\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.suchen\\.de",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.sygol\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.sync2it\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.targetgroups\\.net",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.teradex\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.tkensaku\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.truveo\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.tumblr\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.ukwizz\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.unchaos\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.updated\\.com;",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.urltrends\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.vakes\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.versions-project\\.org",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.verzamelgids\\.nl",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.wavefire\\.com;",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.webarchiv\\.cz",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.worio\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.wowlemmings\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.xirq\\.com;",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.xrayz\\.co\\.uk",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.yama\\.info\\.waseda\\.ac\\.jp",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.yoono\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "www\\.zedzo\\.com",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "wwwster\\/1\\.x",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "xmlset_roodkcableoj2",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "yarienavoir\\.net\\/0\\.2",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "yoogliFetchAgent\\/0\\.1",
+    "last_changed": "2024-01-02"
+  },
+  {
+    "pattern": "Mediapartners\\s\\\\",
+    "addition_date": "2017-08-08",
+    "url": "https://support.google.com/webmasters/answer/1061943?hl=en",
+    "instances": [],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "\\[wW]get",
+    "instances": [
+      "WGETbot/1.0 (+http://wget.alanreed.org)",
+      "Wget/1.14 (linux-gnu)",
+      "Wget/1.20.3 (linux-gnu)"
+    ]
+  },
+  {
+    "pattern": "aiohttp",
+    "addition_date": "2019-12-23",
+    "instances": [
+      "Python/3.9 aiohttp/3.7.3",
+      "Python/3.8 aiohttp/3.7.2",
+      "Python/3.7 aiohttp/3.6.2a2"
+    ],
+    "url": "https://docs.aiohttp.org/en/stable/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "httpunit",
+    "instances": [
+      "httpunit/1.x"
+    ]
+  },
+  {
+    "pattern": "Go-http-client",
+    "addition_date": "2016-03-26",
+    "url": "https://golang.org/pkg/net/http/",
+    "instances": [
+      "Go-http-client/1.1",
+      "Go-http-client/2.0"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Gigablast",
+    "instances": [
+      "GigablastOpenSource/1.0"
+    ],
+    "url": "https://github.com/gigablast/open-source-search-engine"
+  },
+  {
+    "pattern": "netresearchserver",
+    "instances": []
+  },
+  {
+    "pattern": "fluffy",
+    "instances": []
+  },
+  {
+    "pattern": "findlink",
+    "instances": [
+      "findlinks/1.0 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+      "findlinks/1.1.3-beta8 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+      "findlinks/1.1.3-beta9 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+      "findlinks/1.1.5-beta7 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+      "findlinks/1.1.6-beta1 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+      "findlinks/1.1.6-beta1 (+http://wortschatz.uni-leipzig.de/findlinks/; YaCy 0.1; yacy.net)",
+      "findlinks/1.1.6-beta2 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+      "findlinks/1.1.6-beta3 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+      "findlinks/1.1.6-beta4 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+      "findlinks/1.1.6-beta5 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+      "findlinks/1.1.6-beta6 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+      "findlinks/2.0 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+      "findlinks/2.0.1 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+      "findlinks/2.0.2 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+      "findlinks/2.0.4 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+      "findlinks/2.0.5 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+      "findlinks/2.0.9 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+      "findlinks/2.1 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+      "findlinks/2.1.3 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+      "findlinks/2.1.5 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+      "findlinks/2.2 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+      "findlinks/2.5 (+http://wortschatz.uni-leipzig.de/findlinks/)",
+      "findlinks/2.6 (+http://wortschatz.uni-leipzig.de/findlinks/)"
+    ]
+  },
+  {
+    "pattern": "ips-agent",
+    "instances": [
+      "BlackBerry9000/4.6.0.167 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102 ips-agent",
+      "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.12; ips-agent) Gecko/20050922 Fedora/1.0.7-1.1.fc4 Firefox/1.0.7",
+      "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.3; ips-agent) Gecko/20090824 Fedora/1.0.7-1.1.fc4  Firefox/3.5.3",
+      "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.24; ips-agent) Gecko/20111107 Ubuntu/10.04 (lucid) Firefox/3.6.24",
+      "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1"
+    ]
+  },
+  {
+    "pattern": "yanga",
+    "instances": [
+      "Yanga WorldSearch Bot v1.1/beta (http://www.yanga.co.uk/)"
+    ]
+  },
+  {
+    "pattern": "CyberPatrol",
+    "addition_date": "2010-02-11",
+    "url": "http://www.cyberpatrol.com/cyberpatrolcrawler.asp",
+    "instances": [
+      "CyberPatrol SiteCat Webbot (http://www.cyberpatrol.com/cyberpatrolcrawler.asp)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "postrank",
+    "addition_date": "2010-08-03",
+    "url": "http://www.postrank.com",
+    "instances": [
+      "PostRank/2.0 (postrank.com)",
+      "PostRank/2.0 (postrank.com; 1 subscribers)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "linkdex",
+    "addition_date": "2011-01-06",
+    "url": "http://www.linkdex.com",
+    "instances": [
+      "Mozilla/5.0 (compatible; linkdexbot/2.0; +http://www.linkdex.com/about/bots/)",
+      "Mozilla/5.0 (compatible; linkdexbot/2.0; +http://www.linkdex.com/bots/)",
+      "Mozilla/5.0 (compatible; linkdexbot/2.1; +http://www.linkdex.com/about/bots/)",
+      "Mozilla/5.0 (compatible; linkdexbot/2.1; +http://www.linkdex.com/bots/)",
+      "Mozilla/5.0 (compatible; linkdexbot/2.2; +http://www.linkdex.com/bots/)",
+      "linkdex.com/v2.0",
+      "linkdexbot/Nutch-1.0-dev (http://www.linkdex.com/; crawl at linkdex dot com)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "ezooms",
+    "addition_date": "2011-04-27",
+    "url": "http://www.phpbb.com/community/viewtopic.php?f=64&t=935605&start=450#p12948289",
+    "instances": [
+      "Mozilla/5.0 (compatible; Ezooms/1.0; ezooms.bot@gmail.com)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "europarchive\\.org",
+    "addition_date": "2011-06-21",
+    "url": "",
+    "instances": [
+      "Mozilla/5.0 (compatible; MSIE 7.0 +http://www.europarchive.org)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Ahrefs",
+    "addition_date": "2011-08-28",
+    "instances": [
+      "Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)",
+      "Mozilla/5.0 (compatible; AhrefsSiteAudit/6.1; +http://ahrefs.com/robot/)",
+      "Mozilla/5.0 (compatible; AhrefsBot/5.2; News; +http://ahrefs.com/robot/)",
+      "Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)",
+      "Mozilla/5.0 (compatible; AhrefsSiteAudit/5.2; +http://ahrefs.com/robot/)",
+      "Mozilla/5.0 (compatible; AhrefsBot/6.1; News; +http://ahrefs.com/robot/)",
+      "Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "mappydata",
+    "addition_date": "2018-06-28",
+    "instances": [
+      "Mozilla/5.0 (compatible; Mappy/1.0; +http://mappydata.net/bot/)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "eright",
+    "addition_date": "2018-06-28",
+    "instances": [
+      "Mozilla/5.0 (compatible; eright/1.0; +bot@eright.com)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Apercite",
+    "addition_date": "2018-06-28",
+    "instances": [
+      "Mozilla/5.0 (compatible; Apercite; +http://www.apercite.fr/robot/index.html)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Aboundex",
+    "addition_date": "2011-09-28",
+    "url": "http://www.aboundex.com/crawler/",
+    "instances": [
+      "Aboundex/0.2 (http://www.aboundex.com/crawler/)",
+      "Aboundex/0.3 (http://www.aboundex.com/crawler/)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "facebookexternalhit",
+    "addition_date": "2012-05-07",
+    "instances": [
+      "facebookexternalhit/1.0 (+http://www.facebook.com/externalhit_uatext.php)",
+      "facebookexternalhit/1.1",
+      "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)"
+    ],
+    "url": "https://developers.facebook.com/docs/sharing/webmasters/crawler/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Yeti",
+    "addition_date": "2012-05-07",
+    "url": "http://naver.me/bot",
+    "instances": [
+      "Mozilla/5.0 (compatible; Yeti/1.1; +http://naver.me/bot)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "RetrevoPageAnalyzer",
+    "addition_date": "2012-05-07",
+    "instances": [
+      "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; RetrevoPageAnalyzer; +http://www.retrevo.com/content/about-us)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "wotbox",
+    "addition_date": "2012-06-12",
+    "url": "http://www.wotbox.com",
+    "instances": [
+      "Wotbox/2.0 (bot@wotbox.com; http://www.wotbox.com)",
+      "Wotbox/2.01 (+http://www.wotbox.com/bot/)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "drupact",
+    "addition_date": "2012-09-27",
+    "url": "http://www.arocom.de/drupact",
+    "instances": [
+      "drupact/0.7; http://www.arocom.de/drupact"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "coccoc",
+    "addition_date": "2013-01-04",
+    "url": "http://help.coccoc.vn/",
+    "instances": [
+      "Mozilla/5.0 (compatible; coccoc/1.0; +http://help.coccoc.com/)",
+      "Mozilla/5.0 (compatible; coccoc/1.0; +http://help.coccoc.com/searchengine)",
+      "Mozilla/5.0 (compatible; coccocbot-image/1.0; +http://help.coccoc.com/searchengine)",
+      "Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)",
+      "Mozilla/5.0 (compatible; image.coccoc/1.0; +http://help.coccoc.com/)",
+      "Mozilla/5.0 (compatible; imagecoccoc/1.0; +http://help.coccoc.com/)",
+      "Mozilla/5.0 (compatible; imagecoccoc/1.0; +http://help.coccoc.com/searchengine)",
+      "coccoc",
+      "coccoc/1.0 ()",
+      "coccoc/1.0 (http://help.coccoc.com/)",
+      "coccoc/1.0 (http://help.coccoc.vn/)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "integromedb",
+    "addition_date": "2013-01-10",
+    "url": "http://www.integromedb.org/Crawler",
+    "instances": [
+      "www.integromedb.org/Crawler"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "changedetection",
+    "addition_date": "2013-09-13",
+    "url": "http://www.changedetection.com/bot.html",
+    "instances": [
+      "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1;  http://www.changedetection.com/bot.html )"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "CC\\sMetadata\\sScaper",
+    "addition_date": "2014-04-01",
+    "url": "http://wiki.creativecommons.org/Metadata_Scraper",
+    "instances": [
+      "CC Metadata Scaper http://wiki.creativecommons.org/Metadata_Scraper"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "g00g1e\\.net",
+    "addition_date": "2014-04-01",
+    "url": "http://www.g00g1e.net/",
+    "instances": [],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "MegaIndex",
+    "url": "https://www.megaindex.ru/?tab=linkAnalyze",
+    "instances": [
+      "Mozilla/5.0 (compatible; MegaIndex.ru/2.0; +https://www.megaindex.ru/?tab=linkAnalyze)",
+      "Mozilla/5.0 (compatible; MegaIndex.ru/2.0; +http://megaindex.com/crawler)"
+    ],
+    "addition_date": "2015-03-28",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "MetaURI",
+    "url": "http://www.useragentstring.com/MetaURI_id_17683.php",
+    "instances": [
+      "MetaURI API/2.0 +metauri.com"
+    ],
+    "addition_date": "2016-01-02",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Scrapy",
+    "url": "http://scrapy.org/",
+    "instances": [
+      "Scrapy/1.0.3 (+http://scrapy.org)"
+    ],
+    "addition_date": "2016-01-02",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Livelap\\[bB]ot",
+    "url": "http://site.livelap.com/crawler",
+    "instances": [
+      "LivelapBot/0.2 (http://site.livelap.com/crawler)",
+      "Livelapbot/0.1"
+    ],
+    "addition_date": "2016-01-02",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "CapsuleChecker",
+    "url": "http://www.capsulink.com/about",
+    "instances": [
+      "CapsuleChecker (http://www.capsulink.com/)"
+    ],
+    "addition_date": "2016-01-02",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "collection@infegy\\.com",
+    "url": "http://infegy.com/",
+    "instances": [
+      "Mozilla/5.0 (compatible) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 collection@infegy.com"
+    ],
+    "addition_date": "2016-01-03",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "DeuSu\\\\/",
+    "addition_date": "2016-01-23",
+    "url": "https://deusu.de/robot.html",
+    "instances": [
+      "Mozilla/5.0 (compatible; DeuSu/0.1.0; +https://deusu.org)",
+      "Mozilla/5.0 (compatible; DeuSu/5.0.2; +https://deusu.de/robot.html)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Sonic",
+    "addition_date": "2016-02-08",
+    "url": "http://www.yama.info.waseda.ac.jp/~crawler/info.html",
+    "instances": [
+      "Mozilla/5.0 (compatible; RankSonicSiteAuditor/1.0; +https://ranksonic.com/ranksonic_sab.html)",
+      "Mozilla/5.0 (compatible; Sonic/1.0; http://www.yama.info.waseda.ac.jp/~crawler/info.html)",
+      "Mozzila/5.0 (compatible; Sonic/1.0; http://www.yama.info.waseda.ac.jp/~crawler/info.html)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "deadlinkchecker",
+    "addition_date": "2016-02-08",
+    "url": "http://www.deadlinkchecker.com",
+    "instances": [
+      "www.deadlinkchecker.com Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36",
+      "www.deadlinkchecker.com XMLHTTP/1.0",
+      "www.deadlinkchecker.com XMLHTTP/1.0 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Slack-ImgProxy",
+    "addition_date": "2016-04-25",
+    "url": "https://api.slack.com/robots",
+    "instances": [
+      "Slack-ImgProxy (+https://api.slack.com/robots)",
+      "Slack-ImgProxy 0.59 (+https://api.slack.com/robots)",
+      "Slack-ImgProxy 0.66 (+https://api.slack.com/robots)",
+      "Slack-ImgProxy 1.106 (+https://api.slack.com/robots)",
+      "Slack-ImgProxy 1.138 (+https://api.slack.com/robots)",
+      "Slack-ImgProxy 149 (+https://api.slack.com/robots)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "electricmonk",
+    "addition_date": "2017-03-04",
+    "instances": [
+      "Mozilla/5.0 (compatible; electricmonk/3.2.0 +https://www.duedil.com/our-crawler/)"
+    ],
+    "url": "https://www.duedil.com/our-crawler/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Daum\\\\/",
+    "addition_date": "2017-08-16",
+    "instances": [
+      "Mozilla/5.0 (compatible; Daum/4.1; +http://cs.daum.net/faq/15/4118.html?faqId=28966)"
+    ],
+    "url": "http://cs.daum.net/faq/15/4118.html?faqId=28966",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "\\[pP]ingdom",
+    "addition_date": "2017-09-16",
+    "instances": [
+      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/59.0.3071.109 Chrome/59.0.3071.109 Safari/537.36 PingdomPageSpeed/1.0 (pingbot/2.0; +http://www.pingdom.com/)",
+      "Mozilla/5.0 (compatible; pingbot/2.0; +http://www.pingdom.com/)",
+      "Pingdom.com_bot_version_1.4_(http://www.pingdom.com/)",
+      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/61.0.3163.100 Chrome/61.0.3163.100 Safari/537.36 PingdomPageSpeed/1.0 (pingbot/2.0; +http://www.pingdom.com/)",
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) browser/2020.2.1 Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36 PingdomTMS/2020.2",
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) browser/2020.2.5 Chrome/78.0.3904.130 Electron/7.3.15 Safari/537.36 PingdomTMS/2020.2",
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) browser/2020.2.0 Chrome/78.0.3904.130 Electron/7.1.7 Safari/537.36 PingdomTMS/2020.2",
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) renderer/2020.2.0 Chrome/78.0.3904.130 Electron/7.1.7 Safari/537.36 PingdomTMS/2020.2",
+      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/61.0.3163.100 Chrome/61.0.3163.100 Safari/537.36 PingdomPageSpeed/1.0 (pingbot/2.0; http://www.pingdom.com/)"
+    ],
+    "url": "http://www.pingdom.com",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "AppInsights",
+    "addition_date": "2019-03-09",
+    "instances": [
+      "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; AppInsights)"
+    ],
+    "url": "https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "PhantomJS",
+    "addition_date": "2017-09-18",
+    "instances": [
+      "Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1 bl.uk_lddc_renderbot/2.0.0 (+ http://www.bl.uk/aboutus/legaldeposit/websites/websites/faqswebmaster/index.html)"
+    ],
+    "url": "http://phantomjs.org/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Jetslide",
+    "addition_date": "2017-09-27",
+    "url": "http://jetsli.de/crawler",
+    "instances": [
+      "Mozilla/5.0 (compatible; Jetslide; +http://jetsli.de/crawler)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "newsharecounts",
+    "addition_date": "2017-09-30",
+    "url": "http://newsharecounts.com/crawler",
+    "instances": [
+      "Mozilla/5.0 (compatible; NewShareCounts.com/1.0; +http://newsharecounts.com/crawler)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Bark\\[rR]owler",
+    "addition_date": "2017-10-09",
+    "url": "http://www.exensa.com/crawl",
+    "instances": [
+      "Barkrowler/0.5.1 (experimenting / debugging - sorry for your logs ) http://www.exensa.com/crawl - admin@exensa.com -- based on BuBiNG",
+      "Barkrowler/0.7 (+http://www.exensa.com/crawl)",
+      "BarkRowler/0.7 (+http://www.exensa.com/crawling)",
+      "Barkrowler/0.9 (+http://www.exensa.com/crawl)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "LinkArchiver",
+    "addition_date": "2017-09-24",
+    "instances": [
+      "@LinkArchiver twitter bot"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "YaK\\\\/",
+    "addition_date": "2017-09-25",
+    "url": "http://linkfluence.com",
+    "instances": [
+      "Mozilla/5.0 (compatible; YaK/1.0; http://linkfluence.com/; bot@linkfluence.com)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Digg\\sDeeper",
+    "addition_date": "2017-09-26",
+    "url": "http://digg.com/about",
+    "instances": [
+      "Digg Deeper/v1 (http://digg.com/about)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Snacktory",
+    "addition_date": "2017-09-23",
+    "url": "https://github.com/karussell/snacktory",
+    "instances": [
+      "Mozilla/5.0 (compatible; Snacktory; +https://github.com/karussell/snacktory)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "NING\\\\/",
+    "addition_date": "2017-11-02",
+    "instances": [
+      "NING/1.0"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "omgili",
+    "addition_date": "2017-11-02",
+    "url": "http://omgili.com",
+    "instances": [
+      "omgili/0.5 +http://omgili.com"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "PocketParser",
+    "addition_date": "2017-11-02",
+    "url": "https://getpocket.com/pocketparser_ua",
+    "instances": [
+      "PocketParser/2.0 (+https://getpocket.com/pocketparser_ua)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "um-LN",
+    "addition_date": "2017-11-02",
+    "instances": [
+      "Mozilla/5.0 (compatible; um-LN/1.0; mailto: techinfo@ubermetrics-technologies.com)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "MuckRack",
+    "addition_date": "2017-11-02",
+    "url": "http://muckrack.com",
+    "instances": [
+      "Mozilla/5.0 (compatible; MuckRack/1.0; +http://muckrack.com)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "AHC\\\\/",
+    "addition_date": "2017-11-02",
+    "instances": [
+      "AHC/2.0"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "\\^Apache-HttpClient",
+    "addition_date": "2017-11-02",
+    "instances": [
+      "Apache-HttpClient/4.2.3 (java 1.5)",
+      "Apache-HttpClient/4.2.5 (java 1.5)",
+      "Apache-HttpClient/4.3.1 (java 1.5)",
+      "Apache-HttpClient/4.3.3 (java 1.5)",
+      "Apache-HttpClient/4.3.5 (java 1.5)",
+      "Apache-HttpClient/4.4.1 (Java/1.8.0_65)",
+      "Apache-HttpClient/4.5.2 (Java/1.8.0_65)",
+      "Apache-HttpClient/4.5.2 (Java/1.8.0_151)",
+      "Apache-HttpClient/4.5.2 (Java/1.8.0_161)",
+      "Apache-HttpClient/4.5.2 (Java/1.8.0_181)",
+      "Apache-HttpClient/4.5.3 (Java/1.8.0_121)",
+      "Apache-HttpClient/4.5.3-SNAPSHOT (Java/1.8.0_152)",
+      "Apache-HttpClient/4.5.7 (Java/11.0.3)",
+      "Apache-HttpClient/4.5.10 (Java/1.8.0_201)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Jetty",
+    "addition_date": "2017-11-02",
+    "instances": [
+      "Jetty/9.3.z-SNAPSHOT"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Upflow",
+    "addition_date": "2017-11-02",
+    "instances": [
+      "Upflow/1.0"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Twurly",
+    "addition_date": "2017-11-02",
+    "url": "http://twurly.org",
+    "instances": [
+      "Ruby, Twurly v1.1 (http://twurly.org)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Mastodon",
+    "addition_date": "2017-11-02",
+    "instances": [
+      "http.rb/2.2.2 (Mastodon/1.5.1; +https://example-masto-instance.org/)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "BrandVerity",
+    "addition_date": "2018-02-27",
+    "instances": [
+      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:41.0) Gecko/20100101 Firefox/55.0 BrandVerity/1.0 (http://www.brandverity.com/why-is-brandverity-visiting-me)",
+      "Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11A465 Twitter for iPhone BrandVerity/1.0 (http://www.brandverity.com/why-is-brandverity-visiting-me)"
+    ],
+    "url": "http://www.brandverity.com/why-is-brandverity-visiting-me",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "check_http",
+    "addition_date": "2018-02-09",
+    "instances": [
+      "check_http/v2.2.1 (nagios-plugins 2.2.1)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "EZID",
+    "addition_date": "2018-02-09",
+    "instances": [
+      "EZID (EZID link checker; https://ezid.cdlib.org/)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "\\^LCC",
+    "addition_date": "2018-02-28",
+    "instances": [
+      "LCC (+http://corpora.informatik.uni-leipzig.de/crawler_faq.html)"
+    ],
+    "url": "http://corpora.informatik.uni-leipzig.de/crawler_faq.html",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Buck\\\\/",
+    "addition_date": "2018-03-27",
+    "instances": [
+      "Buck/2.2; (+https://app.hypefactors.com/media-monitoring/about.html)"
+    ],
+    "url": "https://app.hypefactors.com/media-monitoring/about.html",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "MeltwaterNews",
+    "addition_date": "2018-03-27",
+    "instances": [
+      "MeltwaterNews www.meltwater.com"
+    ],
+    "url": "http://www.meltwater.com",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Moreover",
+    "addition_date": "2018-03-27",
+    "instances": [
+      "Mozilla/5.0 Moreover/5.1 (+http://www.moreover.com)"
+    ],
+    "url": "http://www.moreover.com",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "newspaper\\\\/",
+    "addition_date": "2018-03-27",
+    "instances": [
+      "newspaper/0.1.0.7",
+      "newspaper/0.2.5",
+      "newspaper/0.2.6",
+      "newspaper/0.2.8"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "",
+    "addition_date": "2018-03-27",
+    "instances": [
+      "sentry/8.22.0 (https://sentry.io)"
+    ],
+    "url": "https://sentry.io",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "seoscanners",
+    "addition_date": "2018-05-27",
+    "instances": [
+      "Mozilla/5.0 (compatible; seoscanners.net/1; +spider@seoscanners.net)"
+    ],
+    "url": "http://www.seoscanners.net/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Hatena",
+    "addition_date": "2018-05-29",
+    "instances": [
+      "Hatena Antenna/0.3",
+      "Hatena::Russia::Crawler/0.01",
+      "Hatena-Favicon/2 (http://www.hatena.ne.jp/faq/)",
+      "Hatena::Scissors/0.01",
+      "HatenaBookmark/4.0 (Hatena::Bookmark; Analyzer)",
+      "Hatena::Fetcher/0.01 (master) Furl/3.13"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "adscanner",
+    "addition_date": "2018-06-24",
+    "instances": [
+      "Mozilla/5.0 (compatible; adscanner/)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Netvibes",
+    "addition_date": "2018-06-24",
+    "instances": [
+      "Netvibes (crawler/bot; http://www.netvibes.com",
+      "Netvibes (crawler; http://www.netvibes.com)"
+    ],
+    "url": "http://www.netvibes.com",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "BTWebClient",
+    "addition_date": "2018-06-27",
+    "instances": [
+      "BTWebClient/180B(9704)"
+    ],
+    "url": "http://www.utorrent.com/",
+    "description": "\u00b5Torrent BitTorrent Client",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Disqus",
+    "addition_date": "2018-06-27",
+    "instances": [
+      "Disqus/1.0"
+    ],
+    "url": "https://disqus.com/",
+    "description": "validate and quality check pages.",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Feedly",
+    "addition_date": "2018-06-27",
+    "instances": [
+      "Feedly/1.0 (+http://www.feedly.com/fetcher.html; like FeedFetcher-Google)",
+      "FeedlyBot/1.0 (http://feedly.com)"
+    ],
+    "url": "https://www.feedly.com/fetcher.html",
+    "description": "Feedly Fetcher is how Feedly grabs RSS or Atom feeds when users choose to add them to their Feedly or any of the other applications built on top of the feedly cloud.",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Fetch\\\\/",
+    "addition_date": "2018-06-27",
+    "instances": [
+      "Fetch/2.0a (CMS Detection/Web/SEO analysis tool, see http://guess.scritch.org)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Fever",
+    "addition_date": "2018-06-27",
+    "instances": [
+      "Fever/1.38 (Feed Parser; http://feedafever.com; Allow like Gecko)"
+    ],
+    "url": "http://feedafever.com",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Flamingo_SearchEngine",
+    "addition_date": "2018-06-27",
+    "instances": [
+      "Flamingo_SearchEngine (+http://www.flamingosearch.com/bot)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "FlipboardProxy",
+    "addition_date": "2018-06-27",
+    "instances": [
+      "Mozilla/5.0 (compatible; FlipboardProxy/1.1; +http://flipboard.com/browserproxy)",
+      "Mozilla/5.0 (compatible; FlipboardProxy/1.2; +http://flipboard.com/browserproxy)",
+      "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6 (FlipboardProxy/1.1; +http://flipboard.com/browserproxy)",
+      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:28.0) Gecko/20100101 Firefox/28.0 (FlipboardProxy/1.1; +http://flipboard.com/browserproxy)",
+      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:49.0) Gecko/20100101 Firefox/49.0 (FlipboardProxy/1.2; +http://flipboard.com/browserproxy)"
+    ],
+    "url": "https://about.flipboard.com/browserproxy/",
+    "description": "a proxy service to fetch, validate, and prepare certain elements of websites for presentation through the Flipboard Application",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "G2\\sWeb\\sServices",
+    "addition_date": "2019-03-01",
+    "instances": [
+      "G2 Web Services/1.0 (built with StormCrawler Archetype 1.8; https://www.g2webservices.com/; developers@g2llc.com)"
+    ],
+    "url": "https://www.g2webservices.com/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "vkShare",
+    "addition_date": "2018-07-02",
+    "instances": [
+      "Mozilla/5.0 (compatible; vkShare; +http://vk.com/dev/Share)"
+    ],
+    "url": "http://vk.com/dev/Share",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Siteimprove\\.com",
+    "addition_date": "2018-06-22",
+    "instances": [
+      "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0) LinkCheck by Siteimprove.com",
+      "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.0) Match by Siteimprove.com",
+      "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0) SiteCheck-sitecrawl by Siteimprove.com",
+      "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.0) LinkCheck by Siteimprove.com"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "DareBoost",
+    "addition_date": "2018-07-07",
+    "instances": [
+      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36 DareBoost"
+    ],
+    "url": "https://www.dareboost.com/",
+    "description": "Bot to test, Analyze and Optimize website",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Miniflux\\\\/",
+    "addition_date": "2018-07-07",
+    "instances": [
+      "Mozilla/5.0 (compatible; Miniflux/2.0.x-dev; +https://miniflux.net)",
+      "Mozilla/5.0 (compatible; Miniflux/2.0.3; +https://miniflux.net)",
+      "Mozilla/5.0 (compatible; Miniflux/2.0.7; +https://miniflux.net)",
+      "Mozilla/5.0 (compatible; Miniflux/2.0.10; +https://miniflux.net)",
+      "Mozilla/5.0 (compatibl$; Miniflux/2.0.x-dev; +https://miniflux.app)",
+      "Mozilla/5.0 (compatible; Miniflux/2.0.11; +https://miniflux.app)",
+      "Mozilla/5.0 (compatible; Miniflux/2.0.12; +https://miniflux.app)",
+      "Mozilla/5.0 (compatible; Miniflux/ae1dc1a; +https://miniflux.app)",
+      "Mozilla/5.0 (compatible; Miniflux/3b6e44c; +https://miniflux.app)"
+    ],
+    "url": "https://miniflux.net",
+    "description": "Miniflux is a minimalist and opinionated feed reader.",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Feedspot",
+    "addition_date": "2018-07-07",
+    "instances": [
+      "Mozilla/5.0 (compatible; Feedspotbot/1.0; +http://www.feedspot.com/fs/bot)",
+      "Mozilla/5.0 (compatible; Feedspot/1.0 (+https://www.feedspot.com/fs/fetcher; like FeedFetcher-Google)"
+    ],
+    "url": "http://www.feedspot.com/fs/bot",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "SEOkicks",
+    "addition_date": "2018-08-22",
+    "instances": [
+      "Mozilla/5.0 (compatible; SEOkicks; +https://www.seokicks.de/robot.html)"
+    ],
+    "url": "https://www.seokicks.de/robot.html",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "tracemyfile",
+    "addition_date": "2018-08-23",
+    "instances": [
+      "Mozilla/5.0 (compatible; tracemyfile/1.0; +bot@tracemyfile.com)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "zgrab",
+    "addition_date": "2018-08-30",
+    "instances": [
+      "Mozilla/5.0 zgrab/0.x"
+    ],
+    "url": "https://zmap.io/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "PR-CY\\.RU",
+    "addition_date": "2018-08-30",
+    "instances": [
+      "Mozilla/5.0 (compatible; PR-CY.RU; + https://a.pr-cy.ru)"
+    ],
+    "url": "https://a.pr-cy.ru/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Datafeedwatch",
+    "addition_date": "2018-09-05",
+    "instances": [
+      "Datafeedwatch/2.1.x"
+    ],
+    "url": "https://www.datafeedwatch.com/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "axios",
+    "addition_date": "2018-09-06",
+    "instances": [
+      "axios/0.18.0",
+      "axios/0.19.0"
+    ],
+    "url": "https://github.com/axios/axios",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Pulsepoint",
+    "addition_date": "2018-09-24",
+    "instances": [
+      "Pulsepoint XT3 web scraper"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "CloudFlare-AlwaysOnline",
+    "addition_date": "2018-09-27",
+    "instances": [
+      "Mozilla/5.0 (compatible; CloudFlare-AlwaysOnline/1.0; +http://www.cloudflare.com/always-online) AppleWebKit/534.34",
+      "Mozilla/5.0 (compatible; CloudFlare-AlwaysOnline/1.0; +https://www.cloudflare.com/always-online) AppleWebKit/534.34"
+    ],
+    "url": "https://www.cloudflare.com/always-online/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "WordupInfoSearch",
+    "addition_date": "2018-10-07",
+    "instances": [
+      "WordupInfoSearch/1.0"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "WebDataStats",
+    "addition_date": "2018-10-08",
+    "instances": [
+      "Mozilla/5.0 (compatible; WebDataStats/1.0 ; +https://webdatastats.com/policy.html)"
+    ],
+    "url": "https://webdatastats.com/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "HttpUrlConnection",
+    "addition_date": "2018-10-08",
+    "instances": [
+      "Jersey/2.25.1 (HttpUrlConnection 1.8.0_141)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "outbrain",
+    "addition_date": "2018-10-14",
+    "instances": [
+      "Mozilla/5.0 (Java) outbrain"
+    ],
+    "url": "https://www.outbrain.com/help/advertisers/invalid-url/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "W3C-mobileOK",
+    "addition_date": "2018-10-14",
+    "instances": [
+      "W3C-mobileOK/DDC-1.0"
+    ],
+    "url": "https://validator.w3.org/services",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "W3C_I18n-Checker",
+    "addition_date": "2018-10-14",
+    "instances": [
+      "W3C_I18n-Checker/1.0"
+    ],
+    "url": "https://validator.w3.org/services",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "W3C_Unicorn",
+    "addition_date": "2018-10-14",
+    "instances": [
+      "W3C_Unicorn/1.0"
+    ],
+    "url": "https://validator.w3.org/services",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Blackboard",
+    "addition_date": "2018-10-28",
+    "instances": [
+      "Blackboard Safeassign"
+    ],
+    "url": "https://help.blackboard.com/Learn/Administrator/Hosting/Tools_Management/SafeAssign",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "BazQux",
+    "addition_date": "2018-10-23",
+    "instances": [
+      "Mozilla/5.0 (compatible; BazQux/2.4; +https://bazqux.com/fetcher; 1 subscribers)"
+    ],
+    "url": "https://bazqux.com/fetcher",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Twingly",
+    "addition_date": "2018-10-23",
+    "instances": [
+      "Mozilla/5.0 (compatible; Twingly Recon; twingly.com)"
+    ],
+    "url": "https://twingly.com",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Rivva",
+    "addition_date": "2018-10-23",
+    "instances": [
+      "Mozilla/5.0 (compatible; Rivva; http://rivva.de)"
+    ],
+    "url": "http://rivva.de",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Dataprovider\\.com",
+    "addition_date": "2018-11-24",
+    "instances": [
+      "Mozilla/5.0 (compatible; Dataprovider.com)"
+    ],
+    "url": "https://www.dataprovider.com/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "GroupHigh\\\\/",
+    "addition_date": "2018-11-24",
+    "instances": [
+      "Mozilla/5.0 (compatible; GroupHigh/1.0; +http://www.grouphigh.com/"
+    ],
+    "url": "http://www.grouphigh.com/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "theoldreader\\.com",
+    "addition_date": "2018-12-02",
+    "instances": [
+      "Mozilla/5.0 (compatible; theoldreader.com)"
+    ],
+    "url": "https://www.theoldreader.com/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "AnyEvent",
+    "addition_date": "2018-12-07",
+    "instances": [
+      "Mozilla/5.0 (compatible; U; AnyEvent-HTTP/2.24; +http://software.schmorp.de/pkg/AnyEvent)"
+    ],
+    "url": "http://software.schmorp.de/pkg/AnyEvent.html",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Nmap\\sScripting\\sEngine",
+    "addition_date": "2019-02-04",
+    "instances": [
+      "Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)"
+    ],
+    "url": "https://nmap.org/book/nse.html",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "2ip\\.ru",
+    "addition_date": "2019-02-12",
+    "instances": [
+      "2ip.ru CMS Detector (https://2ip.ru/cms/)"
+    ],
+    "url": "https://2ip.ru/cms/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Clickagy",
+    "addition_date": "2019-02-19",
+    "instances": [
+      "Clickagy Intelligence Bot v2"
+    ],
+    "url": "https://www.clickagy.com",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "HubSpot",
+    "addition_date": "2019-04-15",
+    "instances": [
+      "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36 HubSpot Webcrawler - web-crawlers@hubspot.com",
+      "Mozilla/5.0 (X11; Linux x86_64; HubSpot Single Page link check; web-crawlers+links@hubspot.com) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36",
+      "Mozilla/5.0 (compatible; HubSpot Crawler; web-crawlers@hubspot.com)",
+      "HubSpot Connect 2.0 (http://dev.hubspot.com/) - BizOpsCompanies-Tq2-BizCoDomainValidationAudit"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Chrome-Lighthouse",
+    "addition_date": "2019-03-15",
+    "instances": [
+      "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5 Build/MRA58N) AppleWebKit/537.36(KHTML, like Gecko) Chrome/69.0.3464.0 Mobile Safari/537.36 Chrome-Lighthouse",
+      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/69.0.3464.0 Safari/537.36 Chrome-Lighthouse",
+      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3694.0 Safari/537.36 Chrome-Lighthouse",
+      "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3694.0 Mobile Safari/537.36 Chrome-Lighthouse"
+    ],
+    "url": "https://developers.google.com/speed/pagespeed/insights",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "CheckMarkNetwork\\\\/",
+    "addition_date": "2019-06-30",
+    "instances": [
+      "CheckMarkNetwork/1.0 (+http://www.checkmarknetwork.com/spider.html)"
+    ],
+    "url": "https://www.checkmarknetwork.com/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "www\\\\\\.uptime\\\\\\.com",
+    "addition_date": "2019-07-21",
+    "instances": [
+      "Mozilla/5.0 (compatible; Uptimebot/1.0; +http://www.uptime.com/uptimebot)"
+    ],
+    "url": "http://www.uptime.com/uptimebot",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "MixnodeCache\\\\/",
+    "addition_date": "2019-08-04",
+    "instances": [
+      "MixnodeCache/1.8(+https://cache.mixnode.com/)"
+    ],
+    "url": "https://cache.mixnode.com/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "\\^curl",
+    "addition_date": "2019-08-15",
+    "instances": [
+      "curl",
+      "curl/7.29.0",
+      "curl/7.47.0",
+      "curl/7.54.0",
+      "curl/7.55.1",
+      "curl/7.64.0",
+      "curl/7.64.1",
+      "curl/7.65.3"
+    ],
+    "url": "https://curl.haxx.se/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "SimpleScraper",
+    "addition_date": "2019-08-16",
+    "instances": [
+      "Mozilla/5.0 (compatible; SimpleScraper)"
+    ],
+    "url": "https://github.com/ramonkcom/simple-scraper/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "fedoraplanet",
+    "addition_date": "2019-09-28",
+    "instances": [
+      "venus/fedoraplanet"
+    ],
+    "url": "http://fedoraplanet.org/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Friendica",
+    "addition_date": "2019-09-28",
+    "instances": [
+      "Friendica 'The Tazmans Flax-lily' 2019.01-1293; https://hoyer.xyz"
+    ],
+    "url": "https://hoyer.xyz",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "NextCloud",
+    "addition_date": "2019-09-30",
+    "instances": [
+      "NextCloud-News/1.0"
+    ],
+    "url": "https://nextcloud.com/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Datanyze",
+    "addition_date": "2019-11-17",
+    "instances": [
+      "Mozilla/5.0 (X11; Datanyze; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+    ],
+    "url": "https://www.datanyze.com/dnyzbot/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "TrendsmapResolver",
+    "addition_date": "2020-02-24",
+    "instances": [
+      "Mozilla/5.0 (compatible; TrendsmapResolver/0.1)"
+    ],
+    "url": "https://www.trendsmap.com/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "tweetedtimes",
+    "addition_date": "2020-02-24",
+    "instances": [
+      "Mozilla/5.0 (compatible; +http://tweetedtimes.com)"
+    ],
+    "url": "https://tweetedtimes.com/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Gwene",
+    "addition_date": "2020-02-24",
+    "instances": [
+      "Gwene/1.0 (The gwene.org rss-to-news gateway) Googlebot"
+    ],
+    "url": "https://gwene.org",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "SimplePie",
+    "addition_date": "2020-02-24",
+    "instances": [
+      "SimplePie/1.3-dev (Feed Parser; http://simplepie.org; Allow like Gecko)"
+    ],
+    "url": "http://simplepie.org",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "SearchAtlas",
+    "addition_date": "2020-03-02",
+    "instances": [
+      "SearchAtlas.com SEO Crawler"
+    ],
+    "url": "http://SearchAtlas.com",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Superfeedr",
+    "addition_date": "2020-03-02",
+    "instances": [
+      "Superfeedr bot/2.0 http://superfeedr.com - Make your feeds realtime: get in touch - feed-id:1162088860"
+    ],
+    "url": "http://superfeedr.com",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Domains\\sProject\\\\/",
+    "addition_date": "2020-03-16",
+    "instances": [
+      "Mozilla/5.0 (compatible; Domains Project/1.0.3; +https://github.com/tb0hdan/domains)"
+    ],
+    "url": "https://github.com/tb0hdan/domains",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Pandalytics",
+    "addition_date": "2020-03-16",
+    "instances": [
+      "Pandalytics/1.0 (https://domainsbot.com/pandalytics/)"
+    ],
+    "url": "https://domainsbot.com/pandalytics/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "PagePeeker\\\\/",
+    "addition_date": "2020-03-16",
+    "instances": [
+      "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36 (compatible; PagePeeker/3.0; +https://pagepeeker.com/robots/)"
+    ],
+    "url": "https://pagepeeker.com/robots/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Vigil\\\\/",
+    "addition_date": "2020-03-16",
+    "instances": [
+      "Mozilla/5.0 (compatible; Vigil/1.0; +http://vigil-app.com/bot.html)"
+    ],
+    "url": "http://vigil-app.com/bot.html",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "seewithkids",
+    "addition_date": "2020-03-16",
+    "instances": [
+      "http://seewithkids.com/bot"
+    ],
+    "url": "http://seewithkids.com/bot",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "BlogTraffic\\\\/\\\\d\\\\\\.\\\\d\\+\\sFeed-Fetcher",
+    "addition_date": "2020-03-16",
+    "instances": [
+      "Mozilla/5.0 (compatible; BlogTraffic/1.4 Feed-Fetcher; +http://www.blogtraffic.de/rss-bot.html)"
+    ],
+    "url": "http://www.blogtraffic.de/rss-bot.html",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Cincraw",
+    "addition_date": "2020-03-16",
+    "instances": [
+      "Mozilla/5.0 (compatible; Cincraw/1.0; +http://cincrawdata.net/bot/)"
+    ],
+    "url": "http://cincrawdata.net/bot/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "\\^PHP-Curl-Class",
+    "addition_date": "2020-12-10",
+    "instances": [
+      "PHP-Curl-Class/4.13.0 (+https://github.com/php-curl-class/php-curl-class) PHP/7.2.24 curl/7.61.1",
+      "PHP-Curl-Class/4.13.0 (+https://github.com/php-curl-class/php-curl-class) PHP/7.3.19 curl/7.66.0",
+      "PHP-Curl-Class/4.13.0 (+https://github.com/php-curl-class/php-curl-class) PHP/7.3.23 curl/7.66.0",
+      "PHP-Curl-Class/4.13.0 (+https://github.com/php-curl-class/php-curl-class) PHP/7.4.7 curl/7.69.1",
+      "PHP-Curl-Class/4.13.0 (+https://github.com/php-curl-class/php-curl-class) PHP/7.4.9 curl/7.69.1",
+      "PHP-Curl-Class/4.13.0 (+https://github.com/php-curl-class/php-curl-class) PHP/7.4.10 curl/7.69.1",
+      "PHP-Curl-Class/4.13.0 (+https://github.com/php-curl-class/php-curl-class) PHP/7.4.11 curl/7.69.1"
+    ],
+    "url": "https://github.com/php-curl-class/php-curl-class",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Viber",
+    "addition_date": "2021-04-27",
+    "instances": [
+      "Viber"
+    ],
+    "url": "https://www.viber.com/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "evc-batch",
+    "addition_date": "2021-06-07",
+    "instances": [
+      "Mozilla/5.0 (compatible; evc-batch/2.0)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "virustotal",
+    "addition_date": "2021-09-22",
+    "instances": [
+      "Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US) AppEngine-Google; (+http://code.google.com/appengine; appid: s~virustotalcloud)",
+      "AppEngine-Google; (+http://code.google.com/appengine; appid: s~virustotalcloud)"
+    ],
+    "url": "https://www.virustotal.com/gui/home/url",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "seostar\\\\\\.co",
+    "addition_date": "2022-08-04",
+    "url": "https://seostar.co/robot/",
+    "instances": [
+      "Mozilla/5.0 (compatible; Adsbot/3.1; +https://seostar.co/robot/)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Uptime-Kuma",
+    "addition_date": "2022-10-17",
+    "url": "https://uptime.kuma.pet/",
+    "instances": [
+      "Uptime-Kuma/1.18.0"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Snap\\sURL\\sPreview\\sService",
+    "addition_date": "2022-11-13",
+    "url": "https://snap.com/",
+    "instances": [
+      "Snap URL Preview Service; bot; snapchat; https://developers.snap.com/robots"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "RuxitSynthetic",
+    "addition_date": "2023-02-16",
+    "url": "https://www.dynatrace.com/support/help/platform-modules/digital-experience/synthetic-monitoring/browser-monitors/configure-browser-monitors#expand--default-user-agent",
+    "instances": [
+      "RuxitSynthetic/1.0"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Valve\\\\/Steam",
+    "addition_date": "2023-05-24",
+    "instances": [
+      "Valve/Steam HTTP Client 1.0 (SteamChatURLLookup)"
+    ],
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "woorankreview\\\\/",
+    "addition_date": "2023-08-16",
+    "instances": [
+      "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 (compatible; woorankreview/2.0; +https://www.woorank.com/)",
+      "Mozilla/5.0 (compatible; woorankreview/2.0; +https://www.woorank.com/)"
+    ],
+    "url": "https://www.woorank.com/",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "search\\\\\\.marginalia\\\\\\.nu",
+    "addition_date": "2023-09-08",
+    "instances": [
+      "search.marginalia.nu"
+    ],
+    "url": "https://search.marginalia.nu",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "SEOlizer",
+    "addition_date": "2023-09-08",
+    "instances": [
+      "SEOlizer/1.1 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13 (+https://www.seolizer.de/bot.html)"
+    ],
+    "url": "https://www.seolizer.de/bot.html",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Synapse",
+    "addition_date": "2023-09-08",
+    "instances": [
+      "Synapse (bot; +https://github.com/matrix-org/synapse)"
+    ],
+    "url": "https://github.com/matrix-org/synapse",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "deepnoc",
+    "addition_date": "2023-09-08",
+    "instances": [
+      "deepnoc - https://deepnoc.com/bot"
+    ],
+    "url": "https://deepnoc.com/bot",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "hypestat",
+    "addition_date": "2023-09-08",
+    "instances": [
+      "Mozilla/5.0 (compatible; hypestat/1.0; +https://hypestat.com/bot)"
+    ],
+    "url": "https://hypestat.com/bot",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "sempi\\.tech",
+    "addition_date": "2023-09-08",
+    "instances": [
+      "Mozilla/5.0 (compatible; Semanticbot/1.0; +http://sempi.tech/bot.html)"
+    ],
+    "url": "http://sempi.tech/bot.html",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "Iframely",
+    "addition_date": "2023-09-08",
+    "instances": [
+      "Iframely/1.3.1 (+https://iframely.com/docs/about) Atlassian"
+    ],
+    "url": "https://iframely.com/docs/about",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "node-fetch",
+    "addition_date": "2023-09-08",
+    "instances": [
+      "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+    ],
+    "url": "https://github.com/bitinn/node-fetch",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "lkxscan",
+    "addition_date": "2023-09-08",
+    "instances": [
+      "lkxscan/v0.1.0 (+https://leakix.net) l9explore/v1.0.0 (+https://github.com/LeakIX/l9explore)"
+    ],
+    "url": "https://github.com/LeakIX/l9explore",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "OpenGraphCheck",
+    "addition_date": "2023-09-08",
+    "instances": [
+      "OpenGraphCheck/2.1 (+https://opengraphcheck.com)"
+    ],
+    "url": "https://opengraphcheck.com",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "NewsBlur",
+    "addition_date": "2023-09-08",
+    "instances": [
+      "NewsBlur Feed Fetcher - 1 subscriber - http://www.newsblur.com/site/0000000/webpage (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15)"
+    ],
+    "url": "http://www.newsblur.com",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "inoreader",
+    "addition_date": "2023-09-08",
+    "instances": [
+      "Mozilla/5.0 (compatible; inoreader.com; 1 subscribers)"
+    ],
+    "url": "http://inoreader.com",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "NetSystemsResearch",
+    "addition_date": "2023-09-08",
+    "instances": [
+      "NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com"
+    ],
+    "url": "http://netsystemsresearch.com",
+    "last_changed": "2024-01-10"
+  },
+  {
+    "pattern": "PageThing",
+    "addition_date": "2023-09-08",
+    "instances": [
+      "PageThing http://pagething.com curl www"
+    ],
+    "url": "http://pagething.com",
+    "last_changed": "2024-01-10"
   }
 ]
