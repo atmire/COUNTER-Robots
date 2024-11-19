@@ -525,6 +525,12 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "GuzzleHttp",
+    "last_changed": "2023-11-23",
+    "description": "Guzzle is a PHP HTTP client that makes it easy to send HTTP requests and trivial to integrate with web services.",
+    "url": "https://docs.guzzlephp.org/en/stable/"
+  },
+  {
     "pattern": "gvfs\\/",
     "last_changed": "2017-08-08"
   },
@@ -882,6 +888,12 @@
     "url": "https://github.com/codelucas/newspaper"
   },
   {
+    "pattern": "newspaperjs",
+    "last_changed": "2023-11-23",
+    "description": "JavaScript news extraction and scraping.",
+    "url": "https://github.com/flickz/newspaperjs"
+  },
+  {
     "pattern": "ng\\/2\\.",
     "last_changed": "2017-08-08"
   },
@@ -936,6 +948,12 @@
   {
     "pattern": "OurBrowser",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "Owler@ows\\.eu",
+    "last_changed": "2023-11-23",
+    "description": "OpenWeb Search Crawler",
+    "url": "https://openwebsearch.eu/owler/"
   },
   {
     "pattern": "panscient",
